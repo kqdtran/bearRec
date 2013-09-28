@@ -7,10 +7,10 @@ I toned down a lot of features from the original author and retained only what I
 ### Usage  
 
 - Create your virtualenv
-- `git clone https://github.com/sloria/flask-template PROJECTNAME`
+- `git clone https://github.com/kqdtran/flask-template PROJECTNAME`
 - Rename the folder to your project name.
 - `cd PROJECTNAME`
-- `pip install -r requirements/dev.txt`
+- `pip install -r requirements.txt`
 - `python run.py`
 
 ### Running tests
