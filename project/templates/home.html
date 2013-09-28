@@ -1,6 +1,58 @@
 {% extends "_layouts/base.html" %}
 {% block content %}
-<div class="row">
-  Hello World!
-</div><!-- end row -->
+<div class="container">
+  <div class="row">
+    <div class="span12">
+      <h1 class="margin-base-vertical">Course Recommender</h1>
+      <div class="text-center">
+        <div class="spacing"></div>
+        <div class="ui-widget">
+          <label for="searchTermBox">Enter terms: </label>
+          <input type="text" class="span9" id="searchTermBox" />
+          <input type="button" class="btn btn-default" id="findTerm" value="Search" />
+        </div><!-- end ui-widget -->
+      </div><!-- end text-center -->
+    </div><!-- end span12 -->
+  </div><!-- end row -->
+
+  <div class="spacing"></div>
+
+  <div class="row">
+    <div class="span12">
+      <div class="panel">
+        <div class="text-panel" id="termPanel">
+          
+        </div><!-- end text-panel -->
+      </div><!-- end term search panel -->
+    </div><!-- end span12 -->
+  </div><!-- end row -->
+
+  <div class="spacing"></div>
+
+  <div class="row">
+    <div class="span12">
+      <div class="text-center">
+        <div class="spacing"></div>
+        <div class="ui-widget">
+          <label for="searchCourseBox">Search related courses: </label>
+          <input id="searchCourseBox" />
+          <input type="button" class="btn btn-default" id="findCourse" value="Search" />
+        </div>
+      </div><!-- end text-center -->
+    </div><!-- end span12 -->
+  </div><!-- end row -->
+
+  <div class="spacing"></div>
+
+  <div class="row">
+    <div class="span12">
+      <div class="panel">
+        <div class="text-panel" id="coursePanel">
+          
+        </div><!-- end course search panel -->
+      </div><!-- end panel -->
+    </div><!-- end span12 -->
+  </div><!-- end row -->
+  
+</div><!-- end container -->
 {% endblock %}

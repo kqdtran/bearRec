@@ -30,13 +30,26 @@ h3 {
   margin: 20px 0;
 }
 
+.text-panel table {
+  font-size: 16px;
+}
+
 footer {
   font-size: 80%;
-  text-align: right;
   letter-spacing: 0;
   padding-right: 15px;
   color: #777;
   font-family: "Helvetica", sans-serif;
+}
+
+.footer-right {
+  text-align: right;
+  float: right;
+}
+
+.footer-left {
+  text-align: left;
+  float: left;
 }
 
 .btn {
@@ -63,4 +76,18 @@ footer {
   font-size: 12px;
   line-height: 1.5;
   border-radius: 3px;
+}
+
+.info-small {
+  font-size: 16px;
+  text-align: center;
+  font-style: italic;
+}
+
+.highlight { 
+  background-color: yellow 
+}
+
+.spacing {
+  margin-top: 40px;
 }

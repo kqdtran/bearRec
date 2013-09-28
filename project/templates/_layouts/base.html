@@ -7,7 +7,7 @@
 <head>
   <meta charset="utf-8">
 
-  <title>{% block page_title %}My Sample App{% endblock %}</title>
+  <title>{% block page_title %}Berkeley Course Recommender{% endblock %}</title>
   <meta name="description" content="{% block meta_description %}{% endblock %}">
   <meta name="author" content="{% block meta_author %}{% endblock %}">
 
@@ -15,7 +15,7 @@
   <meta name="viewport" content="width=device-width">
 
   <link rel="stylesheet" href="{{ url_for('static', filename='libs/bootstrap/css/bootstrap.min.css') }}">
-
+  <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
   {% block css %}{% endblock %}
 
@@ -58,14 +58,50 @@
 <script src="{{ url_for('static', filename='libs/jquery/jquery-2.0.3.min.js') }}"></script>
 <script src="{{ url_for('static', filename='libs/bootstrap/js/bootstrap.min.js') }}"></script>
 
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
 <script src="{{ url_for('static', filename='js/plugins.js') }}"></script>
 <script src="{{ url_for('static', filename='js/script.js') }}"></script>
-
 <!-- end scripts -->
+
+<!-- Autocomplete -->
+<script>
+  $(function() {
+    var availableTags = [
+      "ActionScript",
+      "AppleScript",
+      "Asp",
+      "BASIC",
+      "C",
+      "C++",
+      "Clojure",
+      "COBOL",
+      "ColdFusion",
+      "Erlang",
+      "Fortran",
+      "Groovy",
+      "Haskell",
+      "Java",
+      "JavaScript",
+      "Lisp",
+      "Perl",
+      "PHP",
+      "Python",
+      "Ruby",
+      "Scala",
+      "Scheme"
+    ];
+    $("#searchCourseBox").autocomplete({
+      source: availableTags
+    });
+  });
+</script>
+<!-- End Autocomplete -->
 
 <!-- Google Analytics -->
 <script>  
 </script>
+<!-- End Google Analytics -->
+
 {% endblock %}
 </body>
 </html>
