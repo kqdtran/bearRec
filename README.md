@@ -1,10 +1,18 @@
-rating_prediction
-=================
+# Flask Project Template
+A simple flask project template with Bootstrap 3, jQuery, and a full testing suite.
+ 
+Loosely based of [this Django project template](https://github.com/sloria/django-base-template). 
+I toned down a lot of features from the original author and retained only what I usually need.
 
-Guess a customer's rating from their review    
+### Usage  
 
-[Visit the app](https://rating-pred.herokuapp.com/)   
+- Create your virtualenv
+- `git clone https://github.com/sloria/flask-template PROJECTNAME`
+- Rename the folder to your project name.
+- `cd PROJECTNAME`
+- `pip install -r requirements/dev.txt`
+- `python run.py`
 
-[I train about 150,000 reviews](http://i.imgur.com/ki8VQbu.png), and based on my test on the remaining data, this NB Classifier is correct 60-70% of the time, with quite a few false positives, i.e. terrible ratings that get 5 stars.  
-
-It will be updated as I learn more about Classifier. Not bad for my first attempt at building an ML-related app (Insert Obama's meme here). =D  
+### Running tests
+- Run tests using  `fab test`
+- To enter "watch" mode,  `fab watchmedo`   
