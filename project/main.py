@@ -6,16 +6,8 @@ This file is also used to run the app:
     python main.py
 """
 import os
-from .app import app, db
-
-from .auth import *
-from .admin import admin
-from .api import api
-from .models import *
+from .app import app
 from .views import *
-
-admin.setup()
-api.setup()
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))

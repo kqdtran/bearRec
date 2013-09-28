@@ -5,9 +5,6 @@ from flask import render_template  # ...etc , redirect, request, url_for
 from flask.ext.classy import FlaskView
 
 from app import app
-from auth import auth
-from models import User
-
 
 class BaseView(FlaskView):
     '''Basic views, such as the home and about page.'''

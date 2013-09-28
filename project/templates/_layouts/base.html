@@ -7,7 +7,7 @@
 <head>
   <meta charset="utf-8">
 
-  <title>{% block page_title %}"Your Site"{% endblock %}</title>
+  <title>{% block page_title %}My Sample App{% endblock %}</title>
   <meta name="description" content="{% block meta_description %}{% endblock %}">
   <meta name="author" content="{% block meta_author %}{% endblock %}">
 
@@ -15,7 +15,6 @@
   <meta name="viewport" content="width=device-width">
 
   <link rel="stylesheet" href="{{ url_for('static', filename='libs/bootstrap/css/bootstrap.min.css') }}">
-  <link rel="stylesheet" href="{{ url_for('static', filename='libs/bootstrap/css/bootstrap-responsive.min.css') }}">
 
   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
   {% block css %}{% endblock %}
@@ -24,8 +23,6 @@
 <body class="{% block body_class %}{% endblock %}">
 </div><!-- /.container -->
 {% block body %}
-
-{% include "_layouts/nav.html" %}
 
 <header>{% block header %}{% endblock %}</header>
 
@@ -52,6 +49,8 @@
 
 </div><!-- end container -->
 
+<hr>
+
 {% include "_layouts/footer.html" %}
 
 
@@ -59,17 +58,13 @@
 <script src="{{ url_for('static', filename='libs/jquery/jquery-2.0.3.min.js') }}"></script>
 <script src="{{ url_for('static', filename='libs/bootstrap/js/bootstrap.min.js') }}"></script>
 
-
 <script src="{{ url_for('static', filename='js/plugins.js') }}"></script>
 <script src="{{ url_for('static', filename='js/script.js') }}"></script>
 
 <!-- end scripts -->
-<!-- Google Analytics snippet. Change UA-XXXXXX-X to your site's ID -->
-<script>
-    var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
-    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-    s.parentNode.insertBefore(g,s)}(document,'script'));
+
+<!-- Google Analytics -->
+<script>  
 </script>
 {% endblock %}
 </body>

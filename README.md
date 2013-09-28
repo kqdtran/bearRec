@@ -1,45 +1,10 @@
-# Flask Project Template
-A simple flask project template with Bootstrap, a full testing suite, Peewee ORM, and Coffeescript support.
- 
-Loosely based of [this Django project template](https://github.com/sloria/django-base-template).
+rating_prediction
+=================
 
-## How to use this template 
+Guess a customer's rating from their review    
 
-- Create your virtualenv
-- `git clone https://github.com/sloria/flask-template PROJECTNAME`
-- Rename the folder to your project name.
-- `cd PROJECTNAME`
-- `pip install -r requirements/dev.txt`
-- `python run.py`
+[Visit the app](https://rating-pred.herokuapp.com/)   
 
-Features:
+[I train about 150,000 reviews](http://i.imgur.com/ki8VQbu.png), and based on my test on the remaining data, this NB Classifier is correct 60-70% of the time, with quite a few false positives, i.e. terrible ratings that get 5 stars.  
 
-Class-based views:
-- [Flask-Classy](http://pythonhosted.org/Flask-Classy/)
-
-ORM:
-
-- [Peewee](http://peewee.readthedocs.org/en/latest/)
-- [flask-peewee](http://flask-peewee.readthedocs.org/en/latest/)
-    - Also provides admin, authentication, REST API
-
-Testing:
-
-- nose
-- watchdog
-- Webtest
-
-Deployment:
-- gunicorn
-
-### Running tests
-- Run tests using  `fab test`
-- To enter "watch" mode,  `fab watchmedo`
-
-## Coffeescript support 
-- Run `fab coffee`
-- Write your Coffeescript in project/static/coffee
-- That's it!
-
-## License
-Licensed under the MIT license. See the bundled LICENSE file for more details.
+It will be updated as I learn more about Classifier. Not bad for my first attempt at building an ML-related app (Insert Obama's meme here). =D  

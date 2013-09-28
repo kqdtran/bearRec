@@ -2,66 +2,65 @@
    App specific CSS file.
    ========================================================================== */
 
-/* universal */
-
-html {
-  overflow-y: scroll;
-}
-
 body {
-  padding-top: 60px;
+  padding-top: 20px;
+  font-size: 20px;
+  font-family: "Georgia", serif;
 }
 
-section {
-  overflow: auto;
+h1, h2, h3, h4 {
+  font-family: "Garamond", "Georgia", serif;
+  font-weight: 400;
 }
 
-textarea {
-  resize: vertical;
-}
-
-.center {
+h1 {
+  font-size: 40px;
   text-align: center;
 }
 
-.center h1 {
-    margin-bottom: 10px;
+h3 {
+  font-size: 20px;
 }
 
-/* footer */
+.form-control {
+  font-size: 16px;
+}
+
+.margin-base-vertical {
+  margin: 20px 0;
+}
 
 footer {
-  margin-top: 45px;
-  padding-top: 5px;
-  border-top: 1px solid #eaeaea;
-  color: #999999;
+  font-size: 80%;
+  text-align: right;
+  letter-spacing: 0;
+  padding-right: 15px;
+  color: #777;
+  font-family: "Helvetica", sans-serif;
 }
 
-footer a {
-  color: #999999;
-}  
-
-footer p {
-  float: right;
-  margin-right: 25px;
+.btn {
+  font-family: "Helvetica", sans-serif;
 }
 
-footer ul {
-  list-style: none;
+.btn-default {
+  color: #333333;
+  background-color: #ffffff;
+  border-color: #cccccc;
 }
 
-footer ul li {
-  float: left;
-  margin-left: 10px;
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default.active {
+  color: #333333;
+  background-color: #ebebeb;
+  border-color: #adadad;
 }
 
-footer .company {
-  float: left;
-  margin-left: 25px;
-}
-
-footer .footer-nav {
-  float: right;
-  margin-right: 25px;
-  list
+.btn-sm, .btn-xs {
+  padding: 5px 10px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 3px;
 }

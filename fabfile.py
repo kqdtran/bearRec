@@ -14,12 +14,12 @@ from fabric.operations import _prefix_commands, _prefix_env_vars
 #from fabric.context_managers import cd, lcd, settings, hide
 
 # CHANGEME
-env.hosts = ['user@PROJECTNAME.example.com']
-env.code_dir = '/srv/www/PROJECTNAME'
-env.project_dir = '/srv/www/PROJECTNAME/PROJECTNAME'
-env.static_root = '/srv/www/PROJECTNAME/static/'
-env.virtualenv = '/srv/www/PROJECTNAME/.virtualenv'
-env.code_repo = 'git@github.com:user/PROJECTNAME.git'
+env.hosts = ['khoatran@berkeley.edu']
+env.code_dir = '/home/khoatran/work/text-sentiment/'
+env.project_dir = '/home/khoatran/work/text-sentiment/project/'
+env.static_root = '/home/khoatran/work/text-sentiment/project/static/'
+env.virtualenv = '/home/khoatran/work/text-sentiment/venv/'
+env.code_repo = 'git@github.com:kqdtran/text-sentiment.git'
 
 # Python version
 PYTHON_BIN = "python"
