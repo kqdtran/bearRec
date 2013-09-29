@@ -23,25 +23,25 @@ python run.py
 ```
 
 ### Implementation
-We first scrape the courses from the Berkeley catalog. Then, we construct a document-vector 
+We first scrape the courses from the Berkeley catalog. Then, we construct a document-term 
 matrix, where each course is a document, and apply the [TF-IDF algorithm](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) 
-on the matrix to weight the important words for calculating similarity.     
+on the matrix to weight the important features for calculating similarity.     
 
 Finally, we apply the [cosine distance similarity algorithm](https://en.wikipedia.org/wiki/Cosine_similarity) 
-to the queried word and every row of the matrix to retrieve a similarity score. 
-We then rank them from highest, and output the top results as the 
+between the queries and every row of the matrix to retrieve similarity scores. 
+We then rank them from top to bottom, and output the top results as the 
 courses that are related to the search term(s).    
 
 ### Wish List
-Please send us a pull request if you would like to contribute! There are many awesome things 
-that we can certainly extend to this project. Some of them are:    
+Please send us a pull request if you would like to contribute! There are many awesome features 
+that we could certainly extend to this project. Some of them are:    
 
-* DeCal - Student-taught classes
+* [DeCal](http://www.decal.org/) - Student-taught classes support
 * Link to the current schedule/catalog so people can find course description
 * Make the output a bit more user-friendly
-* Clustering - Classification, i.e. we can classify related courses into a certain cluster
-* Visualization, export the output as a graph where each class is a vertex, and each edge 
-weight represents the similarity score
+* Clustering related courses
+* Visualization, as a graph perhaps, where each vertex is a course, and the edge 
+weight between every vertex is their similarity score
 
 ### Related Resources
 * [Beautiful Soup 4](http://www.crummy.com/software/BeautifulSoup/)   
