@@ -5,7 +5,7 @@ import os
 from pattern.vector import Document, Model, TFIDF, LEMMA
 from tfidf import *
 import networkx as nx
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 model = loadTFIDF()
 
