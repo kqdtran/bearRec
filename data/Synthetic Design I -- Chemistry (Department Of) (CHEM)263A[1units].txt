@@ -1,0 +1,2 @@
+Synthetic Design I -- Chemistry (Department Of) (CHEM)263A[1units]
+Description: This course will describe the application of modern reactions to the total synthesis of complex target molecules. Natural products, such as alkaloids, terpenes, or polypropionates, as well as theoretically interesting "non-natural" molecules will be covered.

@@ -1,0 +1,2 @@
+System Identification -- Mechanical Engineering (MEC ENG)290N[3units]
+Description: This course is intended to provide a comprehensive treatment of both classical system identification and recent work in control-oriented system identification. Numerical, practical, and theoretical aspects will be covered. Topics treated include time and frequency domain methods, generalized parameter estimation, identification of structured non-linear systems, modeling uncertainty bounding, and state-space methods.

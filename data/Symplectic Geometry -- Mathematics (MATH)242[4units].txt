@@ -1,0 +1,2 @@
+Symplectic Geometry -- Mathematics (MATH)242[4units]
+Description: Basic topics: symplectic linear algebra, symplectic manifolds, Darboux theorem, cotangent bundles, variational problems and Lengendre transform, hamiltonian systems, lagrangian submanifolds, Poisson brackets, symmetry groups and momentum mappings, coadjoint orbits, Kahler manifolds.

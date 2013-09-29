@@ -1,0 +1,2 @@
+Nonequilibrium Statistical Physics -- Physics (PHYSICS)212[4units]
+Description: Time dependent processes. Kinetic equations. Transport processes. Irreversibility. Theory of many-particle systems. Fluctuation phenomena.

@@ -1,0 +1,2 @@
+Metamathematics -- Mathematics (MATH)225A[4units]
+Description: Metamathematics of predicate logic. Completeness and compactness theorems. Interpolation theorem, definability, theory of models. Metamathematics of number theory, recursive functions, applications to truth and provability. Undecidable theories. Sequence begins fall.

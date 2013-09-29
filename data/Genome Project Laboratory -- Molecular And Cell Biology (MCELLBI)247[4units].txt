@@ -1,0 +1,2 @@
+Genome Project Laboratory -- Molecular And Cell Biology (MCELLBI)247[4units]
+Description: This course will provide hands-on experience with the sequencing and interpretation of a complex genome. Students will be taught the conceptual underpinnings of genome assembly, annotation, and analysis. They will be provided with unassembled output of automated DNA sequencers, and will produce a fully assembled and annotated genome by the end of the semester. Preference will be given to Molecular and Cell Biology graduate students.

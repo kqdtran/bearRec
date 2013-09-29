@@ -1,0 +1,2 @@
+Number Theory -- Mathematics (MATH)254B[4units]
+Description: Valuations, units, and ideals in number fields, ramification theory, quadratic and cyclotomic fields, topics from class field theory, zeta-functions and L-series, distribution of primes, modular forms, quadratic forms, diophantine equations, P-adic analysis, and transcendental numbers. Sequence begins fall.

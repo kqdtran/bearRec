@@ -1,0 +1,2 @@
+Mathematical Logic -- Mathematics (MATH)125A[4units]
+Description: Sentential and quantificational logic. Formal grammar, semantical interpretation, formal deduction, and their interrelation. Applications to formalized mathematical theories. Selected topics from model theory or proof theory.

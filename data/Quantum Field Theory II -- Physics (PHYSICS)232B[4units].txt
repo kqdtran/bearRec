@@ -1,0 +1,2 @@
+Quantum Field Theory II -- Physics (PHYSICS)232B[4units]
+Description: Renormalization of Yang-Mills gauge theories: BRST quantization of gauge theories; nonperturbative dynamics; renormalization group; basics of effective field theory; large N; solitons; instantons; dualities. Selected current topics.

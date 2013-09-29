@@ -1,0 +1,2 @@
+Oceanic and Atmospheric Waves -- Mechanical Engineering (MEC ENG)245[3units]
+Description: Covers dynamics of wave propagation in the ocean and the atmosphere. Specifically, formulation and properties of waves over the surface of a homogenous fluid, interfacial waves in a two-/multi-layer density stratified fluid, and internal waves in a continuous stratification will be discussed.

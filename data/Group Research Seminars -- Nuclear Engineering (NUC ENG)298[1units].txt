@@ -1,0 +1,2 @@
+Group Research Seminars -- Nuclear Engineering (NUC ENG)298[1units]
+Description: Seminars in current research topics in nuclear engineering: Section 1 - Fusion; Section 2 - Nuclear Waste Management; Section 3 - Nuclear Thermal Hydraulics; Section 4 - Nuclear Chemistry; Section 6 - Nuclear Materials; Section 7 - Fusion reaction design; Section 8 - Nuclear Instrumentation.

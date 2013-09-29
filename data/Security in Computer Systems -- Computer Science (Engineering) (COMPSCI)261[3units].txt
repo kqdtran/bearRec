@@ -1,0 +1,2 @@
+Security in Computer Systems -- Computer Science (Engineering) (COMPSCI)261[3units]
+Description: Graduate survey of modern topics in computer security, including protection, access control, distributed access security, firewalls, secure coding practices, safe languages, mobile code, and case studies from real-world systems. May also cover cryptographic protocols, privacy and anonymity, and/or other topics as time permits.

@@ -1,0 +1,2 @@
+Introduction to Probability and Statistics in Biology and Public Health -- Public Health (PB HLTH)142[4units]
+Description: Descriptive statistics, probability, probability distributions, point and interval estimation, hypothesis testing, chi-square, correlation and regression with biomedical applications.

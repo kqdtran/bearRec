@@ -1,0 +1,2 @@
+Data and Decisions -- Executive Master'S In Business Administration (XMBA)200S[2units]
+Description: The objective of this core course is to make students critical consumers of statistical analysis using available software packages. Key concepts include interpretation of regression analysis, model formation and testing, and diagnostic checking.

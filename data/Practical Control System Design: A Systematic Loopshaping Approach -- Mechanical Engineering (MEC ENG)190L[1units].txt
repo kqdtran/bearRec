@@ -1,0 +1,2 @@
+Practical Control System Design: A Systematic Loopshaping Approach -- Mechanical Engineering (MEC ENG)190L[1units]
+Description: After a review of basic loopshaping, we introduce the loopshaping design methodology of McFarlane and Glover, and learn how to use it effectively. The remainder of the course studies the mathematics underlying the new method (one of the most prevalent advanced techniques used in industry) justifying its validity.

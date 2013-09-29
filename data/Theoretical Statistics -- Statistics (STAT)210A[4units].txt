@@ -1,0 +1,2 @@
+Theoretical Statistics -- Statistics (STAT)210A[4units]
+Description: An introduction to mathematical statistics, covering both frequentist and Bayesian aspects of modeling, inference, and decision-making. Topics include statistical decision theory; point estimation; minimax and admissibility; Bayesian methods; exponential families; hypothesis testing; confidence intervals; small and large sample theory; and M-estimation.

@@ -1,0 +1,2 @@
+Introduction to Imaging -- Nuclear Engineering (NUC ENG)107[3units]
+Description: Introduction to medical imaging physics and systems, including x-ray computed tomography (CT), nuclear magnetic resonance (NMR), positron emission tomography (PET), and SPECT; basic principles of tomography and an introduction to unfolding methods; resolution effects of counting statistics, inherent system resolution and human factors.

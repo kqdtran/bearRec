@@ -1,0 +1,2 @@
+Empirical Methods in Finance -- Master'S In Financial Engineering (MFE)230E[2units]
+Description: This course reviews probability and statistical techniques commonly used in quantitative finance. It includes a review of normal, lognormal, CEV distribution, estimation and nonparametric techniques commonly used in finance (MLE, GMM, GARCH). Students will be introduced to financial databases and estimation application software to estimate volatilities and correlations and their stability.

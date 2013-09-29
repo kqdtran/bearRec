@@ -1,0 +1,2 @@
+Basic Issues in Cognition -- Psychology (PSYCH)C120[3units]
+Description: Theoretical foundations and current controversies in cognitive science will be discussed. Basic issues in cognition--including perception, imagery, memory, categorization, thinking, judgment, and development--will be considered from the perspectives of philosophy, psychology, computer science, and physiology. Particular emphasis will be placed on the nature, implications, and limitations of the computational model of mind. Also listed as Cognitive Science C100.

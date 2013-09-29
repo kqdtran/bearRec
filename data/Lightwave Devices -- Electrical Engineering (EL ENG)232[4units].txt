@@ -1,0 +1,2 @@
+Lightwave Devices -- Electrical Engineering (EL ENG)232[4units]
+Description: This course is designed to give an introduction and overview of the fundamentals of optoelectronic devices. Topics such as optical gain and absorption spectra, quantization effects, strained quantum wells, optical waveguiding and coupling, and hetero p-n junction will be covered. This course will focus on basic physics and design principles of semiconductor diode lasers, light emitting diodes, photodetectors and integrated optics. Practical applications of the devices will be also discussed.

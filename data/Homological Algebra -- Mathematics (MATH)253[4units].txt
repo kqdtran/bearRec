@@ -1,0 +1,2 @@
+Homological Algebra -- Mathematics (MATH)253[4units]
+Description: Modules over a ring, homomorphisms and tensor products of modules, functors and derived functors, homological dimension of rings and modules.

@@ -1,0 +1,2 @@
+Structural Engineering -- Civil And Environmental Engineering (CIV ENG)120[3units]
+Description: Introduction to design and analysis of structural systems. Loads and load placement. Proportioning of structural members in steel, reinforced concrete, and timber. Structural analysis theory. Hand and computer analysis methods, validation of results from computer analysis. Applications, including bridges, building frames, and long-span cable structures.

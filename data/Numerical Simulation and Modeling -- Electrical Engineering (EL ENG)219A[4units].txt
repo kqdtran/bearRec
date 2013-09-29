@@ -1,0 +1,2 @@
+Numerical Simulation and Modeling -- Electrical Engineering (EL ENG)219A[4units]
+Description: Numerical simulation and modeling are enabling technologies that pervade science and engineering. This course provides a detailed introduction to the fundamental principles of these technologies and their translation to engineering practice. The course emphasizes hands-on programming in MATLAB and application to several domains, including circuits, nanotechnology, and biology.

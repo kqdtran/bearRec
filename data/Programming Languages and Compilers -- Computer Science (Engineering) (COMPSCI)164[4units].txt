@@ -1,0 +1,2 @@
+Programming Languages and Compilers -- Computer Science (Engineering) (COMPSCI)164[4units]
+Description: Survey of programming languages. The design of modern programming languages. Principles and techniques of scanning, parsing, semantic analysis, and code generation. Implementation of compilers, interpreters, and assemblers. Overview of run-time organization and error handling.

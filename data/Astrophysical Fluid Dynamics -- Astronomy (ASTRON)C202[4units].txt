@@ -1,0 +1,2 @@
+Astrophysical Fluid Dynamics -- Astronomy (ASTRON)C202[4units]
+Description: Principles of gas dynamics, self-gravitating fluids, magnetohydrodynamics and elementary kinetic theory. Aspects of convection, fluid oscillations, linear instabilities, spiral density waves, shock waves, turbulence, accretion disks, stellar winds, and jets. Also listed as Physics C202.

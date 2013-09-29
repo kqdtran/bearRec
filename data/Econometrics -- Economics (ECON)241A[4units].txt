@@ -1,0 +1,2 @@
+Econometrics -- Economics (ECON)241A[4units]
+Description: Intended for students specializing in econometrics and others with strong mathematical backgrounds. Linear and nonlinear statistical models and their applications in economics. Special problems in analyzing data from non-controlled experiments.

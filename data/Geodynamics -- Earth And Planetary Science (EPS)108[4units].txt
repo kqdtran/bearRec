@@ -1,0 +1,2 @@
+Geodynamics -- Earth And Planetary Science (EPS)108[4units]
+Description: Basic principles in studying the physical properties of earth materials and the dynamic processes of the earth. Examples are drawn from tectonics, mechanics of earthquakes, etc., to augment course material.

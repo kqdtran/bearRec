@@ -1,0 +1,2 @@
+Subsurface Nuclear Technology -- Nuclear Engineering (NUC ENG)290B[3units]
+Description: This course will cover the fundamentals of subsurface nuclear technology and its applications to 1) infer the porosity, the density, elemental composition, and fluid saturation of subsurface media; 2) identify fluid movement in reservoirs, 3) determine fluid characteristics in complex fluid regimes, and 4) perform borehole diagnostics, using neutron and photon measurement and simulation techniques. Application of computational methods will also be covered.

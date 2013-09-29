@@ -1,0 +1,2 @@
+New Econometric and Statistical Techniques -- Agricultural And Resource Economics (A,RESEC)214[4units]
+Description: Theory and application of new and emerging approaches to estimation and inference. Bayesian, maximum entropy,and other new applications to economic problems will be emphasized. Students will use computers to conduct statistical analyses.

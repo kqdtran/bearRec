@@ -1,0 +1,2 @@
+Matlab Applications in Earth Science -- Earth And Planetary Science (EPS)209[2units]
+Description: Introduction to Matlab programming with toolboxes. Applications come from Earth sciences and related fields including biology. Topics range from image processing, riverbed characterization, landslide risk analysis, signal processing, geospatial and seismic data analysis, and machine learning to parallel computation. Designed for beginning graduate students.

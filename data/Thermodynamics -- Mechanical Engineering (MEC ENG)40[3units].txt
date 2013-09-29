@@ -1,0 +1,2 @@
+Thermodynamics -- Mechanical Engineering (MEC ENG)40[3units]
+Description: This course introduces the fundamentals of energy storage, thermophysical properties of liquids and gases, and the basic principles of thermodynamics which are then applied to various areas of engineering related to energy conversion and air conditioning.

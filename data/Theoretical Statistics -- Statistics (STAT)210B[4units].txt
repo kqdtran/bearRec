@@ -1,0 +1,2 @@
+Theoretical Statistics -- Statistics (STAT)210B[4units]
+Description: Introduction to modern theory of statistics; empirical processes, influence functions, M-estimation, U and V statistics and associated stochastic decompositions; non-parametric function estimation and associated minimax theory; semiparametric models; Monte Carlo methods and bootstrap methods; distributionfree and equivariant procedures; topics in machine learning. Topics covered may vary with instructor.

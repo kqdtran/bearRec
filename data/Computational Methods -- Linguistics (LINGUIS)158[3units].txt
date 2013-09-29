@@ -1,0 +1,2 @@
+Computational Methods -- Linguistics (LINGUIS)158[3units]
+Description: An introduction to computational methods for linguists. No prior programming experience required. Students will learn how to program, and will use that knowledge to manipulate and analyze linguistic datasets, including corpora. The course will also prepare students for further study in computational modeling.

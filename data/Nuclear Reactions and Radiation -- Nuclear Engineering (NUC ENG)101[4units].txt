@@ -1,0 +1,2 @@
+Nuclear Reactions and Radiation -- Nuclear Engineering (NUC ENG)101[4units]
+Description: Energetics and kinetics of nuclear reactions and radioactive decay, fission, fusion, and reactions of low-energy neutrons; properties of the fission products and the actinides; nuclear models and transition probabilities; interaction of radiation with matter.

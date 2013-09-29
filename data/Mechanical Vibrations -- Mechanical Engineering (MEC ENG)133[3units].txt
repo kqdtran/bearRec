@@ -1,0 +1,2 @@
+Mechanical Vibrations -- Mechanical Engineering (MEC ENG)133[3units]
+Description: An introduction to the theory of mechanical vibrations including topics of harmonic motion, resonance, transient and random excitation, applications of Fourier analysis and convolution methods. Multidegree of freedom discrete systems including principal mode, principal coordinates and Rayleigh's principle.

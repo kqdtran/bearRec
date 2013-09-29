@@ -1,0 +1,2 @@
+Computer-Aided Mechanical Design -- Mechanical Engineering (MEC ENG)128[3units]
+Description: Introduction to design (not drafting) via computers. Using MATLAB and other Finite Element software, students will be introduced to a variety of mechanical design techniques and apply those techniques to the design of beams, automobile engine components, planar machine elements, linkages, and flexure hinges. These techniques include ad-hoc methods, exhaustive numeration, grid studies, and informal optimizations.

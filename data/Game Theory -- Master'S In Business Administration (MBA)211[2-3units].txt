@@ -1,0 +1,2 @@
+Game Theory -- Master'S In Business Administration (MBA)211[2-3units]
+Description: A survey of the main ideas and techniques of game-theoretic analysis related to bargaining, conflict, and negotiation. Emphasizes the identification and analysis of archetypal strategic situations in bargaining. Goals of the course are to provide a foundation for applying game-theoretic analysis, both formally and intuitively, to negotiation and bargaining; to recognize and assess archetypal strategic situations in complicated negotiation settings.

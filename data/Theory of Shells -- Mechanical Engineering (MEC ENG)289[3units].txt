@@ -1,0 +1,2 @@
+Theory of Shells -- Mechanical Engineering (MEC ENG)289[3units]
+Description: A direct formulation of a general theory of shells and plates based on the concept of Cosserat (or Directed) surfaces. Nonlinear constitutive equations for finitely deformed elastic shells. Linear theory and a special nonlinear theory with small strain accompanied by large or moderately large rotation. Applications.

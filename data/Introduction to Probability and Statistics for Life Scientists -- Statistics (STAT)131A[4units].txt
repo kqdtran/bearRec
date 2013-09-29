@@ -1,0 +1,2 @@
+Introduction to Probability and Statistics for Life Scientists -- Statistics (STAT)131A[4units]
+Description: Ideas for estimation and hypothesis testing basic to applications, including an introduction to probability. Linear estimation and normal regression theory.

@@ -1,0 +1,2 @@
+Surfaces of Discontinuity and Inhomogeneities in Deformable Continua -- Mechanical Engineering (MEC ENG)285B[3units]
+Description: Finitely deforming thermo-mechanical media. Moving surfaces of discontinuity. Shock waves and acceleration waves in elastic materials. The Eshelby tensor and Eshelbian mechanics. Fracture. Microstructured continua.

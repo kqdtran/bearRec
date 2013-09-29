@@ -1,0 +1,2 @@
+Python for Programmers -- Computer Science (Engineering) (COMPSCI)9H[2units]
+Description: Introduction to the constructs provided in the Python programming language, aimed at students who already know how to program. Flow of control; strings, tuples, lists, and dictionaries; CGI programming; file input and output; object-oriented programming; GUI elements.

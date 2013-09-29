@@ -1,0 +1,2 @@
+Advanced Earthquake Analysis -- Civil And Environmental Engineering (CIV ENG)228[3units]
+Description: Advanced topics in time-domain dynamic analysis of structures. Frequency-domain analysis of dynamic response; discrete Fourier transform methods. Earthquake analysis of structures including structural-foundation-soil interaction, and of structures interacting with fluids.

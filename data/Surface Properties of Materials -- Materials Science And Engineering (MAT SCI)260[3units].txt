@@ -1,0 +1,2 @@
+Surface Properties of Materials -- Materials Science And Engineering (MAT SCI)260[3units]
+Description: Thermodynamics of surfaces and phase boundaries, surface tension of solids and liquids, surface activity, adsorption, phase equilibria, and contact angles, electrochemical double layers at interfaces, theory, and applications.

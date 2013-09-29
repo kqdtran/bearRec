@@ -1,0 +1,2 @@
+Groundwater and Seepage -- Civil And Environmental Engineering (CIV ENG)173[3units]
+Description: Introduction to principles of groundwater flow, including steady and transient flow through porous media, numerical analysis, pumping tests, groundwater geology, contaminant transport, and design of waste containment systems.

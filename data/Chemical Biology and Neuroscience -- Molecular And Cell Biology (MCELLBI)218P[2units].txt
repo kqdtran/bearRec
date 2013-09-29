@@ -1,0 +1,2 @@
+Chemical Biology and Neuroscience -- Molecular And Cell Biology (MCELLBI)218P[2units]
+Description: Molecular approaches to designing and deploying tools for voltage imaging and brain mapping.

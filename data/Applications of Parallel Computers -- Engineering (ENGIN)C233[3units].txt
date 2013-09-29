@@ -1,0 +1,2 @@
+Applications of Parallel Computers -- Engineering (ENGIN)C233[3units]
+Description: Models for parallel programming. Fundamental algorithms for linear algebra, sorting, FFT, etc. Survey of parallel machines and machine structures. Exiting parallel programming languages, vectorizing compilers, environments, libraries and toolboxes. Data partitioning techniques. Techniques for synchronization and load balancing. Detailed study and algorithm/program development of medium sized applications. Also listed as Computer Science C267.

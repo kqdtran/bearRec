@@ -1,0 +1,2 @@
+Numerical Solution of Differential Equations -- Mathematics (MATH)228A[4units]
+Description: Ordinary differential equations: Runge-Kutta and predictor-corrector methods; stability theory, Richardson extrapolation, stiff equations, boundary value problems. Partial differential equations: stability, accuracy and convergence, Von Neumann and CFL conditions, finite difference solutions of hyperbolic and parabolic equations. Finite differences and finite element solution of elliptic equations.

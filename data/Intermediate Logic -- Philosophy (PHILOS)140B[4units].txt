@@ -1,0 +1,2 @@
+Intermediate Logic -- Philosophy (PHILOS)140B[4units]
+Description: Major concepts, results, and techniques of modern logic. Turing machines, computability theory, undecidability of first-order logic, proof theory, Godel's first and second inompleteness theorms. Philosophical implications of these results.

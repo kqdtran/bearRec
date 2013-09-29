@@ -1,0 +1,2 @@
+Theory of Models -- Mathematics (MATH)229[4units]
+Description: Syntactical characterization of classes closed under algebraic operations. Ultraproducts and ultralimits, saturated models. Methods for establishing decidability and completeness. Model theory of various languages richer than first-order.

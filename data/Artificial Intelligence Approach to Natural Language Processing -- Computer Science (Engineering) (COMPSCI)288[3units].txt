@@ -1,0 +1,2 @@
+Artificial Intelligence Approach to Natural Language Processing -- Computer Science (Engineering) (COMPSCI)288[3units]
+Description: Representation of conceptual structures, language analysis and production, models of inference and memory, high-level text structures, question answering and conversation, machine translation.

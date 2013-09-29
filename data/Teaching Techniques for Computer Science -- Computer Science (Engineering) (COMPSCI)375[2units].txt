@@ -1,0 +1,2 @@
+Teaching Techniques for Computer Science -- Computer Science (Engineering) (COMPSCI)375[2units]
+Description: Discussion and practice of techniques for effective teaching, focusing on issues most relevant to teaching assistants in computer science courses.

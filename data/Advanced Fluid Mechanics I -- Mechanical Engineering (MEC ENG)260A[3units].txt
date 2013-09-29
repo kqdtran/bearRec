@@ -1,0 +1,2 @@
+Advanced Fluid Mechanics I -- Mechanical Engineering (MEC ENG)260A[3units]
+Description: Introduces the foundations of fluid mechanics. Exact flow solutions are used to develop a physical insight of the fluid flow phenomena. Rigorous derivation of the equations of motion. Incompressible and compressible potential flows. Canonical viscous flows.

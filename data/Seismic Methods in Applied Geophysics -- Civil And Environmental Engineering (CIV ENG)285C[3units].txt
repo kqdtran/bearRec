@@ -1,0 +1,2 @@
+Seismic Methods in Applied Geophysics -- Civil And Environmental Engineering (CIV ENG)285C[3units]
+Description: This course gives an overview of seismic methods used to image the subsurface. Acquisition, processing, and interpretation of seismic data are discussed, with application to petroleum production, environmental site characterization, earthquake engineering, and groundwater.

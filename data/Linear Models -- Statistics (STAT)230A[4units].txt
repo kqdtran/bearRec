@@ -1,0 +1,2 @@
+Linear Models -- Statistics (STAT)230A[4units]
+Description: Theory of least squares estimation, interval estimation, and tests under the general linear fixed effects model with normally distributed errors. Large sample theory for non-normal linear models. Two and higher way layouts, residual analysis. Effects of departures from the underlying assumptions. Robust alternatives to least squares.

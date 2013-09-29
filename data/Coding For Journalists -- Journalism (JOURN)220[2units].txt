@@ -1,0 +1,2 @@
+Coding For Journalists -- Journalism (JOURN)220[2units]
+Description: This course is an introduction to programming concepts as they relate to the journalism industry. The goal of this course is to equip students with a foundational technical literacy to construct interactive online stories such as data visualizations, infographics, maps, multimedia packages, games or innumerable other types of projects students may conceive.

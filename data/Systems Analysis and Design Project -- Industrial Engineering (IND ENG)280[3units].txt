@@ -1,0 +1,2 @@
+Systems Analysis and Design Project -- Industrial Engineering (IND ENG)280[3units]
+Description: A project course for students interested in applications of operations research and engineering methods. One or more systems, which may be public or in the private sector, will be selected for detailed analysis and re-designed by student groups.

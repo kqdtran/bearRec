@@ -1,0 +1,2 @@
+Analysis of Time Series -- Statistics (STAT)248[4units]
+Description: Frequency-based techniques of time series analysis, spectral theory, linear filters, estimation of spectra, estimation of transfer functions, design, system identification, vector-valued stationary processes, model building.

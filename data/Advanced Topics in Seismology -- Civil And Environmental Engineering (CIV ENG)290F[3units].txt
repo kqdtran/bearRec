@@ -1,0 +1,2 @@
+Advanced Topics in Seismology -- Civil And Environmental Engineering (CIV ENG)290F[3units]
+Description: Active areas of research in applied seismology. Subjects include: anisotropic and viscoelastic wave propagation, borehole seismology, crosswell seismology, including crosswell seismic tomography, vertical seismic profiling, reservoir monitoring including passive seismic methods.

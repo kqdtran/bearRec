@@ -1,0 +1,2 @@
+Heat Transfer -- Mechanical Engineering (MEC ENG)109[3units]
+Description: This course covers transport processes of mass, momentum, and energy from a macroscopic view with emphasis both on understanding why matter behaves as it does and on developing practical problem solving skills. The course is divided into four parts: introduction, conduction, convection, and radiation.

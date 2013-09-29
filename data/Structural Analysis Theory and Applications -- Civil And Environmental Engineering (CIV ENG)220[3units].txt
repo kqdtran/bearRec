@@ -1,0 +1,2 @@
+Structural Analysis Theory and Applications -- Civil And Environmental Engineering (CIV ENG)220[3units]
+Description: Theory and applications of modern structural analysis. Direct stiffness method. Matrix formulations. Virtual work principles. Numerical solution methods. Modeling and practical analysis of large frame structures. Elastoplastic analysis of frames. P-delta effects.

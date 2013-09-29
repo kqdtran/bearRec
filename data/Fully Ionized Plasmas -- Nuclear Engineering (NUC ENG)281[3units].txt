@@ -1,0 +1,2 @@
+Fully Ionized Plasmas -- Nuclear Engineering (NUC ENG)281[3units]
+Description: Introduction to warm and hot magnetized plasmas. Single particle motion in electric and magnetic fields. Collective particle oscillations, waves and instabilities. Magnetohydrodynamic equilibria, stability and transport. Magnetically confined plasmas for controlled fusion. Space plasmas.

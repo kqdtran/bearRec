@@ -1,0 +1,2 @@
+Introduction to Production Planning and Logistics Models -- Industrial Engineering (IND ENG)250[3units]
+Description: This will be an introductory first-year graduate course covering fundamental models in production planning and logistics. Models, algorithms, and analytical techniques for inventory control, production scheduling, production planning, facility location and logistics network design, vehicle routing, and demand forecasting will be discussed.

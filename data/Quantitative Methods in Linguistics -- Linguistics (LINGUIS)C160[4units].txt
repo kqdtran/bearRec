@@ -1,0 +1,2 @@
+Quantitative Methods in Linguistics -- Linguistics (LINGUIS)C160[4units]
+Description: An introduction to research using quantitative analysis in linguistics and cognitive science. Students will learn how to use the R programming environment for statistical analysis and data visualization. Also listed as Cognitive Science C140.

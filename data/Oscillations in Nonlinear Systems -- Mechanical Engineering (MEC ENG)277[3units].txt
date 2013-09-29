@@ -1,0 +1,2 @@
+Oscillations in Nonlinear Systems -- Mechanical Engineering (MEC ENG)277[3units]
+Description: Oscillations in nonlinear systems having one or two degrees of freedom. Qualitative and quantitative methods: graphical, iteration, perturbation, and asymptotic methods. Self-excited oscillations, limit cycles, and domains of attraction.

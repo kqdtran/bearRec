@@ -1,0 +1,2 @@
+Combinatorics and Discrete Probability -- Computer Science (Engineering) (COMPSCI)174[4units]
+Description: Permutations, combinations, principle of inclusion and exclusion, generating functions, Ramsey theory. Expectation and variance, Chebychev's inequality, Chernov bounds. Birthday paradox, coupon collector's problem, Markov chains and entropy computations, universal hashing, random number generation, random graphs and probabilistic existence bounds.

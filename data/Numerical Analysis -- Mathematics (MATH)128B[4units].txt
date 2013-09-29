@@ -1,0 +1,2 @@
+Numerical Analysis -- Mathematics (MATH)128B[4units]
+Description: Iterative solution of systems of nonlinear equations, evaluation of eigenvalues and eigenvectors of matrices, applications to simple partial differential equations. Practice on the computer.

@@ -1,0 +1,2 @@
+Nuclear Reactor Safety -- Nuclear Engineering (NUC ENG)167[3units]
+Description: Principles and methods used in the safety evaluation of nuclear power plants. Safety philosophies, design criteria, and regulations. Deterministic and probabilistic models, reliability analysis, nuclear and thermal-hydraulic transients, rediological consequences, and risk assessment. Design-basis and severe accident analysis, role of engineered safety systems, siting, and licensing.

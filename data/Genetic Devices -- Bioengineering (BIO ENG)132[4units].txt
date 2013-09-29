@@ -1,0 +1,2 @@
+Genetic Devices -- Bioengineering (BIO ENG)132[4units]
+Description: This senior-level course is a comprehensive survey of genetic devices. These DNA-based constructs are comprised of multiple "parts" that together encode a higher-level biological behavior and perform useful human-defined functions. Such constructs are the engineering target for most projects in synthetic biology. Included within this class of constructs are genetic circuits, sensors, biosynthetic pathways, and microbiological functions.

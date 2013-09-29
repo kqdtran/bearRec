@@ -1,0 +1,2 @@
+Neural Computation -- Vision Science (VIS SCI)C265[3units]
+Description: This course provides an introduction to the theory of neural computation. The goal is to familiarize students with the major theoretical frameworks and models used in neuroscience and psychology, and to provide hands-on experience in using these models. Topics include neural network models, supervised and unsupervised learning rules, associative memory models, probabilistic/graphical models, and models of neural coding in the brain. Also listed as Neuroscience C265.

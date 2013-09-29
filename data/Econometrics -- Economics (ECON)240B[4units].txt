@@ -1,0 +1,2 @@
+Econometrics -- Economics (ECON)240B[4units]
+Description: Basic preparation for the Ph.D. program including generalized least squares; instrumental variables estimation; generalized method of moments; time series analysis; and nonlinear models.

@@ -1,0 +1,2 @@
+Nuclear Design: Design in Nuclear Power Technology and Instrumentation -- Nuclear Engineering (NUC ENG)170A[3units]
+Description: Design of various fission and fusion power systems and other physically based applications. Each semester a topic will be chosen by the class as a whole. In addition to technology, the design should address issues relating to economics, the environment, and risk assessment.

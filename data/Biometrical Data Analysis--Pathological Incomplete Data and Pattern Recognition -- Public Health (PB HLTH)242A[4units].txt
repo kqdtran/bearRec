@@ -1,0 +1,2 @@
+Biometrical Data Analysis--Pathological Incomplete Data and Pattern Recognition -- Public Health (PB HLTH)242A[4units]
+Description: Survey of classical methods; mixture, clustered, grouped, incomplete, Cox-model, and truncated data simulation and analysis.

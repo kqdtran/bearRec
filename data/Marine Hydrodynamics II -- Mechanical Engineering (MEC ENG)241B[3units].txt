@@ -1,0 +1,2 @@
+Marine Hydrodynamics II -- Mechanical Engineering (MEC ENG)241B[3units]
+Description: Momentum analysis for bodies moving in a fluid. Added-mass theory. Matched asymptotic slender-body theory. Small bodies in a current. Theory of motion of floating bodies with and without forward speed. Radiation and diffraction potentials. Wave forces. Hydro-elasticity formulation. Memory effects in time domain. Second-order effects. Impact hydrodynamics.

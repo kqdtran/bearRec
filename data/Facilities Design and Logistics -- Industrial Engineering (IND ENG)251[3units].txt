@@ -1,0 +1,2 @@
+Facilities Design and Logistics -- Industrial Engineering (IND ENG)251[3units]
+Description: Design and analysis of models and algorithms for facility location, vehicle routing, and facility layout problems. Emphasis will be placed on both the use of computers and the theoretical analysis of models and algorithms.

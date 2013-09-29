@@ -1,0 +1,2 @@
+Graduate Seminar in Digital Design Theories and Methods -- Architecture (ARCH)221[3units]
+Description: This seminar is intended to help graduate students develop a coherent research agenda in the area of digital design theories and methods. In addition, it is intended to serve as a forum for the exchange of ideas (e.g., work in progress, potential directions for research, etc.) in the area of shared interest. The course provides students with a set of questions as guides, readings, and guest lectures.

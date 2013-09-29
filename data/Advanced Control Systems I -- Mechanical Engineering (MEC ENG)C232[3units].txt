@@ -1,0 +1,2 @@
+Advanced Control Systems I -- Mechanical Engineering (MEC ENG)C232[3units]
+Description: Input-output and state space representation of linear continuous and discrete time dynamic systems. Controllability, observability, and stability. Modeling and identification. Design and analysis of single and multi-variable feedback control systems in transform and time domain. State observer. Feedforward/preview control. Application to engineering systems. Also listed as Electrical Engineering C220A.

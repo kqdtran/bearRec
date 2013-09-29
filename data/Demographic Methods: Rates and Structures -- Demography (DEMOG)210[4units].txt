@@ -1,0 +1,2 @@
+Demographic Methods: Rates and Structures -- Demography (DEMOG)210[4units]
+Description: Population models, multiple decrement life tables, hazard functions, stable population theory, projection matrices, projection programs, population waves, dual system estimation, computer-based exercises and simulations. Required course for Demography M.A. and Ph.D. students.

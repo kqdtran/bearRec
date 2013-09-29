@@ -1,0 +1,2 @@
+Finite Element Methods in Nonlinear Continua -- Mechanical Engineering (MEC ENG)280B[3units]
+Description: A brief review of continuum mechanics. Consistent linearization of kinematical variables and balance laws. Incremental formulations of the equations of motion. Solution of the nonlinear field equations by Newton's method and its variants. General treatment of constraints. Applications to nonlinear material and kinematical modeling on continua.

@@ -1,0 +1,2 @@
+Predictive Control for Linear and Hybrid Systems -- Mechanical Engineering (MEC ENG)290J[3units]
+Description: Advanced optimization, polyhedra manipulation, and multiparametric programming. Invariant set theory. Analysis and design of constrained predictive controllers for linear systems. Computational oriented models of hybrid systems. Analysis and design of constrained predictive controllers for hybrid systems.

@@ -1,0 +1,2 @@
+Production and Operations Management -- Undergraduate Business Administration (UGBA)141[3units]
+Description: A survey of the concepts and methodologies for management control of production and operations systems. Topics include inventory control, material requirements planning for multistage production systems, aggregate planning, scheduling, and production distribution.

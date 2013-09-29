@@ -1,0 +1,2 @@
+Applied Stochastic Process II -- Industrial Engineering (IND ENG)263B[3units]
+Description: Continuous time Markov chains. The reversed chain concept in continuous time Markov chains with applications of queueing theory. Semi-Markov processes with emphasis on application. Brownian Motion. Random walks with applications. Introduction to Martinjales.

@@ -1,0 +1,2 @@
+Introduction to System Performance Analysis -- Computer Science (Engineering) (COMPSCI)266[3units]
+Description: Performance indices. Evaluation techniques. Measurement: instrumentation, design of experiments, interpretation of results. Simulation modeling: simulator design, model calibration, statistical analysis of output data. Introduction to analytic modeling. Workload characterization. Tuning, procurement, and capacity planning application. Program performance evaluation. File and I/O system optimization. CPU Scheduling and architecture performance analysis.

@@ -1,0 +1,2 @@
+BioMEMS and Medical Devices -- Bioengineering (BIO ENG)121[4units]
+Description: Biophysical and chemical principles of biomedical devices, bionanotechnology, bionanophotonics, and biomedical microelectromechanical systems (BioMEMS). Topics include basics of nano- and microfabrication, soft-lithography, DNA arrays, protein arrays, electrokinetics, electrochemical, transducers, microfluidic devices, biosensor, point of care diagnostics, lab-on-a-chip, drug delivery microsystems, clinical lab-on-a-chip, advanced biomolecular probes, etc.

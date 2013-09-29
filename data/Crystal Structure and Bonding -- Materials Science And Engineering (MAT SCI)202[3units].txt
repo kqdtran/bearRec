@@ -1,0 +1,2 @@
+Crystal Structure and Bonding -- Materials Science And Engineering (MAT SCI)202[3units]
+Description: Regular, irregular arrays of points, spheres; lattices, direct, reciprocal; crystallographic point and space groups; atomic structure; bonding in molecules; bonding in solids; ionic (Pauling rules), covalent, metallic bonding; structure of elements, compounds, minerals, polymers.

@@ -1,0 +1,2 @@
+Introduction to Multivariate Statistics -- Public Health (PB HLTH)245[4units]
+Description: The following topics are discussed in the context of biomedical and biological application: multiple regression, loglinear models, discriminant analysis, principal components. Instruction in statistical computing is given in the laboratory session.

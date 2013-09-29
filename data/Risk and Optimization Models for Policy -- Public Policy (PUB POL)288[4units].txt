@@ -1,0 +1,2 @@
+Risk and Optimization Models for Policy -- Public Policy (PUB POL)288[4units]
+Description: Optimization and simulation models in stochastic and deterministic contexts. Monte Carlo simulation, Bayesian models and decisions, linear and nonlinear programming, queing models, and a review of heuristics and biases in individual risk assessment. Hands-on exploration of tools oriented to management and policy decisions in public and nonprofit organizations. Objective for students: lifelong habit of learning and using new analytic methods.

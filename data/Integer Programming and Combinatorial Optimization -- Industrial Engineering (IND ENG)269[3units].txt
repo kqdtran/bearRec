@@ -1,0 +1,2 @@
+Integer Programming and Combinatorial Optimization -- Industrial Engineering (IND ENG)269[3units]
+Description: The course deals with discrete optimization problems and their complexity. These topics include complexity analysis of algorithms and its drawbacks; solving a system of linear integer equations and inequalities; strongly polynomial algorithms, network flow problems (including matching and branching); polyhedral optimization; branch and bound and lagrangean relaxation.

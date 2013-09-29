@@ -1,0 +1,2 @@
+Micro/Nanofluidics for Bioengineering and Lab-On-A-Chip -- Bioengineering (BIO ENG)151[4units]
+Description: Introduction and in-depth treatment of theory relevant to fluid flow in microfluidic and nanofluidic systems supplemented by critical assessment of recent applications drawn from the literature. Topics include low Reynolds Number flow, mass transport including diffusion phenomena, and emphasis on electrokinetic systems and bioanalytical applications of said phenomena.

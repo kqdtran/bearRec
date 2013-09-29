@@ -1,0 +1,2 @@
+Applied Sampling and Survey Design and Analysis -- Public Health (PB HLTH)252A[3units]
+Description: This course will cover the basic principles and methods of sampling and survey design. The weekly lecture will cover the principles of sampling and include a discussion of various case studies. The computer laboratory will consist of exercises that develop skills for using computers to draw samples and to solve sampling problems. The material covered in the computer laboratory session will generally correspond to the topics covered in the preceding class meetings.

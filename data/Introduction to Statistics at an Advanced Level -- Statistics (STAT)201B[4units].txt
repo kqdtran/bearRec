@@ -1,0 +1,2 @@
+Introduction to Statistics at an Advanced Level -- Statistics (STAT)201B[4units]
+Description: Estimation, confidence intervals, hypothesis testing, linear models, large sample theory, categorical models, decision theory.

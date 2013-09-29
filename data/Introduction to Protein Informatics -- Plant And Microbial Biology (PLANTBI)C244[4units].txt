@@ -1,0 +1,2 @@
+Introduction to Protein Informatics -- Plant And Microbial Biology (PLANTBI)C244[4units]
+Description: This course will introduce students to the fundamentals of molecular biology, and to the bioinformatics tools and databases used for the prediction of protein function and structure. It is designed to impart both a theoretical understanding of popular computational methods, as well as some experience with protein sequence analysis methods applied to real data. This class includes no programming, and no programming background required. Also listed as Bioengineering C244.

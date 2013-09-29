@@ -1,0 +1,2 @@
+Hybrid Systems and Intelligent Control -- Mechanical Engineering (MEC ENG)C290S[3units]
+Description: Analysis of hybrid systems formed by the interaction of continuous time dynamics and discrete-event controllers. Discrete-event systems models and language descriptions. Finite-state machines and automata. Model verification and control of hybrid systems. Signal-to-symbol conversion and logic controllers. Adaptive, neural, and fuzzy-control systems. Applications to robotics and Intelligent Vehicle and Highway Systems (IVHS). Also listed as Electrical Engineering C291E.

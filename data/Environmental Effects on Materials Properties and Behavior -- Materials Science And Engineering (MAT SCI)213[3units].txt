@@ -1,0 +1,2 @@
+Environmental Effects on Materials Properties and Behavior -- Materials Science And Engineering (MAT SCI)213[3units]
+Description: Review of electrochemical aspects of corrosion; pitting and crevice corrosion; active/passive transition; fracture mechanics approach to corrosion; stress corrosion cracking; hydrogen embrittlement; liquid metal embrittlement; corrosion fatigue; testing methods.

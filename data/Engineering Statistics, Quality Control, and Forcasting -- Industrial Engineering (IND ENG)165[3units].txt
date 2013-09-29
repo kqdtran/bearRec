@@ -1,0 +1,2 @@
+Engineering Statistics, Quality Control, and Forcasting -- Industrial Engineering (IND ENG)165[3units]
+Description: This course will introduce students to basic statistical techniques such as parameter estimation, hypothesis testing, regression analysis, analysis of variance. Specific applications in forecasting and quality control will be considered in detail.

@@ -1,0 +1,2 @@
+Nuclear Reactor Theory -- Nuclear Engineering (NUC ENG)250[4units]
+Description: Fission characteristics; neutron chain reactions, neutron transport and diffusion theory; reactor kinetics; multigroup methods, fast and thermal spectrum calculations, inhomogeneous reactor design, effects of poisons and fuel depletion.

@@ -1,0 +1,2 @@
+Mathematical Programming II -- Industrial Engineering (IND ENG)262B[3units]
+Description: Basic first year graduate course in optimization of non-linear programs. Formulation and model building. Theory of optimization for constrained and unconstrained problems. Study of algorithms for non-linear optimization with emphasis on design considerations and performance evaluation.

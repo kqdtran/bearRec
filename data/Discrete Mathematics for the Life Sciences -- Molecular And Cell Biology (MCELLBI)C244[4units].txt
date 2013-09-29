@@ -1,0 +1,2 @@
+Discrete Mathematics for the Life Sciences -- Molecular And Cell Biology (MCELLBI)C244[4units]
+Description: Introduction to algebraic statistics and probability, optimization, phylogenetic combinatorics, graphs and networks, polyhedral and metric geometry. Also listed as Mathematics C239.

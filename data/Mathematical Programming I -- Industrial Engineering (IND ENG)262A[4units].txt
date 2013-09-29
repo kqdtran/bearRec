@@ -1,0 +1,2 @@
+Mathematical Programming I -- Industrial Engineering (IND ENG)262A[4units]
+Description: Basic graduate course in linear programming and introduction to network flows and non-linear programming. Formulation and model building. The simplex method and its variants. Duality theory. Sensitivity analysis, parametric programming, convergence (theoretical and practical). Polynomial time algorithms. Introduction to network flows models. Optimality conditions for non linear optimization problems.

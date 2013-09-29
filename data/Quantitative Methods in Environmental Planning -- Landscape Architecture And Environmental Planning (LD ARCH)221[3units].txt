@@ -1,0 +1,2 @@
+Quantitative Methods in Environmental Planning -- Landscape Architecture And Environmental Planning (LD ARCH)221[3units]
+Description: Discussion and critique of the application of quantitative methods to environmental assessment, analysis, and evaluation in environmental planning. Topics to include geographical information systems and data bases, remote sensing, and multivariate analysis. This course emphasizes computer applications and data analysis.

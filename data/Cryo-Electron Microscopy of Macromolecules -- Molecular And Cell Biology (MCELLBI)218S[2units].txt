@@ -1,0 +1,2 @@
+Cryo-Electron Microscopy of Macromolecules -- Molecular And Cell Biology (MCELLBI)218S[2units]
+Description: Structure-function studies of the cytoskeleton and large molecular machines by cryo-electron microscopy and image reconstruction.

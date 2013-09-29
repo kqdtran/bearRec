@@ -1,0 +1,2 @@
+Survey of Materials Science -- Materials Science And Engineering (MAT SCI)200A[4units]
+Description: A survey of Materials Science at the beginning graduate level, intended for those who did not major in the field as undergraduates. Focus on the nature of microstructure and its manipulation and control to determine engineering properties. Reviews bonding, structure and microstructure, the chemical, electromagnetic and mechanical properties of materials, and introduces the student to microstructural engineering.

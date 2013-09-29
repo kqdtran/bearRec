@@ -1,0 +1,2 @@
+Turbulence -- Mechanical Engineering (MEC ENG)263[3units]
+Description: Physics of turbulence: Summary of stability and transition. Description of turbulence phenomena. Tools for studying turbulence. Homogeneous turbulence, shear turbulence, rotating turbulence. Summary of engineering models. Discussion of recent advances.

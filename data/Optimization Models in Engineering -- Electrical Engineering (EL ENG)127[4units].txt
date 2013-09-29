@@ -1,0 +1,2 @@
+Optimization Models in Engineering -- Electrical Engineering (EL ENG)127[4units]
+Description: This course offers an introduction to optimization models and their applications, ranging from machine learning and statistics to decision-making and control, with emphasis on numerically tractable problems, such as linear or constrained least-squares optimization.

@@ -1,0 +1,2 @@
+Introduction to the Theory of Sets -- Mathematics (MATH)135[4units]
+Description: Set-theoretical paradoxes and means of avoiding them. Sets, relations, functions, order and well-order. Proof by transfinite induction and definitions by transfinite recursion. Cardinal and ordinal numbers and their arithmetic. Construction of the real numbers. Axiom of choice and its consequences.

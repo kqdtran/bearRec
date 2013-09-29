@@ -1,0 +1,2 @@
+Search Engines: Technology, Society, and Business -- School Of Information (INFO)141[2units]
+Description: In this course, students will first gain an understanding of the basics of how search engines work, and then explore how search engine design impacts business and culture. Topics include search advertising and auctions, search and privacy, search ranking, internationalization, anti-spam efforts, local search, peer-to-peer search, and search of blogs and online communities. Open to all undergraduate students and designed for those with little technical background.

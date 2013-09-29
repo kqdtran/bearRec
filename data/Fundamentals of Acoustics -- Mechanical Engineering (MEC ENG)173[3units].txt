@@ -1,0 +1,2 @@
+Fundamentals of Acoustics -- Mechanical Engineering (MEC ENG)173[3units]
+Description: Plane and spherical sound waves. Sound intensity. Propagation in tubes and horns. Resonators. Standing waves. Radiation from oscillating surface. Reciprocity. Reverberation and diffusion. Electro-acoustic loud speaker and microphone problems. Environmental and architectural acoustics. Noise measurement and control. Effects on man.

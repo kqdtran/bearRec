@@ -1,0 +1,2 @@
+Causal Inference and Meta-Analysis in Epidemiology -- Public Health (PB HLTH)251C[2units]
+Description: This course will review the theoretical aspects of causal inference, literature review, and meta-analysis, but its focus will be more on the practical aspects of these topics that are not commonly found in textbooks or presented in classes on epidemiologic theory. It is hoped that the student develops the day-to-day skills necessary to complete and present a well-documented, accurate, and thorough review of epidemiologic literature.

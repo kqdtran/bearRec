@@ -1,0 +1,2 @@
+Several Complex Variables -- Mathematics (MATH)212[4units]
+Description: Power series developments, domains of holomorphy, Hartogs' phenomenon, pseudo convexity and plurisubharmonicity. The remainder of the course may treat either sheaf cohomology and Stein manifolds, or the theory of analytic subvarieties and spaces.

@@ -1,0 +1,2 @@
+Polymeric Materials -- Materials Science And Engineering (MAT SCI)151[3units]
+Description: This course is designed for upper division undergraduate and graduate students to gain a fundamental understanding of the science of polymeric materials. Beginning with a treatment of ideal polymeric chain conformations, it develops the thermodynamics of polmyer blends and solutions, the modeling of polymer networks and gelations, the dynamics of polymer chains, and the morphologies of thin films and other dimensionally-restricted structures relevant to nanotechnology.

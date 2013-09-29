@@ -1,0 +1,2 @@
+Mathematical Methods in Chemical Engineering -- Chemical And Biomolecular Engineering (CHM ENG)230[3units]
+Description: Mathematical formulation and solution of problems drawn from the fields of heat and mass transfer, fluid mechanics, thermodynamics, and reaction kinetics employing ordinary and partial differential equations, variational calculus, and Fourier methods.

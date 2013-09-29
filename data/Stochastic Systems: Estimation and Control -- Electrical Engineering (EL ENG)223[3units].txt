@@ -1,0 +1,2 @@
+Stochastic Systems: Estimation and Control -- Electrical Engineering (EL ENG)223[3units]
+Description: Parameter and state estimation. System identification. Nonlinear filtering. Stochastic control. Adaptive control.

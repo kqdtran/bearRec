@@ -1,0 +1,2 @@
+Mechatronic Design Laboratory -- Electrical Engineering (EL ENG)192[4units]
+Description: Design project course, focusing on application of theoretical principles in electrical engineering to control of a small-scale system, such as a mobile robot. Small teams of students will design and construct a mechatronic system incorporating sensors, actuators, and intelligence.

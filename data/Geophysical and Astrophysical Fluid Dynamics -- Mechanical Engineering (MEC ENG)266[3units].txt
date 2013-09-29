@@ -1,0 +1,2 @@
+Geophysical and Astrophysical Fluid Dynamics -- Mechanical Engineering (MEC ENG)266[3units]
+Description: This course examines high-Reynolds number flows, including their stability, their waves, and the influence of rotating and stratification as applied to geophysical and astrophysical fluid dynamics as well as to engineering flows. Examples of problems studies include vortex dynamics in planetary atmospheres and protoplanetary disks, jet streams, and waves (Rossby, Poincare, inertial, internal gravity, and Kelvin) in the ocean and atmosphere.

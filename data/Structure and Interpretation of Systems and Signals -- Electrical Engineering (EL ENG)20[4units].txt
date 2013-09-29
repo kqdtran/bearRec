@@ -1,0 +1,2 @@
+Structure and Interpretation of Systems and Signals -- Electrical Engineering (EL ENG)20[4units]
+Description: Mathematical modeling of signals and systems. Continous and discrete signals, with applications to audio, images, video, communications, and control. State-based models, beginning with automata and evolving to LTI systems. Frequency domain models for signals and frequency response for systems, and sampling of continuous-time signals. A Matlab-based laboratory is an integral part of the course.

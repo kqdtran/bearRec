@@ -1,0 +1,2 @@
+Basic Engineering Design Graphics -- Engineering (ENGIN)28[3units]
+Description: Introduction to the engineering design process and graphical communications tools used by engineers. Conceptual design of products. Tolerance analysis for fabrication. Documentation of design through engineering drawing. Development of spatial reasoning skills. Basic descriptive geometry. Parametric solid modeling and feature based design. Use of Computer-Assisted Design as a design tool.

@@ -1,0 +1,2 @@
+Biophysical Neurobiology -- Molecular And Cell Biology (MCELLBI)166[3units]
+Description: Biophysical properties of ion channels and excitability, ion selectivity, membrane transport phenomena. Sensory transduction, optical measurements and microscopy. Cellular networks as computational devices, information processing and transfer.

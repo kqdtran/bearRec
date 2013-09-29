@@ -1,0 +1,2 @@
+Optimization Analytics -- Industrial Engineering (IND ENG)240[3units]
+Description: Computing technology has advanced to the point that commonly available tools can be used to solve practical decision problems and optimize real-world systems quickly and efficiently. This course will focus on the understanding and use of such tools, to model and solve complex real-world business problems, to analyze the impact of changing data and relaxing assumptions on these decisions, and to understand the risks associated with particular decisions and outcomes.

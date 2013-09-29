@@ -1,0 +1,2 @@
+Numerical Simulation in Radiation Transport -- Nuclear Engineering (NUC ENG)255[3units]
+Description: Computational methods used to analyze nuclear reactor systems described by various differential, integral, and integro-differential equations. Numerical methods include finite difference, finite elements, discrete ordinates, and Monte Carlo. Examples from neutron and photon transport, heat transfer, and thermal hydraulics. An overview of optimization techniques for solving the resulting discrete equations on vector and parallel computer systems.

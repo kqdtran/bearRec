@@ -1,0 +1,2 @@
+Chemical Engineering Economics -- Chemical And Biomolecular Engineering (CHM ENG)180[3units]
+Description: Optimal design of chemical processes and unit operations, emphasizing the interactions between technical and economic considerations. Analysis of process risks. Chemical and biomolecular process design in the presence of uncertainties. Interest rate determinants and their effects on chemical process feasibility and choices. Relationships between structure and behavior of firms in the chemical processing industries. Multivariable input-output analyses.

@@ -1,0 +1,2 @@
+Completion of Work in Computer Science 61C -- Computer Science (Engineering) (COMPSCI)47C[1units]
+Description: MIPS instruction set simulation. The assembly and linking process. Caches and virtual memory. Pipelined computer organization. Students with sufficient partial credit in 61C may, with consent of instructor, complete the credit in this self-paced course.

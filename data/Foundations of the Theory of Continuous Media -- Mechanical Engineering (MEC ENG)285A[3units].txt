@@ -1,0 +1,2 @@
+Foundations of the Theory of Continuous Media -- Mechanical Engineering (MEC ENG)285A[3units]
+Description: A general development of thermodynamics of deformable media, entropy production, and related entropy inequalities. Thermomechanical response of dissipative media, including those for viscous fluids and nonlinear elastic solids. A discussion of invariance, internal constraints, material symmetry, and other special topics.

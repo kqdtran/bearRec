@@ -1,0 +1,2 @@
+Applications of Stochastic Process Theory -- Electrical Engineering (EL ENG)226B[2units]
+Description: Advanced topics such as: Martingale theory, stochastic calculus, random fields, queueing networks, stochastic control.

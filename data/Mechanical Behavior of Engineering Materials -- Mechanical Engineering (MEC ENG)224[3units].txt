@@ -1,0 +1,2 @@
+Mechanical Behavior of Engineering Materials -- Mechanical Engineering (MEC ENG)224[3units]
+Description: This course covers elastic and plastic deformation under static and dynamic loads. Prediction and prevention of failure by yielding, fracture, fatigue, creep, corrosion, and wear. Basic elasticity and plasticity theories are discussed.

@@ -1,0 +1,2 @@
+Heat Transfer with Phase Change -- Mechanical Engineering (MEC ENG)258[3units]
+Description: Heat transfer associated with phase change processes. Topics include thermodynamics of phase change, evaporation, condensation, nucleation and bubble growth, two phase flow, convective boiling and condensation, melting and solidification.

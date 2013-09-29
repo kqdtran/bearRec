@@ -1,0 +1,2 @@
+Computational Genomics -- Molecular And Cell Biology (MCELLBI)249Q[2units]
+Description: Recent developments in computational methods for genomics and their application for understanding the structure and function of genes encoded in completely sequenced genomes.

@@ -1,0 +1,2 @@
+Elementary Algebraic Geometry -- Mathematics (MATH)143[4units]
+Description: Introduction to basic commutative algebra, algebraic geometry, and computational techniques. Main focus on curves, surfaces and Grassmannian varieties.

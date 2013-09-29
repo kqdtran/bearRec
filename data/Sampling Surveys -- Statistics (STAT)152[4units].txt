@@ -1,0 +1,2 @@
+Sampling Surveys -- Statistics (STAT)152[4units]
+Description: Theory and practice of sampling from finite populations. Simple random, stratified, cluster, and double sampling. Sampling with unequal probabilities. Properties of various estimators including ratio, regression, and difference estimators. Error estimation for complex samples.

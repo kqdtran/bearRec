@@ -1,0 +1,2 @@
+User Interface Design and Development -- School Of Information (INFO)213[4units]
+Description: User interface design and human-computer interaction. Examination of alternative design. Tools and methods for design and development. Human computer interaction. Methods for measuring and evaluating interface quality.

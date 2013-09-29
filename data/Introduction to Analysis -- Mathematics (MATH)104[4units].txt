@@ -1,0 +1,2 @@
+Introduction to Analysis -- Mathematics (MATH)104[4units]
+Description: The real number system. Sequences, limits, and continuous functions in R and R. The concept of a metric space. Uniform convergence, interchange of limit operations. Infinite series. Mean value theorem and applications. The Riemann integral.

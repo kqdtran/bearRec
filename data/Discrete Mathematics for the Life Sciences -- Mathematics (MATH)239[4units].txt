@@ -1,0 +1,2 @@
+Discrete Mathematics for the Life Sciences -- Mathematics (MATH)239[4units]
+Description: Introduction to algebraic statistics and probability, optimization, phylogenetic combinatorics, graphs and networks, polyhedral and metric geometry.

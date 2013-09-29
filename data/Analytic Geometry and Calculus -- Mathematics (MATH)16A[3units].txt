@@ -1,0 +1,2 @@
+Analytic Geometry and Calculus -- Mathematics (MATH)16A[3units]
+Description: This sequence is intended for majors in the life and social sciences. Calculus of one variable; derivatives, definite integrals and applications, maxima and minima, and applications of the exponential and logarithmic functions.

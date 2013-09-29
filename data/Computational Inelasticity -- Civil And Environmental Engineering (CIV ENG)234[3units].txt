@@ -1,0 +1,2 @@
+Computational Inelasticity -- Civil And Environmental Engineering (CIV ENG)234[3units]
+Description: Computational methods applied to inelastic deformations of solids; 1, 2, and 3-D large and small-deformation continuum plasticity and viscoelasticity models and their algorithmic approximations; viscoplastic regularizations and softening; thermodynamics and its relationship to algorithmic stability; return mappings, closest-point projections and operator splits; application to metals, soils, concrete, and polymers and incorporation into finite element codes.

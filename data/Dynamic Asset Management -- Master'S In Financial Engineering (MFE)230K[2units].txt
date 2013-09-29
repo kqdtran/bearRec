@@ -1,0 +1,2 @@
+Dynamic Asset Management -- Master'S In Financial Engineering (MFE)230K[2units]
+Description: This course reviews portfolio theory and pricing models. It includes: risk models for international portfolio returns, models of optimal allocation of funds, exchange rate uncertainty and criteria for judging the performance of managers and models; different types of portfolios/instruments, different types of applications, and strategies to achieve various investment objectives.

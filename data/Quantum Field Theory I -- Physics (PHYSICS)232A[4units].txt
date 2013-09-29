@@ -1,0 +1,2 @@
+Quantum Field Theory I -- Physics (PHYSICS)232A[4units]
+Description: Introduction to quantum field theory: canonical quantization of scalar, electromagnetic, and Dirac fields; derivation of Feynman rules; regularization and renormalization; introduction to the renormalization group; elements of the path integral.

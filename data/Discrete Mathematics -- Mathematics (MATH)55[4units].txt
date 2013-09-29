@@ -1,0 +1,2 @@
+Discrete Mathematics -- Mathematics (MATH)55[4units]
+Description: Logic, mathematical induction sets, relations, and functions. Introduction to graphs, elementary number theory, combinatorics, algebraic structures, and discrete probability theory.

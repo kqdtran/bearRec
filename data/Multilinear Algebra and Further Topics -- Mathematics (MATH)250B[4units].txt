@@ -1,0 +1,2 @@
+Multilinear Algebra and Further Topics -- Mathematics (MATH)250B[4units]
+Description: Tensor algebras and exterior algebras, with application to linear transformations. Commutative ideal theory, localization. Elementary specialization and valuation theory. Related topics in algebra.

@@ -1,0 +1,2 @@
+Laboratory in Natural Resource Sampling -- Environmental Science, Policy And Management (ESPM)102BL[2units]
+Description: This laboratory course is designed to introduce students to the major sampling systems used in natural resources and ecology. Field data is collected with various important sampling designs and analyzed. Mean values and confidence intervals are constructed from the data collected in this course. This course must be taken in conjunction with lecture course 102B.

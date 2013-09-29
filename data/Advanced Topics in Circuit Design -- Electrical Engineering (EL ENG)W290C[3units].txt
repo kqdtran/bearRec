@@ -1,0 +1,2 @@
+Advanced Topics in Circuit Design -- Electrical Engineering (EL ENG)W290C[3units]
+Description: Seminar-style course presenting an in-depth perspective on one specific domain of integrated circuit design. Most often, this will address an application space that has become particularly relevant in recent times. Examples are serial links, ultra low-power design, wireless transceiver design, etc.

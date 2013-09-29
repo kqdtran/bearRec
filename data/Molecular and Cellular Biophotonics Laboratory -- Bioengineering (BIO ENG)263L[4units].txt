@@ -1,0 +1,2 @@
+Molecular and Cellular Biophotonics Laboratory -- Bioengineering (BIO ENG)263L[4units]
+Description: This course provides undergraduate and graduate bioengineering students with an opportunity to acquire essential experimental skills in fluorescence spectroscopy and the design, evaluation, and optimization of optical biosensors for quantitative measurements of proteins and their targets. Groups of students will be responsible for the research, design, and development of a biosensor or diagnostic device for the detection, diagnosis, and monitoring of a specific biomarker(s).

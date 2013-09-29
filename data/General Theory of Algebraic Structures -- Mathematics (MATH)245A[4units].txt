@@ -1,0 +1,2 @@
+General Theory of Algebraic Structures -- Mathematics (MATH)245A[4units]
+Description: Structures defined by operations and/or relations, and their homomorphisms. Classes of structures determined by identities. Constructions such as free objects, objects presented by generators and relations, ultraproducts, direct limits. Applications of general results to groups, rings, lattices, etc. Course may emphasize study of congruence- and subalgebra-lattices, or category-theory and adjoint functors, or other aspects.

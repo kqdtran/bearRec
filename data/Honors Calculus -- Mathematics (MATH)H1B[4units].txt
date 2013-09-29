@@ -1,0 +1,2 @@
+Honors Calculus -- Mathematics (MATH)H1B[4units]
+Description: Honors version of 1B. Continuation of 1A. Techniques of integration; applications of integration. Infinite sequences and series. First-order ordinary differential equations. Second-order ordinary differential equations; oscillation and damping; series solutions of ordinary differential equations.

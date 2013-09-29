@@ -1,0 +1,2 @@
+Discrete Event Simulation -- Industrial Engineering (IND ENG)131[3units]
+Description: Introductory course on design, programming, and statistical analysis of a simulation study. Topics include the types of problems that can be solved by such methods. Programming material includes the theory behind random variable generation for a variety of common variables. Techniques to reduce the variance of the resultant estimator and statistical analysis are considered. Final project required.

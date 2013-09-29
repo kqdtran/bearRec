@@ -1,0 +1,2 @@
+Fusion Reactor Engineering -- Nuclear Engineering (NUC ENG)280[3units]
+Description: Engineering and design of fusion systems. Introduction to controlled thermonuclear fusion as an energy economy, from the standpoint of the physics and technology involved. Case studies of fusion reactor design. Engineering principles of support technology for fusion systems.

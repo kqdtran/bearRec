@@ -1,0 +1,2 @@
+Industrial and Commercial Data Systems -- Industrial Engineering (IND ENG)115[3units]
+Description: Design and implementation of databases, with an emphasis on industrial and commercial applications. Relational algebra, SQL, normalization. Students work in teams with local companies on a database design project. WWW design and queries.

@@ -1,0 +1,2 @@
+Theory of Recursive Functions -- Mathematics (MATH)227A[4units]
+Description: Recursive and recursively enumerable sets of natural numbers; characterizations, significance, and classification. Relativization, degrees of unsolvability. The recursion theorem. Constructive ordinals, the hyperarithmetical and analytical hierarchies. Recursive objects of higher type. Sequence begins fall.

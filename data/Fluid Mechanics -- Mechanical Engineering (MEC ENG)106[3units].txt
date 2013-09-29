@@ -1,0 +1,2 @@
+Fluid Mechanics -- Mechanical Engineering (MEC ENG)106[3units]
+Description: This course introduces the fundamentals and techniques of fluid mechanics with the aim of describing and controlling engineering flows.

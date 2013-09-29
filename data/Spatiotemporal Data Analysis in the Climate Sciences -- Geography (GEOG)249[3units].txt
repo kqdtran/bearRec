@@ -1,0 +1,2 @@
+Spatiotemporal Data Analysis in the Climate Sciences -- Geography (GEOG)249[3units]
+Description: This graduate seminar teaches objective techniques for spatiotemporal data analysis focusing primarily on Empirical Orthogonal Function (EOF) analysis and its derivatives. The context will be climate data analysis, but the technique is readily translatable to other fields. The goal is to get the student sufficiently comfortable with the technique so they can use it in their research.

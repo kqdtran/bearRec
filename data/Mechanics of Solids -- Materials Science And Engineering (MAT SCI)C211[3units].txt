@@ -1,0 +1,2 @@
+Mechanics of Solids -- Materials Science And Engineering (MAT SCI)C211[3units]
+Description: Mechanical response of materials: Simple tension in elastic, plastic and viscoelastic members. Continuum mechanics: The stress and strain tensors, equilibrium, compatibility. Three-dimensional elastic, plastic and viscoelastic problems. Thermal, transformation, and dealloying stresses. Applications: Plane problems, stress concentrations at defects, metal forming problems. Also listed as Civil and Environmental Engineering C231.

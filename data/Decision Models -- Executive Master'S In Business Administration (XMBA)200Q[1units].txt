@@ -1,0 +1,2 @@
+Decision Models -- Executive Master'S In Business Administration (XMBA)200Q[1units]
+Description: This core course introduces students to quantitative concepts, techniques, and software with which all successful managers should be familiar. The objective of this course is to improve managerial decision making by introducing managers to optimization techniques, simulation, and project management.

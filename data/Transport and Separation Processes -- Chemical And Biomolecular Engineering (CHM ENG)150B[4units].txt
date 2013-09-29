@@ -1,0 +1,2 @@
+Transport and Separation Processes -- Chemical And Biomolecular Engineering (CHM ENG)150B[4units]
+Description: Principles of mass transfer with application to chemical processes. Diffusion and convection. Simultaneous heat and mass transfer; mass transfer coefficients. Design of staged and continuous separations processes.

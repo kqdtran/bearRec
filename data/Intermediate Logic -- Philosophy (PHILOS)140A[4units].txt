@@ -1,0 +1,2 @@
+Intermediate Logic -- Philosophy (PHILOS)140A[4units]
+Description: Major concepts, results, and techniques of modern logic. Basic set theoretic tools. Model theoretic treatment of propositional and first-order logic (completeness, compactness, Lowenheim-Skolem). Philosophical implcations of these results.

@@ -1,0 +1,2 @@
+Heat Convection -- Mechanical Engineering (MEC ENG)252[3units]
+Description: The transport of heat in fluids in motion; free and forced convection in laminar and turbulent flow over surfaces and within ducts.

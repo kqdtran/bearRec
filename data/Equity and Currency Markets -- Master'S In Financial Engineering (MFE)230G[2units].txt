@@ -1,0 +1,2 @@
+Equity and Currency Markets -- Master'S In Financial Engineering (MFE)230G[2units]
+Description: This course reviews various aspects of equity and currency markets and their relative importance. It provides models of and historical evidence on the average returns and volatility of returns on equities, on the trade-to-trade equity price behavior, on trading volume and patterns, and primary financial risks. Determination of spot and forward rates and volatility, volume, high frequency dynamics and dealer behavior are examined.

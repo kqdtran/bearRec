@@ -1,0 +1,2 @@
+User Experience Research -- School Of Information (INFO)114[3units]
+Description: Methods and concepts of creating design requirements and evaluating prototypes and existing systems. Emphasis on computer-based systems, including mobile system and ubiquitous computing, but may be suitable for students interested in other domains of design for end-users. Includes quantitative and qualitative methods as applied to design, usually for short-term term studies intended to provide guidance for designers.

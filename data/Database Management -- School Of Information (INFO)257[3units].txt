@@ -1,0 +1,2 @@
+Database Management -- School Of Information (INFO)257[3units]
+Description: Introduction to relational, hierarchical, network, and object-oriented database management systems. Database design concepts, query languages for database applications (such as SQL), concurrency control, recovery techniques, database security. Issues in the management of databases. Use of report writers, application generators, high-level interface generators.

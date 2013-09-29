@@ -1,0 +1,2 @@
+Interactive Device Design -- Mechanical Engineering (MEC ENG)290U[3units]
+Description: This course teaches concepts and skills required to design, prototype, and fabricate interactive devices -- that is, physical objects that intelligently respond to user input and enable new types of interactions.
