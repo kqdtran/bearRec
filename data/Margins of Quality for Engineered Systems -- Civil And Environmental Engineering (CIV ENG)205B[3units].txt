@@ -1,0 +1,2 @@
+Margins of Quality for Engineered Systems -- Civil And Environmental Engineering (CIV ENG)205B[3units]
+Description: Processes and procedures to define and determine the demands and capacities of the structures and hardware elements of engineered systems during their life-cycles: margins of quality. The objective of this course is to provide students with the knowledge and skills to define and evaluate system demands, capacities, and reliabiltity targets to be used in design, requalification, construction, operation, maintenance, and decommissioning of engineered systems.

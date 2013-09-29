@@ -1,0 +1,2 @@
+Molecular Mechanisms of Neuronal Plasticity -- Molecular And Cell Biology (MCELLBI)269C[2units]
+Description: Research in our laboratory focuses on understanding how neurons use biochemical pathways to integrate diverse types of information in order to adjust synaptic strength and modulate neuronal excitability, and how these interactions go awry in disease.  To investigate this we are taking a multi-disciplinary approach incorporating molecular, biochemical, imaging, and electrophysiological analyses in mouse and human cells.

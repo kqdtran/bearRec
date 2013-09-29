@@ -1,0 +1,2 @@
+Computational Mechanics -- Civil And Environmental Engineering (CIV ENG)233[3units]
+Description: Computational methods for solution of problems in structural mechanics. Finite-element methods for displacement and mixed variational solutions of problems in elasticity and inelasticity. Treatment of constraints arising from near incompressibility in solids, transverse shear effects in beams, plates, and shells, and/or contact between structures. Programming methods for finite-element implementations.

@@ -1,0 +1,2 @@
+Probability for Applications -- Statistics (STAT)204[4units]
+Description: A treatment of ideas and techniques most commonly found in the applications of probability: Gaussian and Poisson processes, limit theorems, large deviation principles, information, Markov chains and Markov chain Monte Carlo, martingales, Brownian motion and diffusion.

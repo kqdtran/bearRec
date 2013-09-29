@@ -1,0 +1,2 @@
+Mathematical and Computational Methods in Molecular Biology -- Mathematics (MATH)127[4units]
+Description: Introduction to mathematical and computational problems arising in the context of molecular biology. Theory and applications of combinatorics, probability, statistics, geometry, and topology to problems ranging from sequence determination to structure analysis.

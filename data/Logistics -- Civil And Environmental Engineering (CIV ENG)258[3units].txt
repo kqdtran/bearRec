@@ -1,0 +1,2 @@
+Logistics -- Civil And Environmental Engineering (CIV ENG)258[3units]
+Description: Vehicle routing. Transportation-inventory-production interrelationships, physical distribution networks, many-to-many networks (airlines, postal, etc.), the role of transshipments and terminals in logistic systems for the transportation of goods and passengers, public and private transportation system design. Relevant methodologies.

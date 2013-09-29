@@ -1,0 +1,2 @@
+Partial Differential Equations -- Mathematics (MATH)222A[4units]
+Description: The theory of boundary value and initial value problems for partial differential equations, with emphasis on nonlinear equations. Laplace's equation, heat equation, wave equation, nonlinear first-order equations, conservation laws, Hamilton-Jacobi equations, Fourier transform, Sobolev spaces.

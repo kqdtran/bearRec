@@ -1,0 +1,2 @@
+Privacy, Security, and Cryptography -- School Of Information (INFO)219[3units]
+Description: Policy and technical issues related to insuring the accuracy and privacy of information. Encoding and decoding techniques including public and private key encryption. Survey of security problems in networked information environment including viruses, worms, trojan horses, Internet address spoofing.

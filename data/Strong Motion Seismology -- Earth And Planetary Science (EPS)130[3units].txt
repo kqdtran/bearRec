@@ -1,0 +1,2 @@
+Strong Motion Seismology -- Earth And Planetary Science (EPS)130[3units]
+Description: Generation of seismic waves. Synthetic accelerograms. Instrumentation to measure strong ground motion. Estimation of seismic motion at a site. Ground motion spectra. Influence of soils and geologic structures. Seismic risk mapping.

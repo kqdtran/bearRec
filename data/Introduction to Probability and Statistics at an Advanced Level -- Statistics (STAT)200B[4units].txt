@@ -1,0 +1,2 @@
+Introduction to Probability and Statistics at an Advanced Level -- Statistics (STAT)200B[4units]
+Description: Probability spaces, random variables, distributions in probability and statistics, central limit theorem, Poisson processes, transformations involving random variables, estimation, confidence intervals, hypothesis testing, linear models, large sample theory, categorical models, decision theory.

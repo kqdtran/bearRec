@@ -1,0 +1,2 @@
+Introduction to the Finite Element Method -- Mechanical Engineering (MEC ENG)280A[3units]
+Description: Weighted-residual and variational methods of approximation. Canonical construction of finite element spaces. Formulation of element and global state equations. Applications to linear partial differential equations of interest in engineering and applied science.

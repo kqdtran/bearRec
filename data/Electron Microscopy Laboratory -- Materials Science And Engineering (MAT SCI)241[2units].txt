@@ -1,0 +1,2 @@
+Electron Microscopy Laboratory -- Materials Science And Engineering (MAT SCI)241[2units]
+Description: Basic techniques and operations of transmission, and scanning, electron microscopy; x-ray microanalysis, energy loss spectroscopy; specimen preparation, interpretation of data; individual projects in materials science.

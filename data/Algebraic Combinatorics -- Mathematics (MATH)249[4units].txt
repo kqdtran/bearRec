@@ -1,0 +1,2 @@
+Algebraic Combinatorics -- Mathematics (MATH)249[4units]
+Description: (I) Enumeration, generating functions and exponential structures, (II) Posets and lattices, (III) Geometric combinatorics, (IV) Symmetric functions, Young tableaux, and connections with representation theory. Further study of applications of the core material and/or additional topics, chosen by instructor.

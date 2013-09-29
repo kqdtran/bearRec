@@ -1,0 +1,2 @@
+Programming for Computing Applications -- School Of Information (INFO)90[3units]
+Description: An introduction to high-level computer programming languages covering their basis in mathematics and logic. This course will guide students through the elements that compose any programming language including expressions, control of flow, data structures, and modularity via functions and/or objects. Covers traditional contemporary programming paradigms including sequential, event-based, and object-oriented programming; multi-person programming projects and debugging strategies.

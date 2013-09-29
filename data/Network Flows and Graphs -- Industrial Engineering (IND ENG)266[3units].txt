@@ -1,0 +1,2 @@
+Network Flows and Graphs -- Industrial Engineering (IND ENG)266[3units]
+Description: Survey of solution techniques and problems that have formulations in terms of flows in networks. Max-flow min-cut theorem. Minimum cost flows. Multiterminal and multicommodity flows. Relationship with linear programming, transportation problems, electrical networks and critical path scheduling.

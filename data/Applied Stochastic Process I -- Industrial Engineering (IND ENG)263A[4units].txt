@@ -1,0 +1,2 @@
+Applied Stochastic Process I -- Industrial Engineering (IND ENG)263A[4units]
+Description: Conditional Expectation. Poisson and renewal processes. Renewal reward processes with application to inventory, congestion, and replacement models. Discrete and continuous time Markov chains; with applications to various stochastic systems--such as exponential queueing systems, inventory models and reliability systems.

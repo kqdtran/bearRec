@@ -1,0 +1,2 @@
+Distributed Computing Applications and Infrastructure -- School Of Information (INFO)206[4units]
+Description: Technological foundations for computing and communications: computer architecture, operating systems, networking, middleware, security. Programming paradigms: object oriented-design, design and analysis of algorithms, data structures, formal languages. Distributed-system architectures and models, inter-process communications, concurrency, system performance.

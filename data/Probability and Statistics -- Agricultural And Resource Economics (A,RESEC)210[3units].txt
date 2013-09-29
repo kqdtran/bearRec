@@ -1,0 +1,2 @@
+Probability and Statistics -- Agricultural And Resource Economics (A,RESEC)210[3units]
+Description: This is an introduction to probability theory and statistical inference. It is primarily intended to prepare students for the graduate econometrics courses 212 and 213. The emphasis of the course is on the principles of statistical reasoning. Probability theory will be discussed mainly as a background for statistical theory and specific models will, for the most part, be considered only to illustrate the general statistical theory as it is developed.

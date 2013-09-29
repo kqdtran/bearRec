@@ -1,0 +1,2 @@
+Introduction to Probability and Statistics -- Statistics (STAT)20[4units]
+Description: For students with mathematical background who wish to acquire basic concepts. Relative frequencies, discrete probability, random variables, expectation. Testing hypotheses. Estimation. Illustrations from various fields.

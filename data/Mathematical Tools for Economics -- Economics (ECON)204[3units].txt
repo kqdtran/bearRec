@@ -1,0 +1,2 @@
+Mathematical Tools for Economics -- Economics (ECON)204[3units]
+Description: The course provides a rigorous abstract treatment of the elements of real analysis and linear algebra central to current research in economics. The course develops in the students the ability to read mathematical proofs and to compose simple proofs on their own.

@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 
 def main():
 	department_list = scrape()
-	print(department_list)
 	department_scrape(department_list)
 
 def scrape():
@@ -39,81 +38,83 @@ def department_scrape(d_list):
 	# set up post parameter
 	
 
+	for department in d_list:
 
 
-	payload = {'p_dept_name': 'Biology'}
-	# posting website and constructing soup object
- 	r = requests.post(url, params=payload)
- 	soup = BeautifulSoup(r.content, from_encoding="utf-8")
- 	# variable for scrap object
- 	text = []
-
-
-
-	# iterate the table row element
-	for sp in soup.find_all("tr"):
-	 	text.append(sp.text.strip())
+		payload = {'p_dept_name': department}
+		# posting website and constructing soup object
+	 	r = requests.post(url, params=payload)
+	 	soup = BeautifulSoup(r.content, from_encoding="utf-8")
+	 	# variable for scrap object
+	 	text = []
 
 
 
-
-	# formatting text array
-	format_text = []
-	class_name = []
-	i = 0
-	title_indicator = False
-	after_format_indicator = False
-	while i < len(text):
-
-		if ("Course Format" in text[i]) and title_indicator == False:
-			i = i - 1
-			title_indicator = True
-			after_format_indicator = False
-		elif "Course Format" in text[i]:
-			format_text.append(text[i])
-			title_indicator = False
-			after_format_indicator = True
-
-		if "Prerequisites" in text[i]:
-			format_text.append(text[i])
-
-		if "Description" in text[i]:
-			format_text.append(text[i])
-
-		if title_indicator == True:
-			class_name.append(text[i])
-			format_text.append(text[i])
-
-		i = i + 1
+		# iterate the table row element
+		for sp in soup.find_all("tr"):
+		 	text.append(sp.text.strip())
 
 
-	#### List of spliter
-	s1 = "Course Format:"
-	s2 = "Prerequisites:"
-	s3 = "Credit option"
-	s4 = "Description:"
 
-	save_indicator = False
 
-	for element in class_name:
+		# formatting text array
+		format_text = []
+		class_name = []
+		i = 0
+		title_indicator = False
+		after_format_indicator = False
+		while i < len(text):
 
-		name = element + ".txt"
-		safe_name = name.encode('ascii', 'ignore')
-		for info in format_text:
+			if ("Course Format" in text[i]) and title_indicator == False:
+				i = i - 1
+				title_indicator = True
+				after_format_indicator = False
+			elif "Course Format" in text[i]:
+				format_text.append(text[i])
+				title_indicator = False
+				after_format_indicator = True
 
-			if element in info:
-				save_indicator = True
+			if "Prerequisites" in text[i]:
+				format_text.append(text[i])
 
-			if save_indicator == True:
-				if s4 in info:
-					save_indicator = False
+			if "Description" in text[i]:
+				format_text.append(text[i])
 
-				with open("data/" + safe_name, "w") as f:
-					problem_str = u'This is not all ascii\xf8 man'
-					safe_str = info.encode('ascii', 'ignore')
-					safe_element = element.encode('ascii', 'ignore')
-					f.write(safe_element + "\n")
-					f.write(safe_str + "\n")
+			if title_indicator == True:
+				class_name.append(text[i])
+				format_text.append(text[i])
+
+			i = i + 1
+
+
+		#### List of spliter
+		s1 = "Course Format:"
+		s2 = "Prerequisites:"
+		s3 = "Credit option"
+		s4 = "Description:"
+
+		save_indicator = False
+
+		for element in class_name:
+
+			name = element + ".txt"
+			name = name.replace("/", "     ")
+			safe_name = name.encode('ascii', 'ignore')
+			for info in format_text:
+
+				if element in info:
+					save_indicator = True
+
+				if save_indicator == True:
+					if s4 in info:
+						save_indicator = False
+
+					with open("data/" + safe_name, "w") as f:
+						problem_str = u'This is not all ascii\xf8 man'
+						safe_str = info.encode('ascii', 'ignore')
+						safe_element = element.encode('ascii', 'ignore')
+						f.write(safe_element + "\n")
+						f.write(safe_str + "\n")
 
 
 

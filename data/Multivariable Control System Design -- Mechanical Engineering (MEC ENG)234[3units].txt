@@ -1,0 +1,2 @@
+Multivariable Control System Design -- Mechanical Engineering (MEC ENG)234[3units]
+Description: Analysis and synthesis techniques for multi-input (MIMO) control systems. Emphasis is on the effect that model uncertainty has on the design process.

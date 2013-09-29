@@ -1,0 +1,2 @@
+Von Neumann Algebras -- Mathematics (MATH)209[4units]
+Description: Basic theory of von Neumann algebras. Density theorems, topologies and normal maps, traces, comparison of projections, type classification, examples of factors. Additional topics, for example, Tomita Takasaki theory, subfactors, group actions, and noncommutative probability.

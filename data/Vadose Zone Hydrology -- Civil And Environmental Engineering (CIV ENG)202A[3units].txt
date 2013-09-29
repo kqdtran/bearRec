@@ -1,0 +1,2 @@
+Vadose Zone Hydrology -- Civil And Environmental Engineering (CIV ENG)202A[3units]
+Description: Course addresses fundamental and practical issues in flow and transport phenomena in the vadose zone, which is the geologic media between the land surface and the regional water table. A theoretical framework for modeling these phenomena will be presented, followed by applications in the areas of ecology, drainage and irrigation, and contaminant transport. Hands-on applications using numerical modeling and analysis of real-life problems and field experiments will be emphasized.

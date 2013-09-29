@@ -1,0 +1,2 @@
+Introduction to Optical Engineering -- Electrical Engineering (EL ENG)118[3units]
+Description: Fundamental principles of optical systems. Geometrical optics and aberration theory. Stops and apertures, prisms, and mirrors. Diffraction and interference. Optical materials and coatings. Radiometry and photometry. Basic optical devices and the human eye. The design of optical systems. Lasers, fiber optics, and holography.

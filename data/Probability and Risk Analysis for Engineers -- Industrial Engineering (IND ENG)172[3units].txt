@@ -1,0 +1,2 @@
+Probability and Risk Analysis for Engineers -- Industrial Engineering (IND ENG)172[3units]
+Description: This is an introductory probability course for students in engineering. It focuses mostly on random variables and their applications. Applications will be given in such areas as reliability theory, risk theory, inventory theory, failure models, stress models, computer science, and others. Note: this course can not be used to fulfill any engineering unit or elective requirements; this is a statistics course and can only be used to fulfill a statistics requirement.

@@ -1,0 +1,2 @@
+Cryptography -- Computer Science (Engineering) (COMPSCI)276[3units]
+Description: Graduate survey of modern topics on theory, foundations, and applications of modern cryptography. One-way functions; pseudorandomness; encryption; authentication; public-key cryptosystems; notions of security. May also cover zero-knowledge proofs, multi-party cryptographic protocols, practical applications, and/or other topics, as time permits.

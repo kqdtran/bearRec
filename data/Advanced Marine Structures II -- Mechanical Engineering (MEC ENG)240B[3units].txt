@@ -1,0 +1,2 @@
+Advanced Marine Structures II -- Mechanical Engineering (MEC ENG)240B[3units]
+Description: This course is concerned with the structural response of marine structures to environmental loads. Overall response of the structure as well as the behavior of its members under lateral and compressive loads are discussed.

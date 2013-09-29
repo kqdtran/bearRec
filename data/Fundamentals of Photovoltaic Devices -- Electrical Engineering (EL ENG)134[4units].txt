@@ -1,0 +1,2 @@
+Fundamentals of Photovoltaic Devices -- Electrical Engineering (EL ENG)134[4units]
+Description: This course is designed to give an introduction to, and overview of, the fundamentals of photovoltaic devices. Students will learn how solar cells work, understand the concepts and models of solar cell device physics, and formulate and solve relevant physical problems related to photovoltaic devices. Monocrystalline, thin film and third generation solar cells will be discussed and analyzed. Light management and economic considerations in a solar cell system will also be covered.

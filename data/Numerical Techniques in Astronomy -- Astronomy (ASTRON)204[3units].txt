@@ -1,0 +1,2 @@
+Numerical Techniques in Astronomy -- Astronomy (ASTRON)204[3units]
+Description: Methods of data analysis, model fitting, and data display, all oriented towards the detailed analysis of astronomical observation data and/or numerical results from simulations. Specific topics include probability density functions, error propagation, maximum likelihood, least squares, data and function fitting, Fourier transforms, wavelets, principal components analysis, color images. The software language used is the Interactive Data Language (IDL).

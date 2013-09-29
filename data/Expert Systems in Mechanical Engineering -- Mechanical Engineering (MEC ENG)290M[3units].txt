@@ -1,0 +1,2 @@
+Expert Systems in Mechanical Engineering -- Mechanical Engineering (MEC ENG)290M[3units]
+Description: Introduction to artificial intelligence and decision analysis in mechanical engineering. Fundamentals of analytic design, probability theory, failure analysis, risk assessment, and Bayesian and logical inference. Applications to expert systems in probabilistic mechanical engineering design and failure diagnostics. Use of automated influence diagrams to codify expert knowledge and to evaluate optimal design decisions.

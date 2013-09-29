@@ -1,0 +1,2 @@
+Naval Ship Systems II -- Naval Science (Naval Rotc) (NAV SCI)401[3units]
+Description: An introduction to the physical theory of acoustic and electromagnetic wave generation and propagation; the design and use of electronic, electromechanical, and pneumatic systems; and the combination of these systems to perform detection and analysis of objects sharing and traversing common environments.

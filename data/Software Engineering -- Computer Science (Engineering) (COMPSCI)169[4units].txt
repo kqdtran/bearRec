@@ -1,0 +1,2 @@
+Software Engineering -- Computer Science (Engineering) (COMPSCI)169[4units]
+Description: Ideas and techniques for designing, developing, and modifying large software systems. Function-oriented and object-oriented modular design techniques, designing for re-use and maintainability. Specification and documentation. Verification and validation. Cost and quality metrics and estimation. Project team organization and management. Students will work in teams on a substantial programming project.

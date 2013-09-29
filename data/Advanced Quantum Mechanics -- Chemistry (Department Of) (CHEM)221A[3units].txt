@@ -1,0 +1,2 @@
+Advanced Quantum Mechanics -- Chemistry (Department Of) (CHEM)221A[3units]
+Description: Introduction, one dimensional problems, matrix mechanics, approximation methods.

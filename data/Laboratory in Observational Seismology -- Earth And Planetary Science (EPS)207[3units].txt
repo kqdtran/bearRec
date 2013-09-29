@@ -1,0 +1,2 @@
+Laboratory in Observational Seismology -- Earth And Planetary Science (EPS)207[3units]
+Description: Group problem solving of current seismological topics. Analysis, inversion, and numerical modeling of seismic waveform data to investigate questions regarding the physics of the earthquake source and seismic wave propagation. Application of current developments and techniques in seismological research.

@@ -1,0 +1,2 @@
+Engineering Thermodynamics -- Engineering (ENGIN)115[4units]
+Description: Fundamental laws of thermodynamics for simple substances; application to flow processes and to nonreacting mixtures; statistical thermodynamics of ideal gases and crystalline solids; chemical and materials thermodynamics; multiphase and multicomponent equilibria in reacting systems; electrochemistry. Sponsoring Departments: Materials Science and Engineering and Nuclear Engineering.

@@ -1,0 +1,2 @@
+Second Course in Abstract Algebra -- Mathematics (MATH)114[4units]
+Description: Further topics on groups, rings, and fields not covered in Math 113. Possible topics include the Sylow Theorems and their applications to group theory; classical groups; abelian groups and modules over a principal ideal domain; algebraic field extensions; splitting fields and Galois theory; construction and classification of finite fields.

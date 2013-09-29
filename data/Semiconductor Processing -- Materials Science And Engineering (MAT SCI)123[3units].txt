@@ -1,0 +1,2 @@
+Semiconductor Processing -- Materials Science And Engineering (MAT SCI)123[3units]
+Description: Semiconductor purification and crystal growth techniques; impurity doping by diffusion, ion implantation and alloy regrowth; contact formation, mechanical and chemical processing; semiconductor analysis.

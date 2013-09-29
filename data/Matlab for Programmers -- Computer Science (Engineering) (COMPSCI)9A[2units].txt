@@ -1,0 +1,2 @@
+Matlab for Programmers -- Computer Science (Engineering) (COMPSCI)9A[2units]
+Description: Introduction to the constructs in the Matlab programming language, aimed at students who already know how to program. Array and matrix operations, functions and function handles, control flow, plotting and image manipulation, cell arrays and structures, and the Symbolic Mathematics toolbox.

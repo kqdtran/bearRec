@@ -1,0 +1,2 @@
+Computational Optimization -- Industrial Engineering (IND ENG)264[3units]
+Description: This course is on computational methods for the solution of large-scale optimization problems. The focus is on converting the theory of optimization into effective computational techniques. Course topics include an introduction to polyhedral theory, cutting plane methods, relaxation, decomposition and heuristic approaches for large-scale optimization problems.

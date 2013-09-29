@@ -1,0 +1,2 @@
+Thermal Aspects of Nuclear Reactors -- Nuclear Engineering (NUC ENG)260[4units]
+Description: Fluid dynamics and heat transfer; thermal and hydraulic analysis of nuclear reactors; two-phase flow and boiling; compressible flow; stress analysis; energy conversion methods.

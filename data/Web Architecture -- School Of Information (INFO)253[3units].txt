@@ -1,0 +1,2 @@
+Web Architecture -- School Of Information (INFO)253[3units]
+Description: This course is a survey of Web technologies, ranging from the basic technologies underlying the Web (URI, HTTP, HTML) to more advanced technologies being used in the the context of Web engineering--for example, structured data formats and Web programming frameworks. The goal of this course is to provide an overview of the technical issues surrounding the Web today, and to provide a solid and comprehensive perspective of the Web's constantly evolving landscape.

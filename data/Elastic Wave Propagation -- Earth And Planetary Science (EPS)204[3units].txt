@@ -1,0 +1,2 @@
+Elastic Wave Propagation -- Earth And Planetary Science (EPS)204[3units]
+Description: Wave propagation in elastic solids; effects of anelasticity and anistropy; representation theorems; reflection and refraction; propagation in layered media; finite-difference and finite-element methods.

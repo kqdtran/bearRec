@@ -1,0 +1,2 @@
+Design of Planar Machinery -- Mechanical Engineering (MEC ENG)130[3units]
+Description: Synthesis, analysis, and design of planar machines. Kinematic structure, graphical, analytical, and numerical analysis and synthesis. Linkages, cams, reciprocating engines, gear trains, and flywheels.

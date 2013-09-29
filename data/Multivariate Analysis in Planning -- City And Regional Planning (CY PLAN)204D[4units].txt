@@ -1,0 +1,2 @@
+Multivariate Analysis in Planning -- City And Regional Planning (CY PLAN)204D[4units]
+Description: Theory and application of advanced multivariate methods in planning. Emphasis on causal modeling of cross-sectional data. Topics include: multiple regression analysis; residual analysis; weighted least squares; non-linear models; path analysis; log-linear models; logit and probit analysis; principal components; factor and cluster analysis. Completion of two computer assignments, using several microcomputer statistical packages, is required.

@@ -1,0 +1,2 @@
+Transport Phenomena -- Chemical And Biomolecular Engineering (CHM ENG)171[3units]
+Description: Study of momentum, energy, and mass transfer in laminar and turbulent flow.

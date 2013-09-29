@@ -1,0 +1,2 @@
+Theory of Elastic Stability -- Mechanical Engineering (MEC ENG)288[3units]
+Description: Dynamic stability of elastic bodies. Small motion on finite deformation. Classical treatments of buckling problems. Snapthrough and other global stability problems. Stability theory based upon nonlinear three-dimensional theory of elasticity.

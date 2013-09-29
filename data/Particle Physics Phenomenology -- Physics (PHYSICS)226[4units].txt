@@ -1,0 +1,2 @@
+Particle Physics Phenomenology -- Physics (PHYSICS)226[4units]
+Description: Introduction to particle physics phenomena. Emphasis is placed on experimental tests of particle physics models. Topics include Quark model spectroscopy; weak decays; overview of detectors and accelerators; e+e- annihilation; parton model; electron-proton and neutrino-proton scattering; special topics of current interest.

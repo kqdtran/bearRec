@@ -1,0 +1,2 @@
+Molecular Cell Biomechanics -- Bioengineering (BIO ENG)C112[4units]
+Description: This course applies methods of statistical continuum mechanics to subcellar biomechanical phenomena ranging from nanoscale (molecular) to microscale (whole cell and cell population) biological processes at the interface of mechanics, biology, and chemistry. Also listed as Mechanical Engineering C115.

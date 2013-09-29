@@ -1,0 +1,2 @@
+Applied Finance Project -- Master'S In Financial Engineering (MFE)230N
+Description: Students will be required to complete an applied quantitative finance project that explores a quantitative finance problem that might be met in practice and involves the development or use of quantitative financial technique.

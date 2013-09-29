@@ -1,0 +1,2 @@
+Environmental Fluid Mechanics Design -- Civil And Environmental Engineering (CIV ENG)105[3units]
+Description: Hands-on design course in applied fluid mechanics. Course goes beyond basic examples of fluid flow to include detailed discussion of real-world environmental engineering. Class team projects are used to explore real fluid mechanics, e.g., engineering for air quality or design for sea level rise mitigation. Specific project topics vary by offering and include interdisciplinary design issues from structural, geotechnical, environmental and/or transporation engineering.

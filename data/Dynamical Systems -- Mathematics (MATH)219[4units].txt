@@ -1,0 +1,2 @@
+Dynamical Systems -- Mathematics (MATH)219[4units]
+Description: Diffeomorphisms and flows on manifolds. Ergodic theory. Stable manifolds, generic properties, structural stability. Additional topics selected by the instructor.

@@ -1,0 +1,2 @@
+Properties of Electronic Materials -- Materials Science And Engineering (MAT SCI)111[4units]
+Description: Introduction to the physical principles underlying the electric properties of modern solids with emphasis on semiconductors; control of defects and impurities through physical purification, bulk and thin film crystal growth and doping processes, materials basis of electronic and optoelectronic devices (diodes, transistors, semiconductor lasers) and optical fibers; properties of metal and oxide superconductors and their applications.

@@ -1,0 +1,2 @@
+Theory and Application of Non-Cooperative Games -- Economics (ECON)209A[3units]
+Description: This course will study both pure game theory and its application to such problems as oligopoly pricing, non-cooperative bargaining, predatory pricing, and optimal auctions. The focus will be on game theory as a modelling process as opposed to a body of known results.

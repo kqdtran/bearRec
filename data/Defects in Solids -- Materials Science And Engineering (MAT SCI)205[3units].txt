@@ -1,0 +1,2 @@
+Defects in Solids -- Materials Science And Engineering (MAT SCI)205[3units]
+Description: Many properties of solid state materials are determined by lattice defects. This course treats in detail the structure of crystal defects, defect formation and annihilation processes, and the influence of lattice defects on the physical and optical properties of crystalline materials.

@@ -1,0 +1,2 @@
+Operations of Transportation Terminals -- Civil And Environmental Engineering (CIV ENG)263[3units]
+Description: Characteristics of terminals on a mode by mode basis (sea ports, railyards, airports, parking lots, etc.). Methodologies used to study terminal operations and the management of congestion. (Chronographs, input-output diagrams, pricing, simulation). Studies illustrating the use of the methodologies for different modes.

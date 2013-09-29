@@ -1,0 +1,2 @@
+Thermodynamics for Chemical Product and Process Design -- Chemical And Biomolecular Engineering (CHM ENG)240[3units]
+Description: Topics covered include molecular thermodynamics of pure substances and mixtures, interfacial thermodynamics, statistical mechanics, and computer simulations.

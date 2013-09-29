@@ -1,0 +1,2 @@
+Convex Optimization -- Electrical Engineering (EL ENG)227BT[4units]
+Description: Convex optimization is a class of nonlinear optimization problems where the objective to be minimized, and the constraints, are both convex.   The course covers some convex optimization theory and algorithms, and describes various applications arising in engineering design, machine learning and statistics, finance, and operations research. The course includes laboratory assignments, which consist of hands-on experiments with the optimization software CVX, and a discussion section.

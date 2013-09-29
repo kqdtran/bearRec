@@ -1,0 +1,2 @@
+Air Pollutant Emissions and Control -- Civil And Environmental Engineering (CIV ENG)108[3units]
+Description: Analysis of air pollution sources and methods for controlling emissions, with a focus on transportation-related air pollution. Combustion system fundamentals and pollutant formation mechanisms. Control of emissions from spark-ignition and compression-ignition engines.

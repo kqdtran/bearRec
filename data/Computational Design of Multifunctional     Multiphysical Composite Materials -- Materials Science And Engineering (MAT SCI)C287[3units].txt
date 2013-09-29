@@ -1,0 +1,2 @@
+Computational Design of Multifunctional/Multiphysical Composite Materials -- Materials Science And Engineering (MAT SCI)C287[3units]
+Description: The course is self-contained and is designed in an interdisciplinary manner for graduate students in engineering, materials science, physics, and applied mathematics who are interested in methods to accelerate the laboratory analysis and design of new materials. Examples draw primarily from various mechanical, thermal, diffusive, and electromagnetic applications. Also listed as Mechanical Engineering C202.

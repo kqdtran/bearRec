@@ -1,0 +1,2 @@
+Applied Geophysics -- Civil And Environmental Engineering (CIV ENG)C178[3units]
+Description: The theory and practice of geophysical methods for determining the subsurface distribution of physical rock and soil properties. Measurements of gravity and magnetic fields, electrical and electromagnetic fields, and seismic velocity are interpreted to map the subsurface distribution of density, magnetic susceptibility, electrical conductivity, and mechanical properties. Also listed as Earth and Planetary Science C178.

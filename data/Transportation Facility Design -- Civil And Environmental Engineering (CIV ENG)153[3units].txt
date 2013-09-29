@@ -1,0 +1,2 @@
+Transportation Facility Design -- Civil And Environmental Engineering (CIV ENG)153[3units]
+Description: A capstone class with the objective to design transportation facilities based on operational capacity, site constraints, and environmental design considerations. Emphasis on airports, including landside and airside elements, and environmental assessment and mitigation techniques.

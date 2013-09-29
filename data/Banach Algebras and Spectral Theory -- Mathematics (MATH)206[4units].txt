@@ -1,0 +1,2 @@
+Banach Algebras and Spectral Theory -- Mathematics (MATH)206[4units]
+Description: Banach algebras. Spectrum of a Banach algebra element. Gelfand theory of commutative Banach algebras. Analytic functional calculus. Hilbert space operators. C*-algebras of operators. Commutative C*-algebras. Spectral theorem for bounded self-adjoint and normal operators (both forms: the spectral integral and the "multiplication operator" formulation). Riesz theory of compact operators. Hilbert-Schmidt operators. Fredholm operators. The Fredholm index. Selected additional topics.

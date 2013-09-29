@@ -1,0 +1,2 @@
+Heat Conduction -- Mechanical Engineering (MEC ENG)251[3units]
+Description: Analytical and numerical methods for the determination of the conduction of heat in solids.

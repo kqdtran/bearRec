@@ -1,0 +1,2 @@
+Asymptotic Analysis in Applied Mathematics -- Mathematics (MATH)203[4units]
+Description: Asymptotic methods for differential equations, with emphasis upon many physical examples. Topics will include matched asymptotic expansions, Laplace's method, stationary phase, boundary layers, multiple scales, WKB approximations, asymptotic Lagrangians, bifurcation theory.

@@ -1,0 +1,2 @@
+Ring Theory -- Mathematics (MATH)251[4units]
+Description: Topics such as: Noetherian rings, rings with descending chain condition, theory of the radical, homological methods.

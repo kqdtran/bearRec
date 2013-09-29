@@ -1,0 +1,2 @@
+Atmospheric Aerosols -- Civil And Environmental Engineering (CIV ENG)218B[3units]
+Description: Nature, behavior and signifance of airborne particulate matter. Size distributions. Transport phenomena and deposition processes. Light scattering, visibility impairment, and climate consequences. Aerosol thermodynamics and kinetics of phase-change processes, including nucleation. Phase partitioning of semivolatile species. Coagulation. Atmospheric sources including primary and secondary particle formation. Loss mechanisms including wet and dry deposition. Technological controls.

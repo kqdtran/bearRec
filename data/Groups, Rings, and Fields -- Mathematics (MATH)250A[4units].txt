@@ -1,0 +1,2 @@
+Groups, Rings, and Fields -- Mathematics (MATH)250A[4units]
+Description: Group theory, including the Jordan-Holder theorem and the Sylow theorems. Basic theory of rings and their ideals. Unique factorization domains and principal ideal domains. Modules. Chain conditions. Fields, including fundamental theorem of Galois theory, theory of finite fields, and transcendence degree.

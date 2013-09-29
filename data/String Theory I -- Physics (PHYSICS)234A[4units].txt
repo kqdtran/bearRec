@@ -1,0 +1,2 @@
+String Theory I -- Physics (PHYSICS)234A[4units]
+Description: Perturbative theory of the bosonic strings, superstrings, and heterotic strings: NSR and GS formulations; 2d CFT; strings in background fields; T-duality; effective spacetime supergravity; perturbative description of D-branes; elements of compactifications and string phenomemology; perturbative mirror symmetry.

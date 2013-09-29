@@ -1,0 +1,2 @@
+Building Interactive Digital News Packages -- Journalism (JOURN)222[3units]
+Description: This class teaches students how to develop interactive online news packages using best practices in design and web development. The course focuses on story structure and production of content and will cover the following topics:Best practices in developing interactive multimedia stories online; Design fundamentals and typography for online content; HTML and CSS for designing and constructing web projects; jQuery coding for adding interactivity to online content.

@@ -1,0 +1,2 @@
+Practical Computer Applications for Demographic Analysis -- Demography (DEMOG)213[2units]
+Description: An introductory course for first year Demography graduate students in the use of the Demography laboratory. Covers Unix based tools for manipulating computer programs and data files, and the R, SPlus, and SAS statistical packages. The course introduces the proportional hazard model and methods of estimating it. The final project for this course is use of the 1995 Current Population Survey (fertility supplement) to compute Total Fertility Rates for the U.S.

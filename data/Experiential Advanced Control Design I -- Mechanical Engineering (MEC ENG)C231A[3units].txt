@@ -1,0 +1,2 @@
+Experiential Advanced Control Design I -- Mechanical Engineering (MEC ENG)C231A[3units]
+Description: Experience-based learning in the design of SISO and MIMO feedback controllers for linear systems. The student will master skills needed to apply linear control design and analysis tools to classical and modern control problems. In particular, the participant will be exposed to and develop expertise in two key control design technologies: frequency-domain control synthesis and time-domain optimization-based approach. Also listed as Electrical Engineering C220B.

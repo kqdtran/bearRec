@@ -1,0 +1,2 @@
+JAVA for Programmers -- Computer Science (Engineering) (COMPSCI)9G[2units]
+Description: Self-paced course in Java for students who already know how to program. Applets; variables and computation; events and flow of control; classes and objects; inheritance; GUI elements; applications; arrays, strings, files, and linked structures; exceptions; threads.

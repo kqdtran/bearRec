@@ -1,0 +1,2 @@
+Marine Hydrodynamics I -- Mechanical Engineering (MEC ENG)241A[3units]
+Description: Navier-Stokes Equations. Boundary-layer theory, laminar, and turbulent. Frictional resistance. Boundary layer over water surface. Separated flow modeling. Steady and unsteady flow. Momentum theorems. Three-dimensional water-wave theory. Formulation of wave resistance of ships. Michell's solution. Wave patterns. Applications.

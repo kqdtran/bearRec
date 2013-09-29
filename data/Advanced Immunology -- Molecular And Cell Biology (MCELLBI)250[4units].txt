@@ -1,0 +1,2 @@
+Advanced Immunology -- Molecular And Cell Biology (MCELLBI)250[4units]
+Description: Molecular and cellular analysis of the immune response emphasizing concepts and methodology. Innate immunity, pathogen sensors, antibodies and T cell receptors, lymphocyte activation, tolerance and selection. Antigen processing, T cell subtypes, and T regulatory cells. NK cells, tumor surveillance, and AIDS.

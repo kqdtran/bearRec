@@ -1,0 +1,2 @@
+Modern Atomic Physics -- Physics (PHYSICS)138[3units]
+Description: This course covers atomic, molecular, and optical physics as a quantitative description of atoms and fields, a generalized toolbox for controlling quantum systems, and a vibrant research area. Topics covered include atomic structure and spectra, atom-field interactions, topics in quantum electrodynamics, methods of resonant manipulation of quantum systems, resonance optics, and experimental techniques.

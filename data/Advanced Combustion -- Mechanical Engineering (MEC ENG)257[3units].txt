@@ -1,0 +1,2 @@
+Advanced Combustion -- Mechanical Engineering (MEC ENG)257[3units]
+Description: Critical analyses of combustion phenomenon. Conservation relations applied to reacting systems. Reactions are treated by both asymptotic and numerical methods. Real hydrocarbon kinetics are used; where available reduced kinetic mechanics are introduced. Flame propagation theory and experiments are discussed in detail for both laminar and turbulent flows.

@@ -1,0 +1,2 @@
+Introduction to Robotics -- Electrical Engineering (EL ENG)215A[4units]
+Description: An introduction to the kinematics, dynamics, and control of robot manipulators, robotic vision, and sensing. The course will cover forward and inverse kinematics of serial chain manipulators, the manipulator Jacobian, force relations, dynamics and control-position, and force control. Proximity, tactile, and force sensing. Network modeling, stability, and fidelity in teleoperation and medical applications of robotics.

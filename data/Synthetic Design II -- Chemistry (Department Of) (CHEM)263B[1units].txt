@@ -1,0 +1,2 @@
+Synthetic Design II -- Chemistry (Department Of) (CHEM)263B[1units]
+Description: The principles of retrosynthetic analysis will be laid down and the chemistry of protecting groups will be discussed. Special attention will be given to the automated synthesis of biopolymers such as carbohydrates, peptides, and proteins, as well as nucleic acids.

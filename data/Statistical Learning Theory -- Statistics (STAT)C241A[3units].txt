@@ -1,0 +1,2 @@
+Statistical Learning Theory -- Statistics (STAT)C241A[3units]
+Description: Classification regression, clustering, dimensionality, reduction, and density estimation. Mixture models, hierarchical models, factorial models, hidden Markov, and state space models, Markov properties, and recursive algorithms for general probabilistic inference nonparametric methods including decision trees, kernal methods, neural networks, and wavelets. Ensemble methods. Also listed as Computer Science C281A.

@@ -1,0 +1,2 @@
+Design Analysis of Nuclear Reactors -- Nuclear Engineering (NUC ENG)265[3units]
+Description: Principles and techniques of economic analysis to determine capital and operating costs; fuel management and fuel cycle optimization; thermal limits on reactor performance, thermal converters, and fast breeders; control and transient problems; reactor safety and licensing; release of radioactivity from reactors and fuel processing plants.

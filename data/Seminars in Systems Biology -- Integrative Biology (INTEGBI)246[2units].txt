@@ -1,0 +1,2 @@
+Seminars in Systems Biology -- Integrative Biology (INTEGBI)246[2units]
+Description: This course discusses seminal papers in the field of systems biology with particular emphasis on gene regulation and cell biology. The course covers the critical analysis of primary research data, computational modeling, and important theoretical concepts in systems biology. Topics vary from year to year.

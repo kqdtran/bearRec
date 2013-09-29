@@ -1,0 +1,2 @@
+Protein Folding and Stability -- Molecular And Cell Biology (MCELLBI)218U[2units]
+Description: The connection between the sequence of a protein and its three-dimensional structure.

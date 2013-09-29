@@ -1,0 +1,2 @@
+Advanced Energy Conversion Principles -- Mechanical Engineering (MEC ENG)246[3units]
+Description: Covers the fundamental principles of energy conversion processes, followed by development of theoretical and computational tools that can be used to analyze energy conversion processes. Also introduces the use of modern computational methods to model energy conversion performance characteristics of devices and systems. Performance features, sources of inefficiencies, and optimal design strategies are explored for a variety of applications.

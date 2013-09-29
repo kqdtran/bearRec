@@ -1,0 +1,2 @@
+Intermediate SAS Programming -- Public Health (PB HLTH)144B[2units]
+Description: Topics include data step flow control, looping and automated processing, implicit and explicit arrays, data simulation strategies, data set reconfiguration, use of SAS Macro variables, and writing simple SAS Macro programs.

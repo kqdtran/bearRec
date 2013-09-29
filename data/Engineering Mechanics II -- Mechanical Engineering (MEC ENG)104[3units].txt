@@ -1,0 +1,2 @@
+Engineering Mechanics II -- Mechanical Engineering (MEC ENG)104[3units]
+Description: This course is an introduction to the dynamics of particles and rigid bodies. The material, based on a Newtonian formulation of the governing equations, is illustrated with numerous examples ranging from one-dimensional motion of a single particle to planar motions of rigid bodies and systems of rigid bodies.

@@ -1,0 +1,2 @@
+Astrophysical Techniques -- Astronomy (ASTRON)203[3units]
+Description: Introduction to the flow of astronomical signals through telescope optics and into detectors; subsequent calibration, deconvolution of instrumental artifacts, and analysis. A broad wavelength approach is maintained with focus on shared fundamental concepts. Students "adopt a wavelength band" for assignments and presentations. Analysis and simulation of astronomical signals, noise, and errors.

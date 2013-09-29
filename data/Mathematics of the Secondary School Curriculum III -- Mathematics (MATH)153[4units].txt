@@ -1,0 +1,2 @@
+Mathematics of the Secondary School Curriculum III -- Mathematics (MATH)153[4units]
+Description: The real line and least upper bound, limit and decimal expansion of a number, differentiation and integration, Fundamental Theorem of Calculus, characterizations of sine, cosine, exp, and log.

@@ -1,0 +1,2 @@
+Advanced Heat Transfer -- Mechanical Engineering (MEC ENG)151[3units]
+Description: Basic principles of heat transfer and their application. Subject areas include steady-state and transient system analyses for conduction, free and forced convection, boiling, condensation and thermal radiation.

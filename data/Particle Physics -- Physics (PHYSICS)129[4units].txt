@@ -1,0 +1,2 @@
+Particle Physics -- Physics (PHYSICS)129[4units]
+Description: Tools of particle and nuclear physics. Properties, classification, and interaction of particles including the quark-gluon constituents of hadrons. High energy phenomena analyzed by quantum mechanical methods. Course will survey the field including some related topics in nuclear physics.

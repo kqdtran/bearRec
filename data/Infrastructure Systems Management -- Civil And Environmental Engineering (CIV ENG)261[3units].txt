@@ -1,0 +1,2 @@
+Infrastructure Systems Management -- Civil And Environmental Engineering (CIV ENG)261[3units]
+Description: Integrated treatment of quantitative and analytical methods for the management of infrastructure facilities over their life. The focus of the course is on statistical modeling and numerical optimization methods and their application to managing systems of civil infrastructure, with an emphasis on transportation facilities.

@@ -1,0 +1,2 @@
+Machine-Based Complexity Theory -- Computer Science (Engineering) (COMPSCI)278[3units]
+Description: Properties of abstract complexity measures; Determinism vs. nondeterminism; time vs. space; complexity hierarchies; aspects of the P-NP question; relative power of various abstract machines.

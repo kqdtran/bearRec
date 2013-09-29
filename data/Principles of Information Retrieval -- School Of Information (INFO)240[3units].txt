@@ -1,0 +1,2 @@
+Principles of Information Retrieval -- School Of Information (INFO)240[3units]
+Description: Theories and methods for searching and retrieval of text and bibliographic information. Analysis of relevance, utility. Statistical and linguistic methods for automatic indexing and classification. Boolean and probabilistic approaches to indexing, query formulation, and output ranking. Filtering methods. Measures of retrieval effectiveness and retrieval experimentation methodology.

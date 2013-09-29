@@ -1,0 +1,2 @@
+Instrumentation in Biology and Medicine -- Bioengineering (BIO ENG)101[4units]
+Description: This course teaches the fundamental principles underlying modern sensing and control instrumentation used in biology and medicine. The course takes an integrative analytic and hands-on approach to measurement theory and practice by presenting and analyzing example instruments currently used for biology and medical research, including EEG, ECG, pulsed oximeters, Complete Blood Count (CBC), etc.

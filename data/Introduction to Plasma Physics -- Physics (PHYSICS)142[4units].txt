@@ -1,0 +1,2 @@
+Introduction to Plasma Physics -- Physics (PHYSICS)142[4units]
+Description: Motion of charged particles in electric and magnetic fields, dynamics of fully ionized plasma from both microscopic and macroscopic point of view, magnetohydrodynamics, small amplitude waves; examples from astrophysics, space sciences and controlled-fusion research.

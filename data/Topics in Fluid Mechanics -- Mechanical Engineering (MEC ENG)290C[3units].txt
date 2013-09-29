@@ -1,0 +1,2 @@
+Topics in Fluid Mechanics -- Mechanical Engineering (MEC ENG)290C[3units]
+Description: Lectures on special topics which will be announced at the beginning of each semester that the course is offered. Topics may include transport and mixing, geophysical fluid dynamics, biofluid dynamics, oceanography, free surface flows, non-Newtonian fluid mechanics, among other possibilities.

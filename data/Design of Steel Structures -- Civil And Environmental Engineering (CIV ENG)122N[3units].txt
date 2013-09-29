@@ -1,0 +1,2 @@
+Design of Steel Structures -- Civil And Environmental Engineering (CIV ENG)122N[3units]
+Description: Introduction to materials and methods of steel construction; behavior and design of tension members, compression members, flexural members and beam-columns; design of welds, bolts, shear connections and moment connections; design of spread footings or other foundation elements, inroduction to design of earthquake-resistant steel structures including concentrically braced frames and moment frames.

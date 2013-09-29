@@ -1,0 +1,2 @@
+Theoretical Plasma Physics -- Physics (PHYSICS)242B[4units]
+Description: Analysis of plasma behavior according to the Vlasov, Fokker-Planck equations, guiding center and hydromagnetic descriptions. Study of equilibria, stability, linear and nonlinear electromagnetic waves, transport, and interaction with radiation. Rigorous kinetic theory.

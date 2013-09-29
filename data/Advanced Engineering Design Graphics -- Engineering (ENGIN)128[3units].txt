@@ -1,0 +1,2 @@
+Advanced Engineering Design Graphics -- Engineering (ENGIN)128[3units]
+Description: Advanced graphics tools for engineering design. Parametric solid modeling. Assembly modeling. Presentation using computer animation and multimedia techniques.

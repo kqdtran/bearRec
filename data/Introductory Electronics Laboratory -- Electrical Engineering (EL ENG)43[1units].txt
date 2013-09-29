@@ -1,0 +1,2 @@
+Introductory Electronics Laboratory -- Electrical Engineering (EL ENG)43[1units]
+Description: Using and understanding electronics laboratory equipment such as oscilloscope, power supplies, function generator, multimeter, curve-tracer, and RLC-meter. Includes a term project of constructing and testing a robot or other appropriate electromechanical device.

@@ -1,0 +1,2 @@
+Advanced Structural Analysis -- Civil And Environmental Engineering (CIV ENG)121[3units]
+Description: Theory and application of structural analysis. Stiffness and flexibility methods, with emphasis on the direct stiffness method. Equilibrium and compatibility. Virtual work. Response of linear and simple nonlinear structures to static loads. Use of computer programs for structural analysis. Modeling of two- and three-dimensional structures. Verification and interpretation of structural response.

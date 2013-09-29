@@ -1,0 +1,2 @@
+Algebraic Curves -- Mathematics (MATH)255[4units]
+Description: Elliptic curves. Algebraic curves, Riemann surfaces, and function fields. Singularities. Riemann-Roch theorem, Hurwitz's theorem, projective embeddings and the canonical curve. Zeta functions of curves over finite fields. Additional topics such as Jacobians or the Riemann hypothesis.

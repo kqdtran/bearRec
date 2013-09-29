@@ -1,0 +1,2 @@
+Solid State Physics -- Physics (PHYSICS)141A[4units]
+Description: A thorough introductory course in modern solid state physics. Crystal symmetries; classification of solids and their bonding; electromagnetic, elastic, and particle waves in periodic lattices; thermal magnetic and dielectric properties of solids; energy bands of metals and semi-conductors; superconductivity; magnetism; ferroelectricity; magnetic resonances.

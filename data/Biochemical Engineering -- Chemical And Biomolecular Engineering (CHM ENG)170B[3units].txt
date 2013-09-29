@@ -1,0 +1,2 @@
+Biochemical Engineering -- Chemical And Biomolecular Engineering (CHM ENG)170B[3units]
+Description: The second of a two-semester sequence intended to introduce chemical engineers to the basic concepts of biochemical engineering. The course focuses on the use of chemical engineering skills and principles in the analysis and design of biologically-based processes. The emphasis will be on biochemical kinetics, protein engineering, cell growth and metabolism, bioreactor design, downstream processing, pharmacokinetics, drug delivery, and ethics.

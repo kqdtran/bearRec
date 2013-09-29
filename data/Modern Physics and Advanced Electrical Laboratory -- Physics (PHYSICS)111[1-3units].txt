@@ -1,0 +1,2 @@
+Modern Physics and Advanced Electrical Laboratory -- Physics (PHYSICS)111[1-3units]
+Description: The first semester (3 units), on Basic Semiconductor Circuits (BSC), covers introductory analog and digital circuits. The class meets for two 4-hour afternoon lab sessions, and a 1-1/2 hour weekly lecture. In the second semester, Advanced Lab (3 units), students complete 4 of 20+ advanced experiments. These include many in atomic, nuclear, classical, and solid-state physics, among others. Students may, with approval, enroll in an optional third semester for variable units.

@@ -1,0 +1,2 @@
+Feedback Control Systems -- Mechanical Engineering (MEC ENG)C134[4units]
+Description: Analysis and synthesis of linear feedback control systems in transform and time domains. Control system design by root locus, frequency response, and state space methods. Applications to electro-mechanical and mechatronics systems. Also listed as Electrical Engineering C128.

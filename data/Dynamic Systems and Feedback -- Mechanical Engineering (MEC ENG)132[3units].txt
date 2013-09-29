@@ -1,0 +1,2 @@
+Dynamic Systems and Feedback -- Mechanical Engineering (MEC ENG)132[3units]
+Description: Physical understanding of dynamics and feedback. Linear feedback control of dynamic systems. Mathematical tools for analysis and design. Stability. Modeling systems with differential equations. Linearization. Solution to linear, time-invariant differential equations.

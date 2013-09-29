@@ -1,0 +1,2 @@
+Introduction to High-Level Programming -- School Of Information (INFO)155[3units]
+Description: An introduction to high-level computer programming languages with emphasis on strings, modules, functions and objects; sequential and event-based programming. Uses the PYTHON language.

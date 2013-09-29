@@ -1,0 +1,2 @@
+Introduction to Symbolic Programming (Self-Paced) -- Computer Science (Engineering) (COMPSCI)3S[1-4units]
+Description: The same material as 3 but in a self-paced format; introduction to computer programming, emphasizing symbolic computation and functional programming style, using the Scheme programming language. Units assigned depend on amount of work completed. The first two units must be taken together.

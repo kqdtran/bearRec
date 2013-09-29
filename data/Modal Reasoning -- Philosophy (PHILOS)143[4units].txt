@@ -1,0 +1,2 @@
+Modal Reasoning -- Philosophy (PHILOS)143[4units]
+Description: An introduction to the logical study of modality in its many forms: reasoning about necessity, knowledge, obligation, time, counterfactuals, provability, and other modal notions. Covers core concepts and basic metatheory of propositional modal logic, including relations to first-order logic; basics of quantified modal logic; selected philosophical applications ranging from epistomology to ethics, metaphysics to mathematics.

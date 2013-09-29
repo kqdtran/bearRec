@@ -1,0 +1,2 @@
+Representation Theory -- Mathematics (MATH)252[4units]
+Description: Structure of finite dimensional algebras, applications to representations of finite groups, the classical linear groups.

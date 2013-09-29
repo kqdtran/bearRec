@@ -1,0 +1,2 @@
+Oscillations in Linear Systems -- Mechanical Engineering (MEC ENG)273[3units]
+Description: Response of discrete and continuous dynamical systems, damped and undamped, to harmonic and general time-dependent loading. Convolution integrals and Fourier and Laplace Transform methods. Lagrange's equations; Eigensolutions; Orthogonality; generalized coordinates; nonreciprocal and degenerate systems; Rayleigh quotient.

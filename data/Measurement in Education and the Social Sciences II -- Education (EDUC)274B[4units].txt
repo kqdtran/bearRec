@@ -1,0 +1,2 @@
+Measurement in Education and the Social Sciences II -- Education (EDUC)274B[4units]
+Description: An introduction to classical test theory and item response theory from a theoretical viewpoint. Application of these techniques to a practical measurement situation will be studied. Topics such as test bias, computerized and polytomous response modes will be discussed.

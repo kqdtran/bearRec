@@ -1,0 +1,2 @@
+Advanced Demographic Analysis -- Demography (DEMOG)211[4units]
+Description: This course is designed to provide an overview of quantitative techniques commonly used in demography, sociology, economics, and other social sciences. Methods are described in both words and formulas, and students are encouraged to learn to move freely between verbal and mathematical representations of data.

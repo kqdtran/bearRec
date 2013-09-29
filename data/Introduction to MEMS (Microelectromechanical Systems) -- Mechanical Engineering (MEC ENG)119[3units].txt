@@ -1,0 +1,2 @@
+Introduction to MEMS (Microelectromechanical Systems) -- Mechanical Engineering (MEC ENG)119[3units]
+Description: Fundamentals of microelectromechanical systems including design, fabrication of microstructures; surface-micromachining, bulk-micromachining, LIGA, and other micro machining processes; fabrication principles of integrated circuit device and their applications for making MEMS devices; high-aspect-ratio microstructures; scaling issues in the micro scale (heat transfer, fluid mechanics and solid mechanics); device design, analysis, and mask layout.

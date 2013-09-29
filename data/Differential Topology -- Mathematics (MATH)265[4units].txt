@@ -1,0 +1,2 @@
+Differential Topology -- Mathematics (MATH)265[4units]
+Description: Approximations, degrees of maps, vector bundles, tubular neighborhoods. Introduction to Morse theory, handlebodies, cobordism, surgery. Additional topics selected by instructor from: characteristic classes, classification of manifolds, immersions, embeddings, singularities of maps.

@@ -1,0 +1,2 @@
+Logic Synthesis -- Electrical Engineering (EL ENG)219B[4units]
+Description: The course covers the fundamental techniques for the design and analysis of digital circuits. The goal is to provide a detailed understanding of basic logic synthesis and analysis algorithms, and to enable students to apply this knowledge in the design of digital systems and EDA tools. The course will present combinational circuit optimization (two-level and multi-level synthesis), sequential circuit optimization (state encoding, retiming), timing analysis, testing, and logic verification.

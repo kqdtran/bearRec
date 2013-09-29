@@ -1,0 +1,2 @@
+Introduction to MEMS Design -- Electrical Engineering (EL ENG)W247B[4units]
+Description: Physics, fabrication and design of micro electromechanical systems (MEMS). Micro and nano-fabrication processes, including silicon surface and bulk micromachining and non-silicon micromachining. Integration strategies and assembly processes. Microsensor and microactuator devices: electrostatic, piezoresistive, piezoelectric, thermal, and magnetic transduction. Electronic position-sensing circuits and electrical and mechanical noise. CAD for MEMS. Design project is required.

@@ -1,0 +1,2 @@
+Design of Reinforced Concrete Structures -- Civil And Environmental Engineering (CIV ENG)123N[3units]
+Description: Introduction to materials and methods of reinforced concrete construction; behavior and design of reinforced concrete beams and one-way slabs considering deflections, flexure, shear, and anchorage; behavior and design of columns; design of spread footings or other foundation elements; design of earthquake-resistant structures; introduction to prestressed concrete.

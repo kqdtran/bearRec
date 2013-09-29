@@ -1,0 +1,2 @@
+Applied Electromagnetic Theory -- Electrical Engineering (EL ENG)210[3units]
+Description: Advanced treatment of classical electromagnetic theory with engineering applications. Boundary value problems in electrostatics. Applications of Maxwell's Equations to the study of waveguides, resonant cavities, optical fiber guides, Gaussian optics, diffraction, scattering, and antennas.

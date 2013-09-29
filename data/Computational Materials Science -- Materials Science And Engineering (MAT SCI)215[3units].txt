@@ -1,0 +1,2 @@
+Computational Materials Science -- Materials Science And Engineering (MAT SCI)215[3units]
+Description: Introduction to computational materials science. Development of atomic scale simulations for materials science applications. Application of kinetic Monte Carlo, molecular dynamics, and total energy techniques to the modeling of surface diffusion processes, elastic constants, ideal shear strengths, and defect properties. Introduction to simple numerical methods for solving coupled differential equations and for studying correlations.

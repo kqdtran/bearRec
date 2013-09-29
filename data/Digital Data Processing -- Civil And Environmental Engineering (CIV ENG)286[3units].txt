@@ -1,0 +1,2 @@
+Digital Data Processing -- Civil And Environmental Engineering (CIV ENG)286[3units]
+Description: Considerations for digital signal processing and data analysis. Fourier Transforms, convolution and correlation. Discrete linear systems, Z tranforms. Digital processing of seismic reflection data, deconvolution and migration. Introduction to 3-D seismic data.

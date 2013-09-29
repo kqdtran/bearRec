@@ -1,0 +1,2 @@
+Introduction to Chemical Engineering Design -- Chemical And Biomolecular Engineering (CHM ENG)40[2units]
+Description: Design and analysis of processes involving chemical change. Strategies for design, such as creative thinking and (re)definition of the design goal. Methods for analyzing designs, such as mathematical modeling, empirical analysis by graphics, and dynamic scaling by dimensional analysis. Design choices in light of process efficiency, product quality, economics, safety, and environmental issues.

@@ -1,0 +1,2 @@
+Game Theory and Business Decisions -- Undergraduate Business Administration (UGBA)143[3units]
+Description: This course provides an introduction to game theory and decision analysis. Game theory is concerned with strategic interactions among players (multi-player games), and decision analysis is concerned with making choices under uncertainty (single-player games). Emphasis is placed on applications.

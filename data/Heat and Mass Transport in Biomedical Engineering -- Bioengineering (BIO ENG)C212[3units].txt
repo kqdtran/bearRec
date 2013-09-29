@@ -1,0 +1,2 @@
+Heat and Mass Transport in Biomedical Engineering -- Bioengineering (BIO ENG)C212[3units]
+Description: Fundamental processes of heat and mass transport in biological systems; organic molecules, cells, biological organs, whole animals. Derivation of mathematical models and discussion of experimental procedures. Applications to biomedical engineering. Also listed as Mechanical Engineering C212.

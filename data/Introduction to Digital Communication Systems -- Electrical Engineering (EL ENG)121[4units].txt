@@ -1,0 +1,2 @@
+Introduction to Digital Communication Systems -- Electrical Engineering (EL ENG)121[4units]
+Description: Introduction to the basic principles of the design and analysis of modern digital communication systems. Topics include source coding, channel coding, baseband and passband modulation techniques, receiver design, and channel equalization. Applications to design of digital telephone modems, compact disks, and digital wireless communication systems. Concepts illustrated by a sequence of MATLAB exercises.

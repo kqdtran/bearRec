@@ -1,0 +1,2 @@
+Complex Manifolds -- Mathematics (MATH)241[4units]
+Description: Riemann surfaces, divisors and line bundles on Riemann surfaces, sheaves and the Dolbeault theorem on Riemann surfaces, the classical Riemann-Roch theorem, theorem of Abel-Jacobi. Complex manifolds, Kahler metrics. Summary of Hodge theory, groups of line bundles, additional topics such as Kodaira's vanishing theorem, Lefschetz hyperplane theorem.

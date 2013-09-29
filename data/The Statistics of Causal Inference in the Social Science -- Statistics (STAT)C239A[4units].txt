@@ -1,0 +1,2 @@
+The Statistics of Causal Inference in the Social Science -- Statistics (STAT)C239A[4units]
+Description: Approaches to causal inference using the potential outcomes framework. Covers observational studies with and without ignorable treatment assignment, randomized experiments with and without noncompliance, instrumental variables, regression discontinuity, sensitivity analysis and randomization inference. Applications are drawn from a variety of fields including political science, economics, sociology, public health and medicine. Also listed as Political Science C236A.

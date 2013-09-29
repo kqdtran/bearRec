@@ -1,0 +1,2 @@
+Introduction to Solid Mechanics -- Civil And Environmental Engineering (CIV ENG)C30[3units]
+Description: A review of equilibrium for particles and rigid bodies. Application to truss structures. The concepts of deformation, strain, and stress. Equilibrium equations for a continuum. Elements of the theory of linear elasticity. The states of plane stress and plane strain. Solution of elementary elasticity problems (beam bending, torsion of circular bars). Euler buckling in elastic beams. Also listed as Mechanical Engineering C85.

@@ -1,0 +1,2 @@
+Radiation Processes in Astronomy -- Astronomy (ASTRON)201[4units]
+Description: Formerly 201A. An introduction to the basic physics of astronomy and astrophysics at the graduate level. Principles of energy transfer by radiation. Elements of classical and quantum theory of photon emission; bremsstrahlung, cyclotron and synchrotron radiation. Compton scattering, atomic, molecular and nuclear electromagnetic transitions. Collisional excitation of atoms, molecules and nuclei.

@@ -1,0 +1,2 @@
+Mathematical Tools for the Physical Sciences -- Mathematics (MATH)121A[4units]
+Description: Intended for students in the physical sciences who are not planning to take more advanced mathematics courses. Rapid review of series and partial differentiation, complex variables and analytic functions, integral transforms, calculus of variations.

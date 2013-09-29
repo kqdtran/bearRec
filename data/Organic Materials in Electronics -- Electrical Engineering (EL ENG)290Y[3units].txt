@@ -1,0 +1,2 @@
+Organic Materials in Electronics -- Electrical Engineering (EL ENG)290Y[3units]
+Description: Organic materials are seeing increasing application in electronics applications. This course will provide an overview of the properties of the major classes of organic materials with relevance to electronics. Students will study the technology, physics, and chemistry of their use in the three most rapidly growing major applications--energy conversion/generation devices (fuel cells and photovoltaics), organic light-emitting diodes, and organic transistors.

@@ -1,0 +1,2 @@
+Introduction to Causal Inference -- Public Health (PB HLTH)252D[4units]
+Description: This course presents a general framework for causal inference using directed acyclic graphs, non-parametric structural equation models, and counterfactuals. Marginal structural models and causal effect estimation using inverse probability of treatment weighting, G-computation, and targeted maximum likelihood are introduced. In two-part presentations, students will define and implement research questions.

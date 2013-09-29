@@ -1,0 +1,2 @@
+Behavior of Reinforced Concrete -- Civil And Environmental Engineering (CIV ENG)245[3units]
+Description: Advanced topics in reinforced concrete construction, including inelastic flexural behavior; applications of plastic analysis to reinforced concrete frames; behavior in shear and torsion; yield-line analysis of slabs; behavior under cyclic and reversed loading; seismic rehabilitation.

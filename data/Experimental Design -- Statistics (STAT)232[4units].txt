@@ -1,0 +1,2 @@
+Experimental Design -- Statistics (STAT)232[4units]
+Description: Randomization, blocking, factorial design, confounding, fractional replication, response surface methodology, optimal design. Applications.

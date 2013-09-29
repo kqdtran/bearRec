@@ -1,0 +1,2 @@
+Theory of Elasticity -- Mechanical Engineering (MEC ENG)282[3units]
+Description: Fundamentals and general theorems of the linear theory of elasticity (in three dimensions) and the formulation of static and dynamic boundary value problems. Application to torsion, flexure, and two-dimensional problems of plane strain, generalized plane stress, and bending of plates. Representation of basic field equations in terms of displacement potentials and stress functions. Some basic three-dimensional solutions.

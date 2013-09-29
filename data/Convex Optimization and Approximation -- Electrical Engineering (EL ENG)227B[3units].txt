@@ -1,0 +1,2 @@
+Convex Optimization and Approximation -- Electrical Engineering (EL ENG)227B[3units]
+Description: Convex optimization as a systematic approximation tool for hard decision problems. Approximations of combinatorial optimization problems, of stochastic programming problems, of robust optimization problems (i.e., with optimization problems with unknown but bounded data), of optimal control problems. Quality estimates of the resulting approximation. Applications in robust engineering design, statistics, control, finance, data mining, operations research.

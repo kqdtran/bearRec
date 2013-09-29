@@ -1,0 +1,2 @@
+Nonlinear Theory of Elasticity -- Mechanical Engineering (MEC ENG)284[3units]
+Description: Fundamentals of nonlinear theory of elasticity. Exact solutions in elastostatics by inverse and semi-inverse methods. The method of successive approximations. Small deformations superposed on finite deformations. Nonlinear oscillations, shocks and acceleration waves, progressive waves and standing waves of finite amplitude, waves in pre-stressed solids.

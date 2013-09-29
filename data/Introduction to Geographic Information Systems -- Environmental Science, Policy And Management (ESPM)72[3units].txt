@@ -1,0 +1,2 @@
+Introduction to Geographic Information Systems -- Environmental Science, Policy And Management (ESPM)72[3units]
+Description: Introduction to computer systems, data processing software for natural resources studies. Components of geographic information systems; concepts of surveying, mapping, and remote sensing as data sources; various methods of data processing and analysis including classification, map overlay, buffer analysis, topographic modeling, spatial interpolation, and map design with a GIS. Intensive hands-on practices with relevant computer software packages.

@@ -1,0 +1,2 @@
+Catalysis -- Chemical And Biomolecular Engineering (CHM ENG)245[3units]
+Description: Adsorption and kinetics of surface reactions; catalyst preparation and characterization; poisoning, selectivity, and empirical activity patterns in catalysis; surface chemistry, catalytic mechanisms and modern experimental techniques in catalytic research; descriptive examples of industrial catalytic systems.

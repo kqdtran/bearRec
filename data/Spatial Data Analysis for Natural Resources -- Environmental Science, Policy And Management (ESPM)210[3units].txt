@@ -1,0 +1,2 @@
+Spatial Data Analysis for Natural Resources -- Environmental Science, Policy And Management (ESPM)210[3units]
+Description: An introduction to natural resource spatial data analysis. Topics to be covered include spatial sampling, quadrat analysis, distance methods, spatial point patterns and Ripley's K function, spatial autocorrelation, and geostatistics (Kriging). Readings will cover applications in various natural resource fields as well as general theory.

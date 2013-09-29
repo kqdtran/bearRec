@@ -1,0 +1,2 @@
+Parametric and Optimal Design of MEMS -- Mechanical Engineering (MEC ENG)C219[3units]
+Description: Parametric design and optimal design of MEMS. Emphasis on design, not fabrication. Analytic solution of MEMS design problems to determine the dimensions of MEMS structures for specified function. Trade-off of various performance requirements despite conflicting design requirements. Structures include flexure systems, accelerometers, and rate sensors. Also listed as Electrical Engineering C246.
