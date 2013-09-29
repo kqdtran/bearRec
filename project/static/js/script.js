@@ -30,7 +30,14 @@
     e.preventDefault();
     var text = $("#searchTermBox").val();
     var count = $("#countResult").val();
+    if (!count) count="10";
     scrapeSimilarCourses(text, count);
+  });
+
+  $("#highlightIt").on('click', function(e) {
+    e.preventDefault();
+    $("#table1").removeHighlight();
+    $("#table1").highlight($("#searchTermBox").val());
   });
 
   var scrapeSimilarCourses = function(text, count) {
