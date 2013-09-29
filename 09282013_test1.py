@@ -3,8 +3,9 @@ import re
 from bs4 import BeautifulSoup
 
 def main():
-	scrape()
-	department_scrape()
+	department_list = scrape()
+	print(department_list)
+	department_scrape(department_list)
 
 def scrape():
 	
@@ -23,19 +24,23 @@ def scrape():
 		problem_str = u'This is not all ascii\xf8 man'
 		safe_str = problem_str.encode('ascii', 'ignore')
 		for sp in soup.find_all('option'):
-			#text.append(sp.string)
+			text.append(sp.string)
 			#print(type(sp.string))
 			safe_str = sp.string.encode('ascii','ignore')
 			f.write(safe_str +"\n")
 
-	
+	return text
 
 
 #(TEST) testing Biology deparment 
-def department_scrape():
+def department_scrape(d_list):
 	# set up post url
 	url = "http://general-catalog.berkeley.edu/catalog/gcc_search_sends_request"
 	# set up post parameter
+	
+
+
+
 	payload = {'p_dept_name': 'Biology'}
 	# posting website and constructing soup object
  	r = requests.post(url, params=payload)
@@ -44,15 +49,11 @@ def department_scrape():
  	text = []
 
 
- 	with open("biology.txt", "w") as f:
- 		# solve the ascii issue
- 		problem_str = u'This is not all ascii\xf8 man'
-		safe_str = problem_str.encode('ascii', 'ignore')
-		# iterate the table row element
-	 	for sp in soup.find_all("tr"):
-	 		safe_str = sp.text.strip().encode('ascii','ignore')
-	 		text.append(sp.text.strip())
-	 		f.write(safe_str +"\n")
+
+	# iterate the table row element
+	for sp in soup.find_all("tr"):
+	 	text.append(sp.text.strip())
+
 
 
 
@@ -97,6 +98,7 @@ def department_scrape():
 	for element in class_name:
 
 		name = element + ".txt"
+		safe_name = name.encode('ascii', 'ignore')
 		for info in format_text:
 
 			if element in info:
@@ -106,7 +108,7 @@ def department_scrape():
 				if s4 in info:
 					save_indicator = False
 
-				with open("data/" + name, "w") as f:
+				with open("data/" + safe_name, "w") as f:
 					problem_str = u'This is not all ascii\xf8 man'
 					safe_str = info.encode('ascii', 'ignore')
 					safe_element = element.encode('ascii', 'ignore')
