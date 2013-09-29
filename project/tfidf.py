@@ -31,13 +31,8 @@ def findSimilarity(model, term):
   """Find the similarity between the given term and 
   any of the vectors in the space"""
 
-  doc = Document(term)
+  doc = Document(term, stemmer=LEMMA, stopwords=True)
   return model.neighbors(doc)
-
-class SimilarCourse(object):
-  def __init__(self, course, score):
-    self.course = course
-    self.score = score
 
 if __name__ == "__main__":
   #runTFIDF()

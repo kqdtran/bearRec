@@ -10,7 +10,8 @@ def search_similar():
   model = loadTFIDF()
   text = request.form.get('text')
   similarCourses = findSimilarity(model, text)
-  jsonCourses = [dict(course = c[1].name, score = c[0]) for c in similarCourses]
+  jsonCourses = [dict(course = c[1].name, 
+    score = "{0:.2f}".format(c[0])) for c in similarCourses]
   return jsonify(result = jsonCourses)
 
 class BaseView(FlaskView):
