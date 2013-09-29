@@ -25,9 +25,9 @@ def graphSimilar(text, similarCourses):
   plt.savefig("path.png")
 
 def searchSimilar():
-  numSearch = 10 # WE CAN CHANGE THIS LATER TO LET THE USER DETERMINES HOW MANY RESULTS
   text = request.form.get('text')
-  similarCourses = findSimilarity(model, text, numSearch)
+  count = int(request.form.get('count'))
+  similarCourses = findSimilarity(model, text, count)
   return text, similarCourses
 
 class BaseView(FlaskView):

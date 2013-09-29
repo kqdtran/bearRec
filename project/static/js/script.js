@@ -11,13 +11,13 @@
     return null;
   };
 
-  var updateValue = function(url, text, $elem, success) {
+  var updateValue = function(url, text, count, $elem, success) {
     $elem.append(loadingImg);
     $.ajax({
       url: url,
       type: "POST",
       timeout: TIMEOUT,
-      data: {"text": text},
+      data: {"text": text, "count": count},
       dataType: "json",
       success: success,
       error: function(xml, status, message) {
@@ -29,13 +29,15 @@
   $("#findTerm").on('click', function(e) {
     e.preventDefault();
     var text = $("#searchTermBox").val();
-    scrapeSimilarCourses(text);
+    var count = $("#countResult").val();
+    scrapeSimilarCourses(text, count);
   });
 
-  var scrapeSimilarCourses = function(text) {
+  var scrapeSimilarCourses = function(text, count) {
     var $sentDiv = $("#termDiv");
     $sentBtn = $("#findTerm");
     text = text.trim();  // trim whitespace from both ends
+    count = count.trim();
 
     if ($sentDiv.is(":visible")) {
       $sentDiv.hide();
@@ -44,7 +46,7 @@
       $sentDiv.show();
       var $sentTable = $("#termDiv table");
       var $tbody = $sentTable.children("tbody");
-      updateValue("/findSimilarCoursestoTerm", text, $tbody, function(res) {
+      updateValue("/findSimilarCoursestoTerm", text, count, $tbody, function(res) {
         $sentBtn.addClass("active");
         $tbody.empty();
         var sentences = res.result;
