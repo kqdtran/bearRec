@@ -6,11 +6,9 @@
       <h1 class="margin-base-vertical">Course Recommender</h1>
       <div class="text-center">
         <div class="spacing"></div>
-        <div class="ui-widget">
-          <label for="searchTermBox">Enter terms: </label>
-          <input type="text" class="span9" id="searchTermBox" />
-          <input type="button" class="btn btn-default" id="findTerm" value="Search" />
-        </div><!-- end ui-widget -->
+        <label for="searchTermBox">Enter terms: </label>
+        <input type="text" class="span9" id="searchTermBox" />
+        <input type="button" class="btn btn-default" id="findTerm" value="Search" />
       </div><!-- end text-center -->
     </div><!-- end span12 -->
   </div><!-- end row -->
@@ -43,36 +41,9 @@
   <div class="row">
     <div class="span12">
       <div class="text-center">
-        <div class="spacing"></div>
-        <div class="ui-widget">
-          <label for="searchCourseBox">Search related courses: </label>
-          <input id="searchCourseBox" />
-          <input type="button" class="btn btn-default" id="findCourse" value="Search" />
+        <div id="graph">
         </div>
       </div><!-- end text-center -->
-    </div><!-- end span12 -->
-  </div><!-- end row -->
-
-  <div class="spacing"></div>
-
-  <div class="row">
-    <div class="span12">
-      <div class="panel">
-        <div class="text-panel" id="coursePanel">
-          <div id="courseTable" style="display: none;">
-            <table class="table table-striped" id="all-open-classes">
-              <thead>
-                <tr>
-                  <th>Course</th>
-                  <th>Similarity</th>
-                </tr>
-              </thead>
-
-              <tbody></tbody>
-            </table>
-          </div>
-        </div><!-- end course search panel -->
-      </div><!-- end panel -->
     </div><!-- end span12 -->
   </div><!-- end row -->
   

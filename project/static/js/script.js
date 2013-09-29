@@ -48,7 +48,6 @@
         $sentBtn.addClass("active");
         $tbody.empty();
         var sentences = res.result;
-        //console.log(sentences);
         if (sentences.length <= 0 || !text.trim()) {
           $tbody.append("<tr>" +
             "<td>No such course</td>" +
@@ -65,5 +64,4 @@
       });
     }
   };
-
 }).call(this);
