@@ -37,7 +37,7 @@ def department_scrape(d_list):
 	url = "http://general-catalog.berkeley.edu/catalog/gcc_search_sends_request"
 	# set up post parameter
 	
-
+	#iterate all
 	for department in d_list:
 
 
@@ -48,14 +48,9 @@ def department_scrape(d_list):
 	 	# variable for scrap object
 	 	text = []
 
-
-
 		# iterate the table row element
 		for sp in soup.find_all("tr"):
 		 	text.append(sp.text.strip())
-
-
-
 
 		# formatting text array
 		format_text = []
@@ -87,7 +82,7 @@ def department_scrape(d_list):
 			i = i + 1
 
 
-		#### List of spliter
+		#### List of spliter with indicator word
 		s1 = "Course Format:"
 		s2 = "Prerequisites:"
 		s3 = "Credit option"
