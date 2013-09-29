@@ -14,7 +14,7 @@ def runTFIDF():
   fast loading later on"""
 
   model = Model(documents=[], weight=TFIDF)
-  for r, d, files in os.walk("../data"):
+  for r, d, files in os.walk("../data/"):
     for f in files:
       if f.endswith(".txt"):
         text = readFile(f)
@@ -38,7 +38,3 @@ if __name__ == "__main__":
   #runTFIDF()
   model = loadTFIDF()
   print findSimilarity(model, "algorithm")
-
-
-
-
