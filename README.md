@@ -41,7 +41,7 @@ that we could certainly extend to this project. Some of them are:
 * Make the output a bit more user-friendly
 * Clustering related courses
 * Visualization, as a graph perhaps, where each vertex is a course, and the edge 
-weight between every vertex is their similarity score
+weight between every two vertices is their similarity score
 
 ### Related Resources
 * [Beautiful Soup 4](http://www.crummy.com/software/BeautifulSoup/)   

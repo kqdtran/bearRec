@@ -1,4 +1,4 @@
- Aerospace Studies (Air Force ROTC) 
+Aerospace Studies
 African American Studies 
 Afrikaans 
 Agricultural and Environmental Chemistry 
@@ -23,8 +23,7 @@ Bulgarian
 Catalan 
 Celtic Studies 
 Chemical and Biomolecular Engineering 
-Chemistry (College of) 
-Chemistry (Department of) 
+Chemistry
 Chicano Studies 
 Chinese 
 City and Regional Planning 
@@ -34,8 +33,7 @@ Cognitive Science
 College Writing Programs 
 Comparative Biochemistry 
 Comparative Literature 
-Computer Science (Engineering) 
-Computer Science (Letters & Science) 
+Computer Science 
 Critical Theory 
 Croatian 
 Cuneiform 
@@ -51,8 +49,7 @@ East European Studies
 Economics 
 Education 
 Egyptian 
-Electrical Engineering 
-Electrical Engineering and Computer Sciences 
+Electrical Engineering  
 Endocrinology 
 Energy and Resources Group 
 Engineering 
@@ -67,10 +64,7 @@ Environmental Science, Policy and Management
 Environmental Sciences 
 Epidemiology 
 Ethnic Studies 
-Ethnic Studies Graduate Group 
 Eurasian Studies 
-Evening and Weekend Master's in Business Administration 
-Executive Master's in Business Administration 
 Filipino 
 Film and Media 
 Folklore 
@@ -113,9 +107,6 @@ Logic and the Methodology of Science
 Malay/Indonesian 
 Manufacturing Engineering 
 Mass Communications 
-Master's in Business Administration 
-Master's in Financial Engineering 
-Materials Science and Engineering 
 Mathematics 
 Mechanical Engineering 
 Media Studies 
@@ -124,8 +115,6 @@ Medieval Studies
 Microbiology 
 Middle Eastern Studies 
 Military Affairs 
-Military Officers' Education Program (ROTC) 
-Military Science (Army ROTC) 
 Mineral Engineering 
 Molecular and Biochemical Nutrition 
 Molecular and Cell Biology 
@@ -133,7 +122,6 @@ Music
 Nanoscale Science and Engineering 
 Native American Studies 
 Natural Resources 
-Naval Science (Naval ROTC) 
 Near Eastern Studies 
 Nepali 
 Neuroscience 

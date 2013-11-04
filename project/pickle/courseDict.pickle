@@ -1,0 +1,654 @@
+(dp1
+S'Nutritional Sciences and Toxicology'
+p2
+S'NUSCTX'
+p3
+sS'Telugu'
+p4
+S'TELUGU'
+p5
+sS'Public Health'
+p6
+S'PB HLTH'
+p7
+sS'Italian Studies'
+p8
+S'ITALIAN'
+p9
+sS'Environmental Science, Policy, and Management'
+p10
+S'ESPM'
+p11
+sS'History of Art'
+p12
+S'HISTART'
+p13
+sS'Undergraduate Business Administration'
+p14
+S'UGBA'
+p15
+sS'Religious Studies'
+p16
+S'RELIGST'
+p17
+sS'Slavic Languages and Literatures'
+p18
+S'SLAVIC'
+p19
+sS'Hindi-Urdu'
+p20
+S'HIN-URD'
+p21
+sS'Medieval Studies'
+p22
+S'MED ST'
+p23
+sS'Military Affairs'
+p24
+S'MIL AFF'
+p25
+sS'Vision Science'
+p26
+S'VIS SCI'
+p27
+sS'Philosophy'
+p28
+S'PHILOS'
+p29
+sS'French'
+p30
+S'FRENCH'
+p31
+sS'Biophysics'
+p32
+S'BIOPHY'
+p33
+sS'Anthropology'
+p34
+S'ANTHRO'
+p35
+sS'Computer Science'
+p36
+S'COMPSCI'
+p37
+sS'Asian American Studies Program'
+p38
+S'ASAMST'
+p39
+sS'Tamil'
+p40
+S'TAMIL'
+p41
+sS'Aerospace Studies'
+p42
+S'AEROSPC'
+p43
+sS'Native American Studies'
+p44
+S'NATAMST'
+p45
+sS'Ancient History and Mediterranean Archaeology'
+p46
+S'AHMA'
+p47
+sS'Filipino'
+p48
+S'FILIPN'
+p49
+sS'Iranian'
+p50
+S'IRANIAN'
+p51
+sS'Health and Medical Sciences'
+p52
+S'HMEDSCI'
+p53
+sS'Indigenous Languages of the Americas'
+p54
+S'ILA'
+p55
+sS'Celtic Studies'
+p56
+S'CELTIC'
+p57
+sS'Cognitive Science'
+p58
+S'COG SCI'
+p59
+sS'Latin American Studies'
+p60
+S'LATAMST'
+p61
+sS'Tagalog'
+p62
+S'TAGALG'
+p63
+sS"Gender and Women's Studies"
+p64
+S'GWS'
+p65
+sS'Classics'
+p66
+S'CLASSIC'
+p67
+sS'Mass Communications'
+p68
+S'MASSCOM'
+p69
+sS'Semitics'
+p70
+S'SEMITIC'
+p71
+sS'Afrikaans'
+p72
+S'AFRKANS'
+p73
+sS'Theater, Dance, and Performance Studies'
+p74
+S'THEATER'
+p75
+sS'Integrative Biology'
+p76
+S'INTEGBI'
+p77
+sS'City and Regional Planning'
+p78
+S'CY PLAN'
+p79
+sS'Yiddish'
+p80
+S'YIDDISH'
+p81
+sS'Ethnic Studies'
+p82
+S'ETH STD'
+p83
+sS'Electrical Engineering'
+p84
+S'EL ENG'
+p85
+sS'Education'
+p86
+S'EDUC'
+p87
+sS'Sanskrit'
+p88
+S'SANSKR'
+p89
+sS'Statistics'
+p90
+S'STAT'
+p91
+sS'Jewish Studies'
+p92
+S'JEWISH'
+p93
+sS'African American Studies'
+p94
+S'AFRICAM'
+p95
+sS'Masters in Financial Engineering Program'
+p96
+S'MFE'
+p97
+sS'Environmental Economics and Policy'
+p98
+S'ENVECON'
+p99
+sS'Environmental Sciences'
+p100
+S'ENV SCI'
+p101
+sS'Civil and Environmental Engineering'
+p102
+S'CIV ENG'
+p103
+sS'Eurasian Studies'
+p104
+S'EURA ST'
+p105
+sS'South Asian'
+p106
+S'S ASIAN'
+p107
+sS'Biology'
+p108
+S'BIOLOGY'
+p109
+sS'Latin'
+p110
+S'LATIN'
+p111
+sS'Political Economy'
+p112
+S'POLECON'
+p113
+sS'American Studies'
+p114
+S'AMERSTD'
+p115
+sS'Folklore'
+p116
+S'FOLKLOR'
+p117
+sS'Thai'
+p118
+S'THAI'
+p119
+sS'Astronomy'
+p120
+S'ASTRON'
+p121
+sS'Tibetan'
+p122
+S'TIBETAN'
+p123
+sS'Rhetoric'
+p124
+S'RHETOR'
+p125
+sS'Punjabi'
+p126
+S'PUNJABI'
+p127
+sS'Economics'
+p128
+S'ECON'
+p129
+sS'Full-time Masters in Business Administration'
+p130
+S'MBA'
+p131
+sS'Greek'
+p132
+S'GREEK'
+p133
+sS'Doctoral Program in Business Administration'
+p134
+S'PHDBA'
+p135
+sS'Architecture'
+p136
+S'ARCH'
+p137
+sS'English'
+p138
+S'ENGLISH'
+p139
+sS'Bioengineering'
+p140
+S'BIO ENG'
+p141
+sS'Physical Education'
+p142
+S'PHYS ED'
+p143
+sS'Chemistry'
+p144
+S'CHEM'
+p145
+sS'Lesbian, Gay, Bisexual and Transgender Studies'
+p146
+S'LGBT'
+p147
+sS'Naval Science'
+p148
+S'NAV SCI'
+p149
+sS'Science and Mathematics Education'
+p150
+S'SCMATHE'
+p151
+sS'Chinese'
+p152
+S'CHINESE'
+p153
+sS'Undergraduate and Interdisciplinary Studies'
+p154
+S'UGIS'
+p155
+sS'Plant and Microbial Biology'
+p156
+S'PLANTBI'
+p157
+sS'Graduate Student Professional Development Program'
+p158
+S'GSPDP'
+p159
+sS'Comparative Biochemistry'
+p160
+S'COMPBIO'
+p161
+sS'Arabic'
+p162
+S'ARABIC'
+p163
+sS'Altaic'
+p164
+S'ALTAIC'
+p165
+sS'Linguistics'
+p166
+S'LINGUIS'
+p167
+sS'Visual Studies'
+p168
+S'VIS STD'
+p169
+sS'Psychology'
+p170
+S'PSYCH'
+p171
+sS'Turkish'
+p172
+S'TURKISH'
+p173
+sS'Film Studies'
+p174
+S'FILM'
+p175
+sS'Landscape Architecture'
+p176
+S'LD ARCH'
+p177
+sS'Chicano Studies Program'
+p178
+S'CHICANO'
+p179
+sS'Near Eastern Studies'
+p180
+S'NE STUD'
+p181
+sS'Sociology'
+p182
+S'SOCIOL'
+p183
+sS'Music'
+p184
+S'MUSIC'
+p185
+sS'Political Science'
+p186
+S'POL SCI'
+p187
+sS'Korean'
+p188
+S'KOREAN'
+p189
+sS'Peace and Conflict Studies'
+p190
+S'PACS'
+p191
+sS'Khmer'
+p192
+S'KHMER'
+p193
+sS'Cuneiform'
+p194
+S'CUNEIF'
+p195
+sS'Berkeley/Columbia MBA Program'
+p196
+S'XMBA'
+p197
+sS'Mechanical Engineering'
+p198
+S'MEC ENG'
+p199
+sS'Global Metropolitan Studies'
+p200
+S'GMS'
+p201
+sS'College Writing Program'
+p202
+S'COLWRIT'
+p203
+sS'East European Studies'
+p204
+S'EAEURST'
+p205
+sS'Catalan'
+p206
+S'CATALAN'
+p207
+sS'New Media'
+p208
+S'NWMEDIA'
+p209
+sS'Neuroscience'
+p210
+S'NEUROSC'
+p211
+sS'Development Studies'
+p212
+S'DEV STD'
+p213
+sS'Bengali'
+p214
+S'BANGLA'
+p215
+sS'Portuguese'
+p216
+S'PORTUG'
+p217
+sS'Scandinavian'
+p218
+S'SCANDIN'
+p219
+sS'Materials Science and Engineering'
+p220
+S'MAT SCI'
+p221
+sS'Language Proficiency Program'
+p222
+S'LAN PRO'
+p223
+sS'Chemical Engineering'
+p224
+S'CHM ENG'
+p225
+sS'Comparative Literature'
+p226
+S'COM LIT'
+p227
+sS'Public Policy'
+p228
+S'PUB POL'
+p229
+sS'Global Poverty and Practice'
+p230
+S'GPP'
+p231
+sS'History'
+p232
+S'HISTORY'
+p233
+sS'Applied Science and Technology'
+p234
+S'AST'
+p235
+sS'Natural Resources'
+p236
+S'NAT RES'
+p237
+sS'German'
+p238
+S'GERMAN'
+p239
+sS'Law'
+p240
+S'LAW'
+p241
+sS'Engineering'
+p242
+S'ENGIN'
+p243
+sS'Persian'
+p244
+S'PERSIAN'
+p245
+sS'Interdisciplinary Studies Field Major'
+p246
+S'ISF'
+p247
+sS'Buddhist Studies'
+p248
+S'BUDDSTD'
+p249
+sS'Information'
+p250
+S'INFO'
+p251
+sS'Social Welfare'
+p252
+S'SOC WEL'
+p253
+sS'Middle Eastern Studies'
+p254
+S'M E STU'
+p255
+sS'Vietnamese'
+p256
+S'VIETNMS'
+p257
+sS'Letters and Science'
+p258
+S'LNS'
+p259
+sS'Malay/Indonesian'
+p260
+S'MALAY/I'
+p261
+sS'Nanoscale Science and Engineering'
+p262
+S'NSE'
+p263
+sS'International and Area Studies'
+p264
+S'IAS'
+p265
+sS'Dutch'
+p266
+S'DUTCH'
+p267
+sS'Mathematics'
+p268
+S'MATH'
+p269
+sS'Military Science'
+p270
+S'MIL SCI'
+p271
+sS'Optometry'
+p272
+S'OPTOM'
+p273
+sS'Agricultural and Environmental Chemistry'
+p274
+S'AGR CHM'
+p275
+sS'Asian Studies'
+p276
+S'ASIANST'
+p277
+sS'Egyptian'
+p278
+S'EGYPT'
+p279
+sS'Southeast Asian'
+p280
+S'SEASIAN'
+p281
+sS'Industrial Engineering and Operations Research'
+p282
+S'IND ENG'
+p283
+sS'Ethnic Studies Graduate Group'
+p284
+S'ETH GRP'
+p285
+sS'East Asian Languages and Cultures'
+p286
+S'EA LANG'
+p287
+sS'Media Studies'
+p288
+S'MEDIAST'
+p289
+sS'Energy and Resources Group'
+p290
+S'ENE,RES'
+p291
+sS'Legal Studies'
+p292
+S'LEGALST'
+p293
+sS'Critical Theory Graduate Group'
+p294
+S'CRIT TH'
+p295
+sS'Spanish'
+p296
+S'SPANISH'
+p297
+sS'Journalism'
+p298
+S'JOURN'
+p299
+sS'Practice of Art'
+p300
+S'ART'
+p301
+sS'South and Southeast Asian Studies'
+p302
+S'S,SEASN'
+p303
+sS'Molecular and Cell Biology'
+p304
+S'MCELLBI'
+p305
+sS'Computational and Genomic Biology'
+p306
+S'CGB'
+p307
+sS'Demography'
+p308
+S'DEMOG'
+p309
+sS'Physics'
+p310
+S'PHYSICS'
+p311
+sS'Agricultural and Resource Economics and Policy'
+p312
+S'A,RESEC'
+p313
+sS'Earth and Planetary Science'
+p314
+S'EPS'
+p315
+sS'Evening/Weekend MBA Program'
+p316
+S'EWMBA'
+p317
+sS'Nuclear Engineering'
+p318
+S'NUC ENG'
+p319
+sS'Japanese'
+p320
+S'JAPAN'
+p321
+sS'Environmental Design'
+p322
+S'ENV DES'
+p323
+sS'Hebrew'
+p324
+S'HEBREW'
+p325
+sS'Geography'
+p326
+S'GEOG'
+p327
+s.

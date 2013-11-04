@@ -7,16 +7,10 @@ def main():
 	department_scrape(department_list)
 
 def scrape():
-	
-	
-	# Set up pull requests and soup object
 	front_html = requests.get("http://general-catalog.berkeley.edu/catalog/gcc_search_menu")
 	soup = BeautifulSoup(front_html.content, from_encoding="utf-8")
-	
-	# variable for info
 	text = []
 
-	
 	# extract department list and write it in a file
 	with open("list.txt", "w") as f:
 		#solving the ascii problem
@@ -24,28 +18,17 @@ def scrape():
 		safe_str = problem_str.encode('ascii', 'ignore')
 		for sp in soup.find_all('option'):
 			text.append(sp.string)
-			#print(type(sp.string))
 			safe_str = sp.string.encode('ascii','ignore')
 			f.write(safe_str +"\n")
 
 	return text
 
-
-#(TEST) testing Biology deparment 
 def department_scrape(d_list):
-	# set up post url
 	url = "http://general-catalog.berkeley.edu/catalog/gcc_search_sends_request"
-	# set up post parameter
-	
-	#iterate all
 	for department in d_list:
-
-
 		payload = {'p_dept_name': department}
-		# posting website and constructing soup object
 	 	r = requests.post(url, params=payload)
 	 	soup = BeautifulSoup(r.content, from_encoding="utf-8")
-	 	# variable for scrap object
 	 	text = []
 
 		# iterate the table row element
@@ -81,7 +64,6 @@ def department_scrape(d_list):
 
 			i = i + 1
 
-
 		#### List of spliter with indicator word
 		s1 = "Course Format:"
 		s2 = "Prerequisites:"
@@ -112,12 +94,5 @@ def department_scrape(d_list):
 						f.write(safe_str + "\n")
 
 
-
-
-
 if __name__ == "__main__":
 	main()
-
-
-
-

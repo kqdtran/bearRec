@@ -2,9 +2,8 @@ from flask import request, render_template, jsonify  # ...etc , redirect, reques
 from flask.ext.classy import FlaskView
 from app import app
 import os
-from pattern.vector import Document, Model, TFIDF, LEMMA
-from tfidf import *
-import networkx as nx
+from tfidfCourses import *
+#import networkx as nx
 #import matplotlib.pyplot as plt
 
 model = loadTFIDF()
