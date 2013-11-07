@@ -2,6 +2,7 @@ import os
 import pickle
 from pattern.vector import Document, Model, TFIDF, LEMMA
 from scrapeCurrentSemester import loadAllCourses
+from pprint import pprint
 
 
 def runTFIDF(term="SP", year=14):
@@ -33,4 +34,5 @@ def findSimilarity(model, term, num):
 if __name__ == "__main__":
   #runTFIDF()
   model = loadTFIDF()
-  print findSimilarity(model, "algorithms", 10)
+  pprint(model.documents[-50:])
+  #print findSimilarity(model, "algorithms", 10)
