@@ -56,6 +56,8 @@ courses that are related to the search term(s).
 Please send us a pull request if you would like to contribute! There are many awesome features 
 that we could certainly extend to this project. Some of them are:    
 
+* It currently doesn't support any of the 19x classes, since they are Special Topic classes. 
+We might have to scrape schedule.berkeley.edu for those.
 * Add support for [DeCal](http://www.decal.org/) - student-taught classes
 * Cluster related courses
 * Visualization (D3, NetworkX, etc.)

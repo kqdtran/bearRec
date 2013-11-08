@@ -79,9 +79,9 @@ def getAllCoursesFromCatalog():
         print "There are no courses under this department. Move on\n"
 
   # dump the catalog of every courses into a pickle file for later use
-  with open("pickle/courseCatalog.pickle", "wb") as f:
+  with open("pickle/courseCatalog.pickle", "w") as f:
     print "Begin dumping all courses"
-    dump(allCourses, f)
+    dump(allCourses, f, 0)
     print "Finish!!!"
 
 def loadCourseCatalog():
@@ -89,7 +89,7 @@ def loadCourseCatalog():
   Load the course catalog from the pickle file, then proceed to 
   append all courses to a list and return that
   """
-  with open("pickle/courseCatalog.pickle", "rb") as f:
+  with open("pickle/courseCatalog.pickle", "r") as f:
     allCoursesDict = load(f)
   return allCoursesDict
 
@@ -149,7 +149,7 @@ def getAllCoursesInTerm(term='Spring', termYear='2014'):
     print "Finish processing", dept, "\n"
   
   print "Begin dumping into pickle"
-  with open("pickle/" + term + termYear + "courses.pickle", "wb") as f:
+  with open("pickle/" + term + termYear + "courses.pickle", "w") as f:
     dump(coursesList, f)
   print "Finish dumping!!!"
 
@@ -157,7 +157,7 @@ def loadAllCoursesInTerm(term='Spring', termYear='2014'):
   """
   Load all courses in a given term from a pickle file
   """
-  with open("pickle/" + term + termYear + "courses.pickle", "rb") as f:
+  with open("pickle/" + term + termYear + "courses.pickle", "r") as f:
     coursesList = load(f)
     return coursesList
 

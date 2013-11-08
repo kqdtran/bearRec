@@ -15,7 +15,7 @@ def runTFIDFOnCatalog(term="Spring", year="2014"):
   """
   model = Model(documents=[], weight=TFIDF)
   print "Loading from pickle file..."
-  #allCoursesDict = loadCourseCatalog()
+  allCoursesDict = loadCourseCatalog()
 
   for dept in allCoursesDict:
     print "Processing department", dept
