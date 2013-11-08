@@ -1,4 +1,4 @@
-from flask import request, render_template, jsonify  # ...etc , redirect, request, url_for
+from flask import request, render_template, jsonify
 from flask.ext.classy import FlaskView
 from app import app
 import os
@@ -6,7 +6,8 @@ from tfidfCourses import *
 #import networkx as nx
 #import matplotlib.pyplot as plt
 
-model = loadTFIDF()
+
+model = loadTFIDFModel("Spring", "2014", True)
 
 @app.route('/findSimilarCoursestoTerm', methods=['POST'])
 def searchCourses():

@@ -2,24 +2,37 @@ import requests
 from bs4 import BeautifulSoup
 from cPickle import load, dump
 
-class Course():
-  def __init__(self, name, courseTitle, location, instructor, ccn, note, description):
-    self.name = name
-    self.courseTitle = courseTitle
-    self.location = location
-    self.instructor = instructor
-    self.ccn = ccn
-    self.note = note
+class CourseCatalog():
+  def __init__(self, UID, title, number, description):
+    self.UID = UID
+    self.title = title
+    self.number = number
     self.description = description
 
   def __str__(self):
-    return "Course:" + self.name +\
-      "\nTitle:" + self.courseTitle +\
-      "\nLocation:" + self.location +\
-      "\nInstructor:" + self.instructor +\
-      "\nCCN:" + self.ccn +\
-      "\nNote:" + self.note +\
+    return "UID:" + self.UID +\
+      "\nTitle:" + self.title +\
+      "\nNumber:" + self.number +\
       "\nDescription:" + self.description + "\n"
+
+class Course():
+  def __init__(self, number, title, location, time, instructor, description, ccn=None, note=None):
+    self.number = number
+    self.title = title
+    self.location = location
+    self.time = time
+    self.instructor = instructor
+    self.description = description
+    self.ccn = ccn
+    self.note = note
+
+  def __str__(self):
+    return "\nCourse Number:" + str(self.number) +\
+      "\nTitle:" + str(self.title) +\
+      "\nLocation:" + str(self.location) +\
+      "\nTime:" + str(self.time) +\
+      "\nInstructor:" + str(self.instructor) +\
+      "\nDescription:" + str(self.description) + "\n"
 
 def scrapeNC():
   """Scrape Ninja Course for a list of departments and codenames. 

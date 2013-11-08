@@ -34,3 +34,6 @@ nosetests.xml
 .project
 .pydevproject
 .DS_Store
+
+# Authentication stuff
+auth.py
