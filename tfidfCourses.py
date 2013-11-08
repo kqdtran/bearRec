@@ -1,8 +1,8 @@
 import os
-import pickle
 from pattern.vector import Document, Model, TFIDF, LEMMA
 from scrapeBerkeleyAPI import loadCourseCatalog, loadAllCoursesInTerm
 from pprint import pprint
+from cPickle import load, dump
 
 
 def runTFIDFOnCatalog(term="Spring", year="2014"):
@@ -25,7 +25,8 @@ def runTFIDFOnCatalog(term="Spring", year="2014"):
                      description=course)
       model.append(doc)
     print "Finish processing", dept, "\n"
-  model.save("pickle/simCatalog" + term + year + ".pickle")
+  with open("pickle/simCatalog" + term + year + ".pickle", "w") as f:
+    dump(model, f, 0)
 
 def runTFIDFOnSchedule(term="Spring", year="2014"):
   """
@@ -43,16 +44,19 @@ def runTFIDFOnSchedule(term="Spring", year="2014"):
                    description=course)
     model.append(doc)
   print "Finish processing!!!"
-  model.save("pickle/simCourses" + term + year + ".pickle")
+  with open("pickle/simCourses" + term + year + ".pickle", "w") as f:
+    dump(model, f, 0)
 
 def loadTFIDFModel(term="Spring", year="2014", schedule=True):
   """
   Load the pickle file created by runTFIDF
   """
   if schedule:
-    return Model.load("pickle/simCourses" + term + year + ".pickle")
+    with open("pickle/simCourses" + term + year + ".pickle", "r") as f:
+      return load(f)
   else:  # load from catalog instead
-    return Model.load("pickle/simCatalog" + term + year + ".pickle")
+    with open("pickle/simCatalog" + term + year + ".pickle", "r") as f:
+      return load(f)
 
 def findSimilarity(model, term, num):
   """
@@ -70,6 +74,6 @@ if __name__ == "__main__":
   #print findSimilarity(model, "algorithms", 10)
 
   # ---- On schedule of classes ----
-  #runTFIDFOnSchedule()
+  runTFIDFOnSchedule()
   model = loadTFIDFModel("Spring", "2014", True)
   print findSimilarity(model, "algorithms", 10)
