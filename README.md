@@ -4,7 +4,7 @@ bearRec - Berkeley Course Recommender
 ### Introduction
 Have you ever had lots of difficulty searching for a class on a topic 
 you're interested in? Or spent hours hopping between pages on schedule.berkeley.edu? 
-With [bearRec](https://bearrec.herokuapp.com/), we hope you would never have to do 
+With [bearRec](http://oski.herokuapp.com/), we hope you would never have to do 
 that again!
 
 ### Versions
