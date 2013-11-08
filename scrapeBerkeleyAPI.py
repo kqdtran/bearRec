@@ -129,7 +129,7 @@ def checkCoursesBeingOffered(course, term, termYear):
       else:
         instructor = []
 
-      course = Course(course.number, course.title, location, time, 
+      course = Course(course.UID, course.number, course.title, location, time, 
                       instructor, course.description)
       return course
   return None

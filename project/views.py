@@ -3,26 +3,29 @@ from flask.ext.classy import FlaskView
 from app import app
 import os
 from tfidfCourses import *
-#import networkx as nx
-#import matplotlib.pyplot as plt
 
 
+# Load the model upfront from the pickle file
 model = loadTFIDFModel("Spring", "2014", True)
 
 @app.route('/findSimilarCoursestoTerm', methods=['POST'])
 def searchCourses():
   text, similarCourses = searchSimilar()
-  #graphSimilar(text, similarCourses)
-  jsonCourses = [dict(course = c[1].name, 
-    score = "{0:.2f}".format(c[0])) for c in similarCourses]
+  jsonCourses = []
+  for simCourse in similarCourses:
+    course = simCourse[1].description
+    jsonCourses.append(dict(
+      course = course.UID.replace('.', ' '),
+      title = course.title,
+      location = course.location,
+      time = course.time,
+      instructor = course.instructor,
+      description = course.description,
+      score = "{0:.2f}".format(simCourse[0])))
   return jsonify(result = jsonCourses)
 
 def graphSimilar(text, similarCourses):
-  graph = nx.Graph()
-  for c in similarCourses:
-    graph.add_edge(text, c[1].name, weight=c[0])
-  nx.draw(graph)
-  plt.savefig("path.png")
+  pass
 
 def searchSimilar():
   text = request.form.get('text')

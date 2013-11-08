@@ -46,31 +46,30 @@
     text = text.trim();  // trim whitespace from both ends
     count = count.trim();
 
-    if ($sentDiv.is(":visible")) {
-      $sentDiv.hide();
-      $sentBtn.removeClass("active");
-    } else {
-      $sentDiv.show();
-      var $sentTable = $("#termDiv table");
-      var $tbody = $sentTable.children("tbody");
-      updateValue("/findSimilarCoursestoTerm", text, count, $tbody, function(res) {
-        $sentBtn.addClass("active");
-        $tbody.empty();
-        var sentences = res.result;
-        if (sentences.length <= 0 || !text.trim()) {
-          $tbody.append("<tr>" +
-            "<td>No such course</td>" +
-            "<td>0</td>" +
+    $sentDiv.show();
+    var $sentTable = $("#termDiv table");
+    var $tbody = $sentTable.children("tbody");
+    updateValue("/findSimilarCoursestoTerm", text, count, $tbody, function(res) {
+      $sentBtn.addClass("active");
+      $tbody.empty();
+      var sentences = res.result;
+      if (sentences.length <= 0 || !text.trim()) {
+        $tbody.append("<tr>" +
+          "<td rowspan='7'>No result</td>" +
+          "</tr>");
+      } else {   
+        sentences.forEach(function(elem, index) {         
+          $tbody.append("<tr>" + 
+            "<td>" + elem.course + "</td>" +
+            "<td>" + elem.title + "</td>" +
+            "<td>" + elem.location + "</td>" +
+            "<td>" + elem.time + "</td>" +
+            "<td>" + elem.instructor + "</td>" +
+            "<td>" + elem.description + "</td>" +
+            "<td>" + elem.score +"</td>" + 
             "</tr>");
-        } else {   
-          sentences.forEach(function(elem, index) {         
-            $tbody.append("<tr>" + 
-              "<td>" + elem.course + "</td>" +
-              "<td>" + elem.score +"</td>" + 
-              "</tr>");
-          });
-        }
-      });
-    }
+        });
+      }
+    });
   };
 }).call(this);
