@@ -1,2 +1,0 @@
-Computer-Based Communications Systems and Networks -- School Of Information (INFO)250[3units]
-Description: Communications concepts, network architectures, data communication software and hardware, networks (e.g., LAN, wide), network protocols (e.g., TCP/IP), network management, distributed information systems. Policy and management implications of the technology.

@@ -1,2 +1,0 @@
-Precalculus -- Mathematics (MATH)32[4units]
-Description: Polynomial and rational functions, exponential and logarithmic functions, trigonometry and trigonometric functions. Complex numbers, fundamental theorem of algebra, mathematical induction, binomial theorem, series, and sequences.

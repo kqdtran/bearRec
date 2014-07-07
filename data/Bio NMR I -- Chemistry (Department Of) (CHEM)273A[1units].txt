@@ -1,2 +1,0 @@
-Bio NMR I -- Chemistry (Department Of) (CHEM)273A[1units]
-Description: Fundamentals of multidimensional NMR spectroscopy (including use of the density matrix for analysis of spin response to pulse sequences) and applications of multidimensional NMR in probing structure, interactions, and dynamics of biological molecules will be described.

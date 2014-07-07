@@ -1,2 +1,0 @@
-Advanced Digital Integrated Circuits -- Electrical Engineering (EL ENG)241B[3units]
-Description: Analysis and design of MOS and bipolar large-scale integrated circuits at the circuit level. Fabrication processes, device characteristics, parasitic effects static and dynamic digital circuits for logic and memory functions. Calculation of speed and power consumption from layout and fabrication parameters. ROM, RAM, EEPROM circuit design. Use of SPICE and other computer aids.

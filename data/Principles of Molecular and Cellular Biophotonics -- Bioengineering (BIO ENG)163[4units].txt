@@ -1,2 +1,0 @@
-Principles of Molecular and Cellular Biophotonics -- Bioengineering (BIO ENG)163[4units]
-Description: This course provides undergraduate and graduate bioengineering students with an opportunity to increase their knowledge of topics in the emerging field of biophotonics with an emphasis on fluorescence spectroscopy, biosensors and devices for optical imaging and detection of biomolecules. This course will cover the photophysics and photochemistry of organic molecules, the design and characterization of biosensors and their applications within diverse environments.

@@ -1,2 +1,0 @@
-Advanced Control Systems II -- Mechanical Engineering (MEC ENG)233[3units]
-Description: Linear Quadratic Optimal Control, Stochastic State Estimation, Linear Quadratic Gaussian Problem, Loop Transfer Recovery, Adaptive Control and Model Reference Adaptive Systems, Self Tuning Regulators, Repetitive Control, Application to engineering systems.

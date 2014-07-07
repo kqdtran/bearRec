@@ -1,2 +1,0 @@
-Algebraic Geometry -- Mathematics (MATH)256B[4units]
-Description: Affine and projective algebraic varieties. Theory of schemes and morphisms of schemes. Smoothness and differentials in algebraic geometry. Coherent sheaves and their cohomology. Riemann-Roch theorem and selected applications. Sequence begins fall.

@@ -1,2 +1,0 @@
-Tools of the Trade -- Energy And Resources Group (ENE,RES)292A[2units]
-Description: Quantitative methods for energy and resource analysis. Topics include linear algebra, differential equations, statistical methods, chemical equilibrium theory, and thermodynamics.

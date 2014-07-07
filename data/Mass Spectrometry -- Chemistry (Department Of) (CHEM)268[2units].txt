@@ -1,2 +1,0 @@
-Mass Spectrometry -- Chemistry (Department Of) (CHEM)268[2units]
-Description: Principles, instrumentation, and application in mass spectrometry, including ionization methods, mass analyzers, spectral interpretation, multidimensional methods (GC/MS, HPLC/MS, MS/MS), with emphasis on small organic molcules and bioanalytical applications (proteins, peptides, nucleic acids, carbohydrates, noncovalent complexes); this will include the opportunity to be trained and checked out on several open-access mass spectrometers.

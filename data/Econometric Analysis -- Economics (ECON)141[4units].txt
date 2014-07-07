@@ -1,2 +1,0 @@
-Econometric Analysis -- Economics (ECON)141[4units]
-Description: Introduction to problems of observation, estimation, and hypothesis testing in economics. This course covers the statistical theory for the linear regression model and its variants, with examples from empirical economics.

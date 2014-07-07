@@ -1,2 +1,0 @@
-Electric Power Systems -- Energy And Resources Group (ENE,RES)254[3units]
-Description: Provides an understanding of concepts in the design and operation of electric power systems, including generation, transmission, and consumption. Covers basic electromechanical physics, reactive power, circuit and load analysis, reliability, planning, dispatch, organizational design, regulations, environment, end-use efficiency, and new technologies.

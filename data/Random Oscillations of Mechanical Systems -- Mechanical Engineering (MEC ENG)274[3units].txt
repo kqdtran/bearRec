@@ -1,2 +1,0 @@
-Random Oscillations of Mechanical Systems -- Mechanical Engineering (MEC ENG)274[3units]
-Description: Random variables and random processes. Stationary, nonstationary, and ergodic proceses. Analysis of linear and nonlinear, discrete and continuous, mechanical systems under stationary and nonstationary excitations. Vehicle dynamics. Applications to failure analysis. Stochastic estimation and control and their applications to vibratory systems.

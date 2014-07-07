@@ -1,2 +1,0 @@
-Transport Processes -- Chemical And Biomolecular Engineering (CHM ENG)150A[4units]
-Description: Principles of fluid mechanics and heat transfer with application to chemical processes. Laminar and turbulent flow in pipes and around submerged objects. Flow measurement. Heat conduction and convection; heat transfer coefficients.

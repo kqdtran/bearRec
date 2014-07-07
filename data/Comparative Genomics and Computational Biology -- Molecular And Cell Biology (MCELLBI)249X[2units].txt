@@ -1,2 +1,0 @@
-Comparative Genomics and Computational Biology -- Molecular And Cell Biology (MCELLBI)249X[2units]
-Description: The fundamental problem of comparative genomics: the determination of the origins and evolutionary history of the nucleotides in all extant genomes. My work incorporates various aspects of genomics, including the reconstruction of ancestral genomes (paleogenomics), the modeling of genome dynamics (phylogenomics and systems biology), and the assignment of function of genome elements (functional genomics and epigenomics).

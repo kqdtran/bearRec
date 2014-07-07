@@ -1,2 +1,0 @@
-Introduction to Acoustics -- Architecture (ARCH)144[1units]
-Description: This course focuses on what architects need to know about acoustics. The first part deals with the fundamentals of acoustics including how sound levels are described and measured, and human response to sound. The course then covers building acoustics, mechanical equipment noise and vibration control, office acoustics, design of sound amplification systems, and environmental acoustics.

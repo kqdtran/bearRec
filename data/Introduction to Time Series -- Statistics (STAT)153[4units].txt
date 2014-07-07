@@ -1,2 +1,0 @@
-Introduction to Time Series -- Statistics (STAT)153[4units]
-Description: An introduction to time series analysis in the time domain and spectral domain. Topics will include: estimation of trends and seasonal effects, autoregressive moving average models, forecasting, indicators, harmonic analysis, spectra.

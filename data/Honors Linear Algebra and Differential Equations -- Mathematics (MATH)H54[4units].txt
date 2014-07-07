@@ -1,2 +1,0 @@
-Honors Linear Algebra and Differential Equations -- Mathematics (MATH)H54[4units]
-Description: Honors version of 54. Basic linear algebra: matrix arithmetic and determinants. Vectors spaces; inner product spaces. Eigenvalues and eigenvectors; linear transformations. Homogeneous ordinary differential equations; first-order differential equations with constant coefficients. Fourier series and partial differential equations.

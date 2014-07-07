@@ -1,2 +1,0 @@
-Behavior and Plastic Design of Steel Structures -- Civil And Environmental Engineering (CIV ENG)248[3units]
-Description: Topics related to inelastic behavior and plastic design of steel members and structures. Behavior of plastic hinge in members subjected to bending moment, axial force, shear, and their combinations. Collapse mechanisms of steel members and structures such as moment frames and braced systems. Inelastic cyclic behavior of steel components. Introduction to fracture and fatigue of steel components.

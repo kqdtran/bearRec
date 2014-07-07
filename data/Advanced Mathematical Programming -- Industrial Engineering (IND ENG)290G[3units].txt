@@ -1,2 +1,0 @@
-Advanced Mathematical Programming -- Industrial Engineering (IND ENG)290G[3units]
-Description: Selected topics in mathematical programming. The actual subjects covered may include: Convex analysis, duality theory, complementary pivot theory, fixed point theory, optimization by vector space methods, advanced topics in nonlinear algorithms, complexity of mathematical programming algorithms (including linear programming).

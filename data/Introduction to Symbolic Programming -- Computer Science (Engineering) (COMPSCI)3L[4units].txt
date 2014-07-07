@@ -1,2 +1,0 @@
-Introduction to Symbolic Programming -- Computer Science (Engineering) (COMPSCI)3L[4units]
-Description: Introduction to computer programming, emphasizing symbolic computation and functional programming style. Students will write a project of at least 200 lines of code in Scheme (a dialect of the LISP programming language).

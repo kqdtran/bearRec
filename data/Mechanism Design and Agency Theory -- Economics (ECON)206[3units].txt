@@ -1,2 +1,0 @@
-Mechanism Design and Agency Theory -- Economics (ECON)206[3units]
-Description: This course will study the optimal design of mechanisms in the presence of incomplete information and imperfect observability. The course will begin with the "classic" principal-agent problem and will then develop its applications to the "implicit contracts" theory of agency and to the choice of government policies for regulated industries. The second half of the course will treat the design of auctions, regulation with costly or imperfect monitoring, mechanism design with limited contracts.

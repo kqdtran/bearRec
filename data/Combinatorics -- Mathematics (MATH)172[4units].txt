@@ -1,2 +1,0 @@
-Combinatorics -- Mathematics (MATH)172[4units]
-Description: Basic combinatorial principles, graphs, partially ordered sets, generating functions, asymptotic methods, combinatorics of permutations and partitions, designs and codes. Additional topics at the discretion of the instructor.

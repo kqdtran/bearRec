@@ -1,2 +1,0 @@
-Advanced IC Processing and Layout -- Electrical Engineering (EL ENG)243[3units]
-Description: The key processes for the fabrication of integrated circuits. Optical, X-ray, and e-beam lithography, ion implantation, oxidation and diffusion. Thin film deposition. Wet and dry etching and ion milling. Effect of phase and defect equilibria on process control.

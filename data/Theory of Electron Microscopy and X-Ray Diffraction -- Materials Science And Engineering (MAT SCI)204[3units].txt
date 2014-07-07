@@ -1,2 +1,0 @@
-Theory of Electron Microscopy and X-Ray Diffraction -- Materials Science And Engineering (MAT SCI)204[3units]
-Description: Basic principles of techniques used in the characterization of engineering materials by electron microscopy, diffraction, and spectroscopy; emphasis on detailed analysis of defects responsible for materials properties. Modern electrical, optical and particle beam techniques for characterization of bulk single crystals and their crystalline and amorphous layers. Examples Hall effect, Deep Level Transient Spectroscopy, IR-Spectroscopy.

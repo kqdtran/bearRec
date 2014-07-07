@@ -1,2 +1,0 @@
-Dynamic Methods in Environmental and Resource Economics -- Agricultural And Resource Economics (A,RESEC)263[3units]
-Description: This course studies methods of analysis and optimal control of dynamic systems, emphasizing applications in environmental and natural resource economics. Continuous-time deterministic models are studied using phase plane analysis, the calculus of variations, the Maximum Principle, and dynamic programming. Numerical methods are applied to discrete time stochastic and deterministic dynamic models.

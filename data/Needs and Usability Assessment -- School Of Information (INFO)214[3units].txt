@@ -1,2 +1,0 @@
-Needs and Usability Assessment -- School Of Information (INFO)214[3units]
-Description: Concepts and methods of needs and usability assessment. Understanding users' needs and practices and translating them into design decisions. Topics include methods of identifying and describing user needs and requirements; user-centered design; user and task analysis; contextual design; heuristic evaluation; surveys, interviews, and focus groups; usability testing; naturalistic/ethnographic methods; managing usability in organizations; and universal usability.

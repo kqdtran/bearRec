@@ -1,2 +1,0 @@
-Economic Statistics and Econometrics -- Economics (ECON)140[4units]
-Description: Introduction to problems of observation, estimation, and hypothesis testing in economics. This course covers the linear regression model and its application to empirical problems in economics.

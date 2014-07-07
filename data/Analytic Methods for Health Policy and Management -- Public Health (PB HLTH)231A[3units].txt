@@ -1,2 +1,0 @@
-Analytic Methods for Health Policy and Management -- Public Health (PB HLTH)231A[3units]
-Description: This course provides an overview of analytic methods that Master's students in health policy and management should be familiar with. Topics include linear regression, limited dependent variable models such as logit, design, and analysis of complex surveys (with weighted and clustered sampling), and quasi-experimental causal analysis. The course complements 245, with an emphasis on enabling nonstatisticians to interpret and critique applications in the HPM literature.

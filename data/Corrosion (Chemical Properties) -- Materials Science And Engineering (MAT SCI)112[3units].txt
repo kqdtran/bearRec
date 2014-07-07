@@ -1,2 +1,0 @@
-Corrosion (Chemical Properties) -- Materials Science And Engineering (MAT SCI)112[3units]
-Description: Electrochemical theory of corrosion. Mechanisms and rates in relation to physiochemical and metallurgical factors. Stress corrosion and mechanical influences on corrosion. Corrosion protection by design, inhibition, cathodic protection, and coatings.

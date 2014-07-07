@@ -1,2 +1,0 @@
-Data Visualization for Discovery and Communication -- Master'S In Business Administration (MBA)291D[1units]
-Description: This course exposes the problems of poor data presentation and introduces design practices necessary to communicate quantitative business information clearly, efficiently, and powerfully. This course identifies what to look for in the data and describes the types of graphs and visual analysis techniques most effective for spotting what is meaningful and making sense of it.

@@ -1,2 +1,0 @@
-Special Topics in Many-Body Physics -- Physics (PHYSICS)216[4units]
-Description: Quantum theory of many-particle systems. Applications of theory and technique to physical systems. Pairing phenomena, superfluidity, equation of state, critical phenomena, phase transitions, nuclear matter.

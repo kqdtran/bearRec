@@ -1,2 +1,0 @@
-Efficient Algorithms and Intractable Problems -- Computer Science (Engineering) (COMPSCI)170[4units]
-Description: Concept and basic techniques in the design and analysis of algorithms; models of computation; lower bounds; algorithms for optimum search trees, balanced trees and UNION-FIND algorithms; numerical and algebraic algorithms; combinatorial algorithms. Turing machines, how to count steps, deterministic and nondeterministic Turing machines, NP-completeness. Unsolvable and intractable problems.

@@ -1,2 +1,0 @@
-Introduction to GIS and City Planning -- City And Regional Planning (CY PLAN)204C[4units]
-Description: Introduction to the principles and practical uses of Geographic Information Systems (GIS). This course is intended for graduate students with exposure to using spreadsheets and database programs for urban and natural resource analysis, and who wish to expand their knowledge to include basic GIS concepts and applications. Prior GIS or desktop mapping experience not required.

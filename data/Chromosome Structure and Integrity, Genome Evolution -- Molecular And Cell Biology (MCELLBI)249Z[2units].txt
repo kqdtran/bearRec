@@ -1,2 +1,0 @@
-Chromosome Structure and Integrity, Genome Evolution -- Molecular And Cell Biology (MCELLBI)249Z[2units]
-Description: Use of genetic, cell biological, and biochemical approaches in budding yeast to understand genome integrity, genome evolution, and most recently desiccation tolerance.

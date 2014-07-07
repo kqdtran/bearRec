@@ -1,2 +1,0 @@
-Educational Data Analysis Laboratory II -- Education (EDUC)275L[1units]
-Description: Students use the program SYSTAT to do intermediate and advanced data analysis projects using a variety of educational data sets in conjunction with 275B. Assumes basic familiarity with the statistical program SYSTAT. Must be taken concurrently with 275B.

@@ -1,2 +1,0 @@
-Engineering Aerodynamics -- Mechanical Engineering (MEC ENG)163[3units]
-Description: Introduction to the lift, drag, and moment of two-dimensional airfoils, three-dimensional wings, and the complete airplane. Calculations of the performance and stability of airplanes in subsonic flight.

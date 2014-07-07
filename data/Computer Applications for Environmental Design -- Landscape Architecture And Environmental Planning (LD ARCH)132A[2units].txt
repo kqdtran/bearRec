@@ -1,2 +1,0 @@
-Computer Applications for Environmental Design -- Landscape Architecture And Environmental Planning (LD ARCH)132A[2units]
-Description: This course consists of both a lecture and a "hands-on" laboratory session each week. The lecture is structured as a seminar in which the instructor and students discuss problems and CAD solutions in landscape design. The laboratory provides a practical introduction to some tools for spatial data manipulation in CAD.

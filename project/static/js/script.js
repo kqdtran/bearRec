@@ -11,6 +11,10 @@
     return null;
   };
 
+  function isInt(value) {
+   return !isNaN(value) && parseInt(Number(value)) == value;
+  }
+
   var updateValue = function(url, text, count, $elem, success) {
     $elem.append(loadingImg);
     $.ajax({
@@ -30,7 +34,7 @@
     e.preventDefault();
     var text = $("#searchTermBox").val();
     var count = $("#countResult").val();
-    if (!count) count="10";
+    if (!count || !isInt(count)) count="10";
     scrapeSimilarCourses(text, count);
   });
 

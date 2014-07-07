@@ -1,2 +1,0 @@
-Quantitative  Mehtodology in the Sociol Sciences Seminar -- Political Science (POL SCI)236B[4units]
-Description: A seminar on successful research designs and a forum for students to discuss the research methods needed in their own work, supplemented by lectures on relevant statistical and computational topics such as matching methods, instrumental variables, regression discontinuity, and Bayesian, maximum likelihood and robust estimation. Applications are drawn from political science, economics, sociology, and public health. Experience with R is assumed.

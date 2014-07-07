@@ -1,2 +1,0 @@
-Ocean-Environment Mechanics -- Mechanical Engineering (MEC ENG)165[3units]
-Description: Ocean environment. Physical properties and characteristics of the oceans. Global conservation laws. Surface-waves generation. Gravity-wave mechanics, kinematics, and dynamics. Design consideration of ocean vehicles and systems. Model-testing techniques. Prediction of resistance and response in waves--physical modeling and computer models.

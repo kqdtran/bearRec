@@ -1,2 +1,0 @@
-Compiler Optimization and Code Generation -- Computer Science (Engineering) (COMPSCI)265[3units]
-Description: Table-driven and retargetable code generators. Register management. Flow analysis and global optimization methods. Code optimization for advanced languages and architectures. Local code improvement. Optimization by program transformation. Selected additional topics. A term paper or project is required.

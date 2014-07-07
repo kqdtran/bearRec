@@ -1,2 +1,0 @@
-Topics in Computational Biology and Genomics -- Plant And Microbial Biology (PLANTBI)C246[4units]
-Description: Instruction and discussion of topics in genomics and computational biology. Working from evolutionary concepts, the course will cover principles and application of molecular sequence comparison, genome sequencing and functional annotation, and phylogenetic analysis.

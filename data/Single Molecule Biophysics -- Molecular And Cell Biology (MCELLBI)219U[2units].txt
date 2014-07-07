@@ -1,2 +1,0 @@
-Single Molecule Biophysics -- Molecular And Cell Biology (MCELLBI)219U[2units]
-Description: Methods of single molecule manipulation and visualization that are used to characterize the structure and mechanochemical properties of translocating DNA binding protein such as RNA polymerase and to investigate the mechanical denaturation of single protein molecules will be covered in research reports and reviews of the current literature and in discussion of current experiments in the field.

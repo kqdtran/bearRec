@@ -1,2 +1,0 @@
-Data Analysis in Education Research -- Education (EDUC)293A[4units]
-Description: Introduces students to quantitative statistical methods for educational research. Emphasizes parameter estimation and hypothesis testing, in particular of group differences based on means, medians, proportions and correlation coefficients. Section 1 takes a conceptual and heuristic approach and includes a module on distribution free statistics. Section 2 takes an algebraic approach and includes a module on multiple regression. High school algebra is strongly recommended for section 2.

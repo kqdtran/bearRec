@@ -1,2 +1,0 @@
-Chemical Engineering Thermodynamics -- Chemical And Biomolecular Engineering (CHM ENG)141[4units]
-Description: Thermodynamic behavior of pure substances and mixtures. Properties of solutions, phase equilibria. Thermodynamic cycles. Chemical equilibria for homogeneous and heterogeneous systems.

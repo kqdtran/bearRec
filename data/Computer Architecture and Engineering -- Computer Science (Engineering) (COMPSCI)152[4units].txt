@@ -1,2 +1,0 @@
-Computer Architecture and Engineering -- Computer Science (Engineering) (COMPSCI)152[4units]
-Description: Instruction set architecture, microcoding, pipelining (simple and complex). Memory hierarchies and virtual memory. Processor parallelism: VLIW, vectors, multithreading. Multiprocessors.

@@ -1,2 +1,0 @@
-Computer Networks -- Computer Science (Engineering) (COMPSCI)268[3units]
-Description: Distributed systems, their notivations, applications, and organization. The network component. Network architectures. Local and long-haul networks, technologies, and topologies. Data link, network, and transport protocols. Point-to-point and broadcast networks. Routing and congestion control. Higher-level protocols. Naming. Internetworking. Examples and case studies.

@@ -1,2 +1,0 @@
-Introduction to Controlled Fusion -- Nuclear Engineering (NUC ENG)180[3units]
-Description: Introduction to energy production by controlled thermonuclear reactions. Nuclear fusion reactions, energy balances for fusion systems, survey of plasma physics; neutral beam injection; RF heating methods; vacuum systems; tritium handling.

@@ -2,6 +2,12 @@ import requests
 from bs4 import BeautifulSoup
 from cPickle import load, dump
 
+
+# Set the default semester and year here
+currentTerm = "Fall"
+currentYear = "2014"
+
+
 class CourseCatalog():
   def __init__(self, UID, title, number, description):
     self.UID = UID
@@ -10,10 +16,11 @@ class CourseCatalog():
     self.description = description
 
   def __str__(self):
-    return "UID:" + self.UID +\
-      "\nTitle:" + self.title +\
-      "\nNumber:" + self.number +\
-      "\nDescription:" + self.description + "\n"
+    return "UID:" + str(self.UID) +\
+      "\nTitle:" + str(self.title) +\
+      "\nNumber:" + str(self.number) +\
+      "\nDescription:" + str(self.description) + "\n"
+
 
 class Course():
   def __init__(self, UID, number, title, location, time, instructor, description, ccn=None, note=None):
@@ -36,44 +43,13 @@ class Course():
       "\nInstructor:" + str(self.instructor) +\
       "\nDescription:" + str(self.description) + "\n"
 
-def scrapeNC():
-  """Scrape Ninja Course for a list of departments and codenames. 
-  Some codenames are out of date though, e.g. L&S -> LNS"""
 
-  url = "http://ninjacourses.com/explore/1/"
-  r = requests.get(url)
-  soup = BeautifulSoup(r.content, from_encoding="utf-8")
-  left = soup.find("ul", {"id": "deptlist-left"})
-  right = soup.find("ul", {"id": "deptlist-right"})
-  text = left.text.strip() + "\n" + right.text.strip()
-  return text
+def coerceToInt(x):
+    """
+    Coerce x to type int, or exit the program
+    """
 
-def writeAllDeptsToFile():
-  """Write all depts scraped to a text file for later use"""
-  text = scrapeNC()
-  with open("list/dept.txt", "wb") as f:
-    f.write(text)
-
-def buildDictFromFile():
-  courseDict = {}
-  with open("list/dept.txt", "rb") as f:
-    for line in f.readlines():
-      line = line.strip()
-      firstParen = line.find("(")
-      lastParen = line.find(")")
-      dept = line[:firstParen].strip()
-      code = line[firstParen+1:lastParen].strip()
-      courseDict[dept] = code
-
-  with open("pickle/courseDict.pickle", "wb") as f:
-    dump(courseDict, f)
-
-def loadDictFromPickle():
-  with open("pickle/courseDict.pickle", "rb") as f:
-    courseDict = load(f)
-    return courseDict
-
-if __name__ == "__main__":
-  print "haha... don't run util unless you know what you're doing"
-  #buildDictFromFile()
-  #loadDictFromPickle()
+    try:
+        return int(x)
+    except:
+        return 0

@@ -1,2 +1,0 @@
-Intermediate Dynamics -- Mechanical Engineering (MEC ENG)175[3units]
-Description: This course introduces and investigates Lagrange's equations of motion for particles and rigid bodies. The subject matter is particularly relevant to applications comprised of interconnected and constrained discrete mechanical components. The material is illustrated with numerous examples. These range from one-dimensional motion of a single particle to three-dimensional motions of rigid bodies and systems of rigid bodies.

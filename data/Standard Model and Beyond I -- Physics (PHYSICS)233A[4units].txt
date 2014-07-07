@@ -1,2 +1,0 @@
-Standard Model and Beyond I -- Physics (PHYSICS)233A[4units]
-Description: Introduction to the standard model of particle physics and its applications: construction of the standard model; Higgs mechanism; phenomenology of weak interctions; chiral Lagrangian; QCD and scaling violation.

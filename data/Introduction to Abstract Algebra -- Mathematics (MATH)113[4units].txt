@@ -1,2 +1,0 @@
-Introduction to Abstract Algebra -- Mathematics (MATH)113[4units]
-Description: Sets and relations. The integers, congruences, and the Fundamental Theorem of Arithmetic. Groups and their factor groups. Commutative rings, ideals, and quotient fields. The theory of polynomials: Euclidean algorithm and unique factorizations. The Fundamental Theorem of Algebra. Fields and field extensions.

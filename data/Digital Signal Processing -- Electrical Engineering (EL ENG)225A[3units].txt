@@ -1,2 +1,0 @@
-Digital Signal Processing -- Electrical Engineering (EL ENG)225A[3units]
-Description: Advanced techniques in signal processing. Stochastic signal processing, parametric statistical signal models, and adaptive filterings. Application to spectral estimation, speech and audio coding, adaptive equalization, noise cancellation, echo cancellation, and linear prediction.

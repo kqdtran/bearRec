@@ -1,2 +1,0 @@
-Elementary Differential Topology -- Mathematics (MATH)141[4units]
-Description: Manifolds in n-dimensional Euclidean space and smooth maps, Sard's Theorem, classification of compact one-manifolds, transversality and intersection modulo 2.

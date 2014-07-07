@@ -1,2 +1,0 @@
-Methods of Manufacturing Improvement -- Industrial Engineering (IND ENG)130[3units]
-Description: Analytical techniques for the improvement of manufacturing performance along the dimensions of productivity, quality, customer service, and throughput. Techniques for yield analysis, process control, inspection sampling, equipment efficiency analysis, cycle time reduction, and on-time delivery improvement. Applications on semiconductor manufacturing or other industrial settings.

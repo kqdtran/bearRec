@@ -1,2 +1,0 @@
-Musical Applications of Computers and Related Technologies -- Music (MUSIC)158[4units]
-Description: Basic concepts and techniques of computer-based music research, composition, and performance. Essentials of digital audio signal processing, musical acoustics and psychoacoustics, sound analysis and synthesis, musical databases, use of MIDI, computer programming for music, and computer-aided music analysis. Works from the computer music repertoire will be examined.

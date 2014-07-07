@@ -1,2 +1,0 @@
-Modeling and Simulation of Advanced Manufacturing Processes -- Mechanical Engineering (MEC ENG)201[3units]
-Description: This course provides the student with a modern introduction to the basic industrial practices, modeling techniques, theoretical background, and computational methods to treat classical and cutting edge manufacturing processes in a coherent and self-consistent manner.

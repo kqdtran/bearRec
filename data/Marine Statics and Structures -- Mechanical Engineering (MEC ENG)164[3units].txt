@@ -1,2 +1,0 @@
-Marine Statics and Structures -- Mechanical Engineering (MEC ENG)164[3units]
-Description: Terminology and definition of hull forms, conditions of static equilibrium and stability of floating submerged bodies. Effects of damage on stability. Structural loads and response. Box girder theory. Isotropic and orthotropic plate bending and bucking.

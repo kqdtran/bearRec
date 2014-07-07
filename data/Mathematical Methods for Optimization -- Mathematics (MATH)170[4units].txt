@@ -1,2 +1,0 @@
-Mathematical Methods for Optimization -- Mathematics (MATH)170[4units]
-Description: Linear programming and a selection of topics from among the following: matrix games, integer programming, semidefinite programming, nonlinear programming, convex analysis and geometry, polyhedral geometry, the calculus of variations, and control theory.

@@ -1,2 +1,0 @@
-Topics in Disease Surveillance -- Public Health (PB HLTH)253A[2units]
-Description: Ways of doing surveillance for infectious and non-infectious diseases; how the reasons for doing surveillance determine the system selected; and how to evaluate whether or not a given surveillance is providing the data needed to meet various goals. The impact of various biases on the conclusions derived from surveillance data will be explored.

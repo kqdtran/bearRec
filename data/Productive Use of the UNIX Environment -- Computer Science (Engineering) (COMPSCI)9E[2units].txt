@@ -1,2 +1,0 @@
-Productive Use of the UNIX Environment -- Computer Science (Engineering) (COMPSCI)9E[2units]
-Description: Use of UNIX utilities and scripting facilities for customizing the programming environment, organizing files (possibly in more than one computer account), implementing a personal database, reformatting text, and searching for online resources.

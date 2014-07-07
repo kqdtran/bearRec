@@ -1,2 +1,0 @@
-Partially Ionized Plasmas -- Electrical Engineering (EL ENG)C239[3units]
-Description: Introduction to partially ionized, chemically reactive plasmas, including collisional processes, diffusion, sources, sheaths, boundaries, and diagnostics. DC, RF, and microwave discharges. Applications to plasma-assisted materials processing and to plasma wall interactions. Also listed as Applied Science and Technology C239.

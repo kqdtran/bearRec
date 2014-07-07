@@ -1,2 +1,0 @@
-Fundamental Algorithms for System Modeling, Analysis, and Optimization -- Electrical Engineering (EL ENG)W244[4units]
-Description: The modeling, analysis, and optimization of complex systems require a range of algorithms and design tools. This course reviews the fundamental techniques underlying the design methodology for complex systems, using integrated circuit design as an example. Topics include design flows, discrete and continuous models and algorithms, and strategies for implementing algorithms efficiently and correctly in software.

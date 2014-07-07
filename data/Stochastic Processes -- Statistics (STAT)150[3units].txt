@@ -1,2 +1,0 @@
-Stochastic Processes -- Statistics (STAT)150[3units]
-Description: Random walks, discrete time Markov chains, Poisson processes. Further topics such as: continuous time Markov chains, queueing theory, point processes, branching processes, renewal theory, stationary processes, Gaussian processes.

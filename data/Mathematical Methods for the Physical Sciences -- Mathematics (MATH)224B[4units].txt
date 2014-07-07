@@ -1,2 +1,0 @@
-Mathematical Methods for the Physical Sciences -- Mathematics (MATH)224B[4units]
-Description: Introduction to the theory of distributions. Fourier and Laplace transforms. Partial differential equations. Green's function. Operator theory, with applications to eigenfunction expansions, perturbation theory and linear and non-linear waves. Sequence begins fall.

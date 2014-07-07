@@ -1,2 +1,0 @@
-Radiation Detection and Nuclear Instrumentation Laboratory -- Nuclear Engineering (NUC ENG)104[4units]
-Description: Basic science of radiation measurement, nuclear instrumentation, neutronics, radiation dosimetry. The lectures emphasize the principles of radiation detection. The weekly laboratory applies a variety of radiation detection systems to the practical measurements of interest for nuclear power, nuclear and non-nuclear science, and environmental applications. Students present goals and approaches of the experiements being performed.

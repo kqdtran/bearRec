@@ -1,2 +1,0 @@
-Advanced Dynamics -- Mechanical Engineering (MEC ENG)275[3units]
-Description: Review of Lagrangian dynamics. Legendre transform and Hamilton's equations, Cyclic coordinates, Canonical transformations, Hamilton-Jacobi theory, integrability. Dynamics of asymmetric systems. Approximation theory. Current topics in analytical dynamics.

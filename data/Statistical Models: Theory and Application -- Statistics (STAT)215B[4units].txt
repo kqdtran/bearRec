@@ -1,2 +1,0 @@
-Statistical Models: Theory and Application -- Statistics (STAT)215B[4units]
-Description: Course builds on 215A in developing critical thinking skills and the techniques of advanced applied statistics. Particular topics vary with instructor. Examples of possible topics include planning and design of experiments, ANOVA and random effects models, splines, classification, spatial statistics, categorical data analysis, survival analysis, and multivariate analysis.

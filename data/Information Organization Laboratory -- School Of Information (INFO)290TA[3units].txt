@@ -1,2 +1,0 @@
-Information Organization Laboratory -- School Of Information (INFO)290TA[3units]
-Description: Students will build tools to explore and apply theories of information organization and retrieval. Students will implement various concepts covered in the concurrent 202 course through small projects on topics like controlled vocabularies, the semantic web, and corpus analysis. We will also experiment with topics suggested by students during the course. Students will develop skills in rapid prototyping of web-based projects using Python, XML, and jQuery.

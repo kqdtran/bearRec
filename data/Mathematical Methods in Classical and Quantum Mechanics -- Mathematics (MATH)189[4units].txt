@@ -1,2 +1,0 @@
-Mathematical Methods in Classical and Quantum Mechanics -- Mathematics (MATH)189[4units]
-Description: Topics in mechanics presented from a mathematical viewpoint: e.g., hamiltonian mechanics and symplectic geometry, differential equations for fluids, spectral theory in quantum mechanics, probability theory and statistical mechanics. See department bulletins for specific topics each semester course is offered.

@@ -1,2 +1,0 @@
-Computer Vision -- Vision Science (VIS SCI)C280[3units]
-Description: Paradigms for computational vision. Relation to human visual perception. Mathematical techniques for representing and reasoning, with curves, surfaces and volumes. Illumination and reflectance models. Color perception. Image segmentation and aggregation. Methods for bottom-up three dimensional shape recovery: Line drawing analysis, stereo, shading, motion, texture. Use of object models for prediction and recognition. Also listed as Computer Science C280.

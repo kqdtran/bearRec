@@ -1,2 +1,0 @@
-Logical Semantics -- Linguistics (LINGUIS)121[3units]
-Description: Basic logical concepts. Truth, denotation, and their relation. Models and interpretation. Translation from natural language into logical form and compositionality. Quantification and scope. Intensionality, context-dependency, and presupposition.

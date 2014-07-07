@@ -1,2 +1,0 @@
-Concepts in Computing with Data -- Statistics (STAT)133[3units]
-Description: An introduction to computationally intensive applied statistics. Topics will include organization and use of databases, visualization and graphics, statistical learning and data mining, model validation procedures, and the presentation of results.

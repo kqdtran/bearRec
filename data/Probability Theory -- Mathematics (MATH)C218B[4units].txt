@@ -1,2 +1,0 @@
-Probability Theory -- Mathematics (MATH)C218B[4units]
-Description: The course is designed as a sequence with with Statistics C205A/Mathematics C218A with the following combined syllabus. Measure theory concepts needed for probability. Expection, distributions. Laws of large numbers and central limit theorems for independent random variables. Characteristic function methods. Conditional expectations, martingales and martingale converengence theorems. Markov chains. Stationary processes. Brownian motion. Also listed as Statistics C205B.

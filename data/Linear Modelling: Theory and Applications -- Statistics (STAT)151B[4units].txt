@@ -1,2 +1,0 @@
-Linear Modelling: Theory and Applications -- Statistics (STAT)151B[4units]
-Description: A coordinated treatment of linear and generalized linear models and their application. Linear regression, analysis of variance and covariance, random effects, design and analysis of experiments, quality improvement, log-linear models for discrete multivariate data, model selection, robustness, graphical techniques, productive use of computers, in-depth case studies.

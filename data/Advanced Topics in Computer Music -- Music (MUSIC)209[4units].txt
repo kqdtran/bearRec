@@ -1,2 +1,0 @@
-Advanced Topics in Computer Music -- Music (MUSIC)209[4units]
-Description: Technical and musical issues in the design and development of computer-based music systems including digital signal processing for the analysis and synthesis of sound, scheduling of multiple musical control processes, perceptual and cognitive models, user-interface design, reactive real-time control, and the analysis and representation of musical structure.

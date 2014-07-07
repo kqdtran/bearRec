@@ -1,2 +1,0 @@
-Design of Programming Languages -- Computer Science (Engineering) (COMPSCI)263[3units]
-Description: Selected topics from: analysis, comparison, and design of programming languages, formal description of syntax and semantics, advanced programming techniques, structured programming, debugging, verification of programs and compilers, and proofs of correctness.

@@ -1,2 +1,0 @@
-Production and Inventory Systems -- Industrial Engineering (IND ENG)254[3units]
-Description: Mathematical and computer methods for design, planning, scheduling, and control in manufacturing and distribution systems.

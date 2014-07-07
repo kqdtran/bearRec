@@ -1,2 +1,0 @@
-Thin-Film Science and Technology -- Applied Science And Technology (AST)C225[3units]
-Description: Thin-film nucleation and growth, microstructural evolution and reactions. Comparison of thin-film deposition techniques. Characterization techniques. Processing of thin films by ion implantation and rapid annealing. Processing-microstructure-property-performance relationships in the context of applications in information storage, ICs, micro-electromechanical systems and optoelectronics. Also listed as Materials Science and Engineering C225.

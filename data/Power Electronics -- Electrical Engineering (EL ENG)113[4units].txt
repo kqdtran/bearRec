@@ -1,2 +1,0 @@
-Power Electronics -- Electrical Engineering (EL ENG)113[4units]
-Description: Power conversion circuits and techniques. Characterization and design of magnetic devices including transformers, reactors, and electromagnetic machinery. Characteristics of bipolar and MOS power semiconductor devices. Applications to motor control, switching power supplies, lighting, power systems, and other areas as appropriate.

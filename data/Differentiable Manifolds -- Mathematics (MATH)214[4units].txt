@@ -1,2 +1,0 @@
-Differentiable Manifolds -- Mathematics (MATH)214[4units]
-Description: Smooth manifolds and maps, tangent and normal bundles. Sard's theorem and transversality, Whitney embedding theorem. Morse functions, differential forms, Stokes' theorem, Frobenius theorem. Basic degree theory. Flows, Lie derivative, Lie groups and algebras. Additional topics selected by instructor.

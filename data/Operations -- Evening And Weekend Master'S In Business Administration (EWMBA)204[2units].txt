@@ -1,2 +1,0 @@
-Operations -- Evening And Weekend Master'S In Business Administration (EWMBA)204[2units]
-Description: An introduction to the application of quantitative methods to management decision problems. Topics include linear programming, probability theory, decision analysis, regression and correlation, and time series analysis.

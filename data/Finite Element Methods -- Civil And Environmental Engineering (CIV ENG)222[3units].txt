@@ -1,2 +1,0 @@
-Finite Element Methods -- Civil And Environmental Engineering (CIV ENG)222[3units]
-Description: Approximation theory for analysis of deformation and stress in solids. Finite element formulations for frame, plane stress/strain, axisymmetric, torsion, and three-dimensional elastic problems. The isoparametric formulation and implementation. Plate and shell elements. Finite element modeling of structural systems.

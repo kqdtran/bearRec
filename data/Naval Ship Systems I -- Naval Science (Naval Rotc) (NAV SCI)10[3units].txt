@@ -1,2 +1,0 @@
-Naval Ship Systems I -- Naval Science (Naval Rotc) (NAV SCI)10[3units]
-Description: Principles of design and operation of ships. Emphasis on description and analysis of major types of propulsion plants, both conventional and nuclear. Principles of thermodynamic cycles, electrical theory, power generation and distribution, auxiliary machinery systems. Ship construction, strength and stability in intact and damaged conditions. Factors and design criteria for seaworthiness, structural integrity, and operational employment.

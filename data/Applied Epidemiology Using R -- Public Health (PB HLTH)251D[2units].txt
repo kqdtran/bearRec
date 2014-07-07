@@ -1,2 +1,0 @@
-Applied Epidemiology Using R -- Public Health (PB HLTH)251D[2units]
-Description: This is an intensive, one-semester introduction to the R programming language for applied epidemiology. R is a freely available, multi-platform (Mac OS, Linux, and Windows, etc.), versatile, and powerful program for statistical computing and graphics (http://www.r-project.org). This course will focus on core basics of organizing, managing, and manipulating epidemiologic data; basic epidemiologic applications; introduction to R programming; and basic R graphics.

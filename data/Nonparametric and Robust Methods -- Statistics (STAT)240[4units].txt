@@ -1,2 +1,0 @@
-Nonparametric and Robust Methods -- Statistics (STAT)240[4units]
-Description: Standard nonparametric tests and confidence intervals for continuous and categorical data; nonparametric estimation of quantiles; robust estimation of location and scale parameters. Efficiency comparison with the classical procedures.

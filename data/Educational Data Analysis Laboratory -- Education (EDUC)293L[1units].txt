@@ -1,2 +1,0 @@
-Educational Data Analysis Laboratory -- Education (EDUC)293L[1units]
-Description: Exercises and computer programs are presented and discussed.

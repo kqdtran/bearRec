@@ -1,2 +1,0 @@
-Environmental Chemical Kinetics -- Civil And Environmental Engineering (CIV ENG)217[3units]
-Description: Kinetic aspects of chemical fate and transport in aquatic systems. Quantitative descriptions of the kinetics of intermedia transport and pollutant transformation by abiotic, photochemical, and biological reactions. Techniques for the estimation of environmental reaction rates. Development of models of pollutant behavior in complex natural systems.

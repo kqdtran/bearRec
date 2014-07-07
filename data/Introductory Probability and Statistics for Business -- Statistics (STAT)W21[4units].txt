@@ -1,2 +1,0 @@
-Introductory Probability and Statistics for Business -- Statistics (STAT)W21[4units]
-Description: Reasoning and fallacies, descriptive statistics, probability models and related concepts, combinatorics, sample surveys, estimates, confidence intervals, tests of significance, controlled experiments vs. observational studies, correlation and regression.

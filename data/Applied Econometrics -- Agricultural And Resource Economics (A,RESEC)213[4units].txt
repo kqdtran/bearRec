@@ -1,2 +1,0 @@
-Applied Econometrics -- Agricultural And Resource Economics (A,RESEC)213[4units]
-Description: Standard and advanced econometric techniques are applied to topics in agriculture and resource economics. Techniques include limited dependent variables, time series analysis, and nonparametric analysis. Students will use computers to conduct statistical analyses.

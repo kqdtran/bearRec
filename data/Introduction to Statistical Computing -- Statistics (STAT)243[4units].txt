@@ -1,2 +1,0 @@
-Introduction to Statistical Computing -- Statistics (STAT)243[4units]
-Description: The structure and use of statistical languages and packages. Use of graphical displays in data analysis. Statistical data base management.

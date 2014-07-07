@@ -1,2 +1,0 @@
-Thermodynamics and Phase Transformations in Solids -- Materials Science And Engineering (MAT SCI)201A[4units]
-Description: The laws of thermodynamics, fundamental equations for multicomponent elastic solids and electromagnetic media, equilibrium criteria. Application to solution thermodynamics, point defects in solids, phase diagrams. Phase transitions, Landau rule, symmetry rules. Interfaces, nucleation theory, elastic effects. Kinetics: diffusion of heat, mass and charge; coupled flows.

@@ -1,2 +1,0 @@
-Completion of Work in Computer Science 61B -- Computer Science (Engineering) (COMPSCI)47B[1units]
-Description: Iterators. Hashing, applied to strings and multi-dimensional structures. Heaps. Storage management. Design and implementation of a program containing hundreds of lines of code. Students with sufficient partial credit in 61B may, with consent of instructor, complete the credit in this self-paced course.

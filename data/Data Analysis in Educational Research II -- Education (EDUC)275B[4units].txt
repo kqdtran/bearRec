@@ -1,2 +1,0 @@
-Data Analysis in Educational Research II -- Education (EDUC)275B[4units]
-Description: A second course in educational statistics and data analysis. Emphasis is on using and interpreting multiple regression, loglinear models, and the analysis of variance for a variety of data sets and with a variety of analytic objectives. Must be taken concurrently with the computer laboratory Education 275L.

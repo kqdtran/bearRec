@@ -1,2 +1,0 @@
-Scheme and Functional Programming for Programmers -- Computer Science (Engineering) (COMPSCI)9D[2units]
-Description: Self-paced course in functional programming, using the Scheme programming language, for students who already know how to program. Recursion; higher-order functions; list processing; implementation of rule-based querying.

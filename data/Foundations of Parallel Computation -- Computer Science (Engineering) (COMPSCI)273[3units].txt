@@ -1,2 +1,0 @@
-Foundations of Parallel Computation -- Computer Science (Engineering) (COMPSCI)273[3units]
-Description: Formerly 292K. Fundamental theoretical issues in designing parallel algorithms and architectures. Shared memory models of parallel computation. Parallel algorithms for linear algegra, sorting, Fourier Transform, recurrence evaluation, and graph problems. Interconnection network based models. Algorithm design techniques for networks like hypercubes, shuffle-exchanges, threes, meshes and butterfly networks. Systolic arrays and techniques for generating them. Message routing.

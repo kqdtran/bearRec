@@ -1,2 +1,0 @@
-Air Pollution Modeling -- Civil And Environmental Engineering (CIV ENG)218C[3units]
-Description: Theory and practice of mathematical air quality modeling. Modeling atmospheric chemical transformation processes. Effects of uncertainty in model parameters on predictions. Review of atmospheric diffusion theory and boundary layer meteorology. Dispersion modeling. Combining chemistry and transport.

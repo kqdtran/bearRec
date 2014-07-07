@@ -1,2 +1,0 @@
-Research and Data Analysis in Psychology -- Psychology (PSYCH)101[4units]
-Description: The course will concentrate on hypothesis formulation and testing, tests of significance, analysis of variance (one-way analysis), simple correlation, simple regression, and nonparametric statistics such as chi-square and Mann-Whitney U tests. Majors intending to be in the honors program must complete 101 by the end of their junior year.

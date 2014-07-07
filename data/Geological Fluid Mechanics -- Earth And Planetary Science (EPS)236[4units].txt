@@ -1,2 +1,0 @@
-Geological Fluid Mechanics -- Earth And Planetary Science (EPS)236[4units]
-Description: An advanced course in the application of fluid mechanics in the earth sciences, with emphasis on the design and scaling of laboratory and numerical models. Principals of inviscid and viscous fluid flow; dynamic similarity; boundary layers; convection; instabilities; gravity currents; mixing and chaos; porous flow. Applications to mantle convection, magma dynamics, atmosphere and ocean dynamics, sediment/debris flows, and hydrogeology. Topics may vary from year to year.

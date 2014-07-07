@@ -1,2 +1,0 @@
-Hydrodynamic Stability and Instability -- Mechanical Engineering (MEC ENG)262[3units]
-Description: Discussions of linear and nonlinear instabilities in a variety of fluid flows: thermal convection, Rayleigh-Taylor flows, shearing flows, circular and cylindrical Couette flows (i.e., centrifugal instability). Use of the Landau equation, bifurcation diagrams, and energy methods for nonlinear flows.

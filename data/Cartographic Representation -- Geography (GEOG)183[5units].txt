@@ -1,2 +1,0 @@
-Cartographic Representation -- Geography (GEOG)183[5units]
-Description: Problems in the representation of quantitative and qualitative data on thematic maps.

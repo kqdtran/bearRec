@@ -1,2 +1,0 @@
-Ordinary Differential Equations -- Mathematics (MATH)204[4units]
-Description: Rigorous theory of ordinary differential equations. Fundamental existence theorems for initial and boundary value problems, variational equilibria, periodic coefficients and Floquet Theory, Green's functions, eigenvalue problems, Sturm-Liouville theory, phase plane analysis, Poincare-Bendixon Theorem, bifurcation, chaos.

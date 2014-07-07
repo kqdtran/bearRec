@@ -1,2 +1,0 @@
-Nonlinear Systems--Analysis, Stability and Control -- Electrical Engineering (EL ENG)222[3units]
-Description: Basic graduate course in non-linear systems. Second Order systems. Numerical solution methods, the describing function method, linearization. Stability - direct and indirect methods of Lyapunov. Applications to the Lure problem - Popov, circle criterion. Input-Output stability. Additional topics include: bifurcations of dynamical systems, introduction to the "geometric" theory of control for nonlinear systems, passivity concepts and dissipative dynamical systems.

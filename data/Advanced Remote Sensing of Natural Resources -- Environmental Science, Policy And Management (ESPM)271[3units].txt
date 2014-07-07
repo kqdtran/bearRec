@@ -1,2 +1,0 @@
-Advanced Remote Sensing of Natural Resources -- Environmental Science, Policy And Management (ESPM)271[3units]
-Description: Advanced photographic systems. Nonphotographic systems including multispectral scanner, imaging spectrometry, thermal, and RADAR. The use of ditigal image processing, geographic information systems (GIS,) and accuracy assessment. A look into linking remote sensing with GIS and integrated analysis of multisource spatial data. Laboratories and application projects are to be arranged.

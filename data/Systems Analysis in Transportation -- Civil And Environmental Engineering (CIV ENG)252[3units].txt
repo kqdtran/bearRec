@@ -1,2 +1,0 @@
-Systems Analysis in Transportation -- Civil And Environmental Engineering (CIV ENG)252[3units]
-Description: The systems approach and its application to transportation planning and engineering. Prediction of flows and level of service. Production functions and cost minimization. Utility theory and demand modeling. Transportation network analysis and equilibrium assignment. Decision analysis and evaluation of transportation projects.

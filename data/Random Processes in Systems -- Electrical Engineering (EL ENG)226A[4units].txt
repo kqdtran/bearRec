@@ -1,2 +1,0 @@
-Random Processes in Systems -- Electrical Engineering (EL ENG)226A[4units]
-Description: Probability, random variables and their convergence, random processes. Filtering of wide sense stationary processes, spectral density, Wiener and Kalman filters. Markov processes and Markov chains. Gaussian, birth and death, poisson and shot noise processes. Elementary queueing analysis. Detection of signals in Gaussian and shot noise, elementary parameter estimation.

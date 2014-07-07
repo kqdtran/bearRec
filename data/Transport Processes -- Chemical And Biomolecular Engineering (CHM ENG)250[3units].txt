@@ -1,2 +1,0 @@
-Transport Processes -- Chemical And Biomolecular Engineering (CHM ENG)250[3units]
-Description: Basic differential relations of mass, momentum, and energy including creeping, laminar, and turbulent flow, boundary layers, convective-diffusion in heat and mass transfer, and simultaneous multicomponent mass and energy transport. Analytic mathematical solution of the equations of change using classical techniques including: separation of variables, similarity solutions, and Laplace and Fourier transforms.

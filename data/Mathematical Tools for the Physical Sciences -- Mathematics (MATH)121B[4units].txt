@@ -1,2 +1,0 @@
-Mathematical Tools for the Physical Sciences -- Mathematics (MATH)121B[4units]
-Description: Intended for students in the physical sciences who are not planning to take more advanced mathematics courses. Special functions, series solutions of ordinary differential equations, partial differential equations arising in mathematical physics, probability theory.

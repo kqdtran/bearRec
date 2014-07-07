@@ -1,2 +1,0 @@
-MicroRNA Functions in Cancer Development, Mouse Tumor Models -- Molecular And Cell Biology (MCELLBI)239M[2units]
-Description:  Malignant transformation represents the endpoint of successive genetic lesions that confer uncontrolled proliferation and survival, unlimited replicative potential, and invasive growth.

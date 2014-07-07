@@ -1,2 +1,0 @@
-Molecular Cell Biomechanics -- Bioengineering (BIO ENG)112[4units]
-Description: This course develops and applies scaling laws and the methods of continuum and statistical mechanics to biomechanical phenomena over a range of length scales, from molecular to cellular levels. It is intended for senior undergraduate students who have been exposed to differential equations, mechanics, and certain aspects of modern biology.

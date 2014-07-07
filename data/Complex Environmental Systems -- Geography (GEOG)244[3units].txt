@@ -1,2 +1,0 @@
-Complex Environmental Systems -- Geography (GEOG)244[3units]
-Description: Applying a complex-systems approach to environmental problems can yield valuable insight into risk, potential drivers of change, likely outcomes of perturbation, and whether it is even possible to forecast or manage system behavior. This course explores complex-systems theory and applications in geography, ecology, and earth science. Case studies include climate change, coupled human-environmental systems, vegetation community change, river networks, forest fires, earthquakes, and peatlands.

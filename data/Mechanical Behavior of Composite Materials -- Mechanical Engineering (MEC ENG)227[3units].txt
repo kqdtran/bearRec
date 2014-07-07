@@ -1,2 +1,0 @@
-Mechanical Behavior of Composite Materials -- Mechanical Engineering (MEC ENG)227[3units]
-Description: Response of composite materials (fiber and particulate-reinforced materials) to static, cyclic, creep and thermomechanical loading. Manufacturing process-induced variability, and residual stresses. Fatigue behavior,fracture mechanics and damage development. Role of the reinforcement-matrix interface in mechanical behavior. Environmental effects. Dimensional stability and thermal fatigue. Application to polymer, metal, ceramic, and carbon matrix composites.

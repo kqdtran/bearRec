@@ -1,2 +1,0 @@
-Dynamics and Control of Chemical Processes -- Chemical And Biomolecular Engineering (CHM ENG)162[4units]
-Description: Analysis of the dynamic behavior of chemical processes and methods and theory of their control. Implementation of computer control systems on process simulations.

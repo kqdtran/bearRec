@@ -1,2 +1,0 @@
-Introduction to Stochastic Calculus -- Master'S In Financial Engineering (MFE)230Q[2units]
-Description: The course introduces the students to techniques from stochastic analysis employed in mathematical finance. Topics include: stochastic processes, brownian motion, stochastic integral, differentials and Ito's formula; martingales.

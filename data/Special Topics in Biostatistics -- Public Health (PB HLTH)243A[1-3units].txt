@@ -1,2 +1,0 @@
-Special Topics in Biostatistics -- Public Health (PB HLTH)243A[1-3units]
-Description: Current issues in biostatistics research. Topics will vary from term to term depending on student demand and faculty availability. Possible topics are bioassay, meta-analysis, compartmental models, biostatistical consulting, covariance structure models, bootstrap and jackknife methods, artificial intelligence techniques in biostatistics.

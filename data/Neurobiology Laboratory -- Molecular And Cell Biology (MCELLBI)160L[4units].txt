@@ -1,2 +1,0 @@
-Neurobiology Laboratory -- Molecular And Cell Biology (MCELLBI)160L[4units]
-Description: Experimental analyses of properties and interactions of nerve cells and systems, illustrating principal features and current methods. Techniques employed include computer simulation of neuron properties, electrophysiological recording and stimulation of nerves and cells, digitally enhanced video imaging of outgrowth, fluorescence immunocytochemistry, analysis of sensory: CNS mapping, human-evoked potential recording, sensory psychophysics.

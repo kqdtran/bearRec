@@ -1,2 +1,0 @@
-Quantitative Methods in Linguistics -- Cognitive Science (COG SCI)C140[4units]
-Description: An introduction to research using quantitative analysis in linguistics and cognitive science. Students will learn how to use the R programming environment for statistical analysis and data visualization. Also listed as Linguistics C160.

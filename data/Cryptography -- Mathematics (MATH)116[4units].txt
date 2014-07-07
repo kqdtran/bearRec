@@ -1,2 +1,0 @@
-Cryptography -- Mathematics (MATH)116[4units]
-Description: Construction and analysis of simple cryptosystems, public key cryptography, RSA, signature schemes, key distribution, hash functions, elliptic curves, and applications.

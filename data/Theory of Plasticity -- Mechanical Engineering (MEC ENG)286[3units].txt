@@ -1,2 +1,0 @@
-Theory of Plasticity -- Mechanical Engineering (MEC ENG)286[3units]
-Description: Formulation of the theory of plasticity relative to loading surfaces in both strain space and stress space and associated loading criteria. Nonlinear constitutive equations for finitely deformed elastic-plastic materials. Discussion of strain-hardening and special cases. Applications.

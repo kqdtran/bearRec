@@ -1,2 +1,0 @@
-Stellar Physics -- Astronomy (ASTRON)160[4units]
-Description: Topics covered include some, but not necessarily all, of the following. Observational constraints on the properties and evolution of stars. Theory of stellar structure and evolution. Stellar atmospheres and stellar spectroscopy. Stellar nucleosynthesis. Supernovae. Degeneracy of matter and structure of collapsed stars. Elements of gas dynamics, accretion onto compact objects, and x-ray sources. Dynamics and evolution of close binary systems. Stellar pulsation.

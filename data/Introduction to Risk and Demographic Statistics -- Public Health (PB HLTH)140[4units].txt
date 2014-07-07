@@ -1,2 +1,0 @@
-Introduction to Risk and Demographic Statistics -- Public Health (PB HLTH)140[4units]
-Description: Statistical and evaluation methods in studies of human mortality, morbidity, and natality. History of statistical terminology and notation, critical appraisal of registry and census data, measurement of risk and introduction to life tables. Computational systems and the analysis of mass data.

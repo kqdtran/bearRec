@@ -1,2 +1,0 @@
-Algebraic Topology -- Mathematics (MATH)215B[4units]
-Description: Fundamental group and covering spaces, simplicial and singular homology theory with applications, cohomology theory, duality theorem. Homotopy theory, fibrations, relations between homotopy and homology, obstruction theory, and topics from spectral sequences, cohomology operations, and characteristic classes. Sequence begins fall.

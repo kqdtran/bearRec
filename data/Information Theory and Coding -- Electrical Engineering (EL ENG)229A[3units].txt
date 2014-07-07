@@ -1,2 +1,0 @@
-Information Theory and Coding -- Electrical Engineering (EL ENG)229A[3units]
-Description: Fundamental bounds of Shannon theory and their application. Source and channel coding theorems. Galois field theory, algebraic error-correction codes. Private and public-key cryptographic systems.

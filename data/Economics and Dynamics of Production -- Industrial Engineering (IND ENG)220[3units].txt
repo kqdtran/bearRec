@@ -1,2 +1,0 @@
-Economics and Dynamics of Production -- Industrial Engineering (IND ENG)220[3units]
-Description: Analysis of the capacity and efficiency of production systems. Development of analytical tools for improving efficiency, customer service, and profitability of production environments. Design and development of effective industrial production planning systems. Modelling principles are illustrated by reviewing actual large-scale planning systems successfully implemented for naval ship overhaul and for semiconductor manufacturing.

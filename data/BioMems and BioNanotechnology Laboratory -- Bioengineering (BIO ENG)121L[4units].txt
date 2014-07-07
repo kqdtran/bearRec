@@ -1,2 +1,0 @@
-BioMems and BioNanotechnology Laboratory -- Bioengineering (BIO ENG)121L[4units]
-Description: Students will become familiar with BioMEMS and Lab-on-a-Chip research. Students will design and fabricate their own novel micro- or nano-scale device to address a specific problem in biotechnology using the latest micro- and nano-technological tools and fabrication techniques. This will involve an intensive primary literature review, experimental design, and quantitative data analysis. Results will be presented during class presentations and at a final poster symposium.

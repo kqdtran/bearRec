@@ -1,2 +1,0 @@
-Equilibrium Statistical Physics -- Physics (PHYSICS)211[4units]
-Description: Foundations of statistical physics. Ensemble theory. Degenerate systems. Systems of interacting particles.

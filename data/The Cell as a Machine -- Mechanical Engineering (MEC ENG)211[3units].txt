@@ -1,2 +1,0 @@
-The Cell as a Machine -- Mechanical Engineering (MEC ENG)211[3units]
-Description: This course offers a modular and systems mechanobiology (or "machine") perspective of the cell. Two vitally important components of the cell machinery will be studied in depth: (1) the integrin-mediated focal adhesions system that enables the cell to adhere to, and communicate mechano-chemical signals with, the extracellular environment, and (2) the nuclear pore complex, a multi-protein gateway for traffic in and out of the nucleus that regulates gene expression and affects protein synthesis.

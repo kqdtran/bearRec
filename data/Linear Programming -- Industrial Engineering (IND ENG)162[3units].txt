@@ -1,2 +1,0 @@
-Linear Programming -- Industrial Engineering (IND ENG)162[3units]
-Description: Formulation to linear programs. Optimal allocation and control problems in industry and environmental studies. Convex sets; properties of optimal solutions. The simplex method; theorems of duality; complementary slackness. Problems of post-optimization. Special structures; network problems. Digital computation.

@@ -1,2 +1,0 @@
-Introduction to Statistical and Thermal Physics -- Physics (PHYSICS)112[4units]
-Description: Basic concepts of statistical mechanics, microscopic basis of thermodynamics and applications to macroscopic systems, condensed states, phase transformations, quantum distributions, elementary kinetic theory of transport processes, fluctuation phenomena.

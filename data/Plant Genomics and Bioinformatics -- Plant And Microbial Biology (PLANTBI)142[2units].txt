@@ -1,2 +1,0 @@
-Plant Genomics and Bioinformatics -- Plant And Microbial Biology (PLANTBI)142[2units]
-Description: This course is designed as a companion course to Plant and Microbial Biology C144L and will equip students with the minimal skills required to use the main bioinformatics webservers and databases. Each lecture will present one or more webservers or databases and explain how to use that webserver as part of a protein function or structure prediction/analysis.

@@ -1,2 +1,0 @@
-Quantum Mechanics -- Physics (PHYSICS)221A[5units]
-Description: Basic assumptions of quantum mechanics; quantum theory of measurement; matrix mechanics; Schroedinger theory; symmetry and invariance principles; theory of angular momentum; stationary state problems; variational principles; time independent perturbation theory; time dependent perturbation theory; theory of scattering.

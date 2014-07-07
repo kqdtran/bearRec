@@ -1,2 +1,0 @@
-Advanced Dynamics -- Physics (PHYSICS)205A[4units]
-Description: Lagrange and Hamiltonian dynamics, variational methods, symmetry, kinematics and dynamics of rotation, canonical variables and transformations, perturbation theory, non-linear dynamics, KAM theory.

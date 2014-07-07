@@ -1,2 +1,0 @@
-Practical Control System Design: A Systematic Optimization Approach -- Mechanical Engineering (MEC ENG)190Y[1units]
-Description: The Youla-parametrization of all stabilizing controllers allows certain time-domain and frequency-domain closed-loop design objectives to be cast as convex optimizations, and solved reliably using off-the-shelf numerical optimization codes. This course covers the Youla parametrization, basic elements of convex optimization, and finally control design using these techniques.

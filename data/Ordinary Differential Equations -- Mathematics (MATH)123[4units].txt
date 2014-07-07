@@ -1,2 +1,0 @@
-Ordinary Differential Equations -- Mathematics (MATH)123[4units]
-Description: Existence and uniqueness of solutions, linear systems, regular singular points. Other topics selected from analytic systems, autonomous systems, Sturm-Liouville Theory.

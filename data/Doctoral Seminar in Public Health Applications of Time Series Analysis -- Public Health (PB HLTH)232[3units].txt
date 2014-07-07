@@ -1,2 +1,0 @@
-Doctoral Seminar in Public Health Applications of Time Series Analysis -- Public Health (PB HLTH)232[3units]
-Description: An introduction to time-domain analyses of potential interest to public health researchers and practitioners. Applications in forecasting and hypothesis testing will be demonstrated.

@@ -1,2 +1,0 @@
-Risk Modeling, Simulation, and Data Analysis -- Industrial Engineering (IND ENG)241[3units]
-Description: This is a Masters of Engineering course, in which students will develop a fundamental understanding of how randomness and uncertainty are root causes of risk in modern enterprises. The technical material will be presented in the context of engineering team system design and operations decisions.

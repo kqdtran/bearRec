@@ -1,2 +1,0 @@
-Real-Time Applications of Mini and Micro Computers -- Mechanical Engineering (MEC ENG)230[4units]
-Description: Mini and micro computers, operating in real time, have become ubiquitous components in engineering systems. The purpose of this course is to build competence in the engineering use of such systems through lectures stressing small computer structure, programming, and output/input operation, and through laboratory work with mini and micro computer systems.

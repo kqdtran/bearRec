@@ -1,2 +1,0 @@
-Solid State Electronics -- Electrical Engineering (EL ENG)230C[3units]
-Description: Crystal structure and symmetries. Energy-band theory. Cyclotron resonance. Tensor effective mass. Statistics of electronic state population. Recombination theory. Carrier transport theory. Interface properties. Optical processes and properties.

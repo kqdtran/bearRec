@@ -1,2 +1,0 @@
-Modeling the Dynamics of Infectious Disease Processes -- Public Health (PB HLTH)252B[2-4units]
-Description: This course will cover the basic tools required to both critically read modeling papers and to develop and use models as research tools. Emphasis will be placed on using models to understand infectious disease processes and to evaluate potential control strategies. The class meeting will consist of both lecture material covering conceptual issues and a computer lab to apply these concepts using standard infectious disease models.

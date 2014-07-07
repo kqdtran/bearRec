@@ -1,2 +1,0 @@
-Experimenting with Simulated Systems -- Industrial Engineering (IND ENG)261[3units]
-Description: This course will introduce graduate and upper division undergraduate students to modern methods for simulating discrete event models of complex stochastic systems. About a third of the course will be devoted to system modeling, with the remaining two-thirds concentrating on simulation experimental design and analysis.

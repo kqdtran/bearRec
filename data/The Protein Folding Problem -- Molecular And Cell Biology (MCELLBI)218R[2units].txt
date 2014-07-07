@@ -1,2 +1,0 @@
-The Protein Folding Problem -- Molecular And Cell Biology (MCELLBI)218R[2units]
-Description: Protein structure, stability, design, and the pathway of protein folding.

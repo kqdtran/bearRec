@@ -1,2 +1,0 @@
-Game Theory -- Statistics (STAT)155[3units]
-Description: General theory of zero-sum, two-person games, including games in extensive form and continuous games, and illustrated by detailed study of examples.

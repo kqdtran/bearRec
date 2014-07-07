@@ -1,2 +1,0 @@
-Analytic Geometry and Calculus -- Mathematics (MATH)16B[3units]
-Description: Continuation of 16A. Application of integration of economics and life sciences. Differential equations. Functions of many variables. Partial derivatives, constrained and unconstrained optimization.

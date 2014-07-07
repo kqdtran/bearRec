@@ -1,2 +1,0 @@
-Advanced Robotics -- Computer Science (Engineering) (COMPSCI)287[3units]
-Description: Advanced topics related to current research in robotics. Planning and control issues for realistic robot systems, taking into account: dynamic constraints, control and sensing uncertainty, and non-holonomic motion constraints. Analysis of friction for assembly and grasping tasks. Sensing systems for hands including tactile and force sensing. Environmental perception from sparse sensors for dextrous hands. Grasp planning and manipulation.

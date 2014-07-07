@@ -1,2 +1,0 @@
-Quantum Mechanics -- Physics (PHYSICS)221B[5units]
-Description: Many-body methods, radiation field quantization, relativistic quantum mechanics, applications.

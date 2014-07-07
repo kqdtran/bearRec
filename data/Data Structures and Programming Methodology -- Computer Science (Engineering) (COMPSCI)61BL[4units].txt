@@ -1,2 +1,0 @@
-Data Structures and Programming Methodology -- Computer Science (Engineering) (COMPSCI)61BL[4units]
-Description: The same material as in 61B, but in a laboratory-based format.

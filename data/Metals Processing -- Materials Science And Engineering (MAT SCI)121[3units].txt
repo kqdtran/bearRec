@@ -1,2 +1,0 @@
-Metals Processing -- Materials Science And Engineering (MAT SCI)121[3units]
-Description: The principles of metals processing with emphasis on the use of processing to establish microstructures which impart desirable engineering properties. The techniques discussed include solidification, thermal and mechanical processing, powder processing, welding and joining, and surface treatments.

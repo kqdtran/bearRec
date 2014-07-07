@@ -1,2 +1,0 @@
-Physiological and Genetic Basis of Behavior -- Molecular And Cell Biology (MCELLBI)167[3units]
-Description: Genetic, cellular, and circuit-level analysis of how the nervous system generates behavior. Includes sensory processing, movement, and learning. Focus is on model systems for animal behavior. Principles, cellular and circuit specializations, and neural computations for behavior will be presented.

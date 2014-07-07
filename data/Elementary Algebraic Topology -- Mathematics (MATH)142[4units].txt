@@ -1,2 +1,0 @@
-Elementary Algebraic Topology -- Mathematics (MATH)142[4units]
-Description: The topology of one and two dimensional spaces: manifolds and triangulation, classification of surfaces, Euler characteristic, fundamental groups, plus further topics at the discretion of the instructor.

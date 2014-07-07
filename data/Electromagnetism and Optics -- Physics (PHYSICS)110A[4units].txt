@@ -1,2 +1,0 @@
-Electromagnetism and Optics -- Physics (PHYSICS)110A[4units]
-Description: A course emphasizing electromagnetic theory and applications; charges and currents; electric and magnetic fields; dielectric, conducting, and magnetic media; relativity, Maxwell equations. Wave propagation in media, radiation and scattering, Fourier optics, interference and diffraction, ray optics and applications.

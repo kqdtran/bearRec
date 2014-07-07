@@ -1,2 +1,0 @@
-Decisions, Games, and Strategies -- Master'S In Business Administration (MBA)243[3units]
-Description: The course considers two techniques for guiding a managerial decision maker who has to make a choice now but will only know later whether the choice was good. Decision analysis helps if the outcome of the choice depends on "nature"; game models help if the outcome depends on human opponents (e.g., competitors). Foundations of the two techniques, and a variety of applications, are studied.

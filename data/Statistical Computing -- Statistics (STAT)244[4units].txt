@@ -1,2 +1,0 @@
-Statistical Computing -- Statistics (STAT)244[4units]
-Description: Algorithms in statistical computing: random number generation, generating other distributions, random sampling and permutations. Matrix computations in linear models. Non-linear optimization with applications to statistical procedures. Other topics of current interest, such as issues of efficiency, and use of graphics.

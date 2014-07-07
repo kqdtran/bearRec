@@ -1,2 +1,0 @@
-Radioactive Waste Management -- Nuclear Engineering (NUC ENG)124[3units]
-Description: Components and material flowsheets for nuclear fuel cycle, waste characteristics, sources of radioactive wastes, compositions, radioactivity and heat generation; waste treatment technologies; waste disposal technologies; safety assessment of waste disposal.

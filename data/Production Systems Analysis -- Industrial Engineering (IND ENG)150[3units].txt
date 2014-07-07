@@ -1,2 +1,0 @@
-Production Systems Analysis -- Industrial Engineering (IND ENG)150[3units]
-Description: Quantitative models for operational and tactical decision making in production systems, including production planning, inventory control, forecasting, and scheduling.

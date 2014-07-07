@@ -1,2 +1,0 @@
-Computational Geometry -- Computer Science (Engineering) (COMPSCI)274[3units]
-Description: Formerly 292T. Constructive problems in computational geometry: convex hulls, triangulations, Voronoi diagrams, arrangements of hyperplanes; relationships among these problems. Search problems: advanced data structures; subdivision search; various kinds of range searches. Models of computation; lower bounds.

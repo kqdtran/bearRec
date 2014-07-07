@@ -1,2 +1,0 @@
-Introduction to Probability at an Advanced Level -- Statistics (STAT)201A[4units]
-Description: Distributions in probability and statistics, central limit theorem, Poisson processes, modes of convergence, transformations involving random variables.

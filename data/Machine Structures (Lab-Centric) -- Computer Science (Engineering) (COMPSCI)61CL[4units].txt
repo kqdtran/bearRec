@@ -1,2 +1,0 @@
-Machine Structures (Lab-Centric) -- Computer Science (Engineering) (COMPSCI)61CL[4units]
-Description: The same material as in 61C but in a lab-centric format.

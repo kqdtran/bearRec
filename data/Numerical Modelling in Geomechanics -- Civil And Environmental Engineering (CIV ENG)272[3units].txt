@@ -1,2 +1,0 @@
-Numerical Modelling in Geomechanics -- Civil And Environmental Engineering (CIV ENG)272[3units]
-Description: Constitutive laws for geotechnical materials including inelastic hyperbolic and elasto-plastic Cam-clay; soil behavior and critical-state soil mechanics; application of the finite element method to static analysis of earth structures; the Discontinuous Deformation Analysis method.

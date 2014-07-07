@@ -1,2 +1,0 @@
-Lie Groups -- Mathematics (MATH)261B[4units]
-Description: Lie groups and Lie algebras, fundamental theorems of Lie, general structure theory; compact, nilpotent, solvable, semi-simple Lie groups; classification theory and representation theory of semi-simple Lie algebras and Lie groups, further topics such as symmetric spaces, Lie transformation groups, etc., if time permits. In view of its simplicity and its wide range of applications, it is preferable to cover compact Lie groups and their representations in 261A. Sequence begins Fall.

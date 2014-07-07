@@ -1,2 +1,0 @@
-General Relativity -- Physics (PHYSICS)231[4units]
-Description: An introduction to Einstein's theory of gravitation. Tensor analysis, general relativistic models for matter and electromagnetism, Einstein's field equations. Applications, for example, to the solar system, dense stars, black holes, and cosmology.

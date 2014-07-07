@@ -1,2 +1,0 @@
-Financial Risk Measurement and Management -- Master'S In Financial Engineering (MFE)230H[2units]
-Description: This course examines risk measurement and management including market risk, credit risk, liquidity risk, settlement risk, volatility risk, kurtosis risk and other types of financial risks. Topics will include risk management techniques for different types of contracts and portfolios such as duration, portfolio beta, factor sensitivities, VAR, dynamic portfolio analysis and extreme value analysis and other risk management techniques.

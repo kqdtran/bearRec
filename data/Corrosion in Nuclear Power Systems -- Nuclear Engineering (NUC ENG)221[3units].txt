@@ -1,2 +1,0 @@
-Corrosion in Nuclear Power Systems -- Nuclear Engineering (NUC ENG)221[3units]
-Description: Structural metals in nuclear power plants; properties and fabrication of Zircaloy; aqueous corrosion of reactor components; structural integrity of reactor components under combined mechanical loading, neutron irradiation, and chemical environment.

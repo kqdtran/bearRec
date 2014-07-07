@@ -1,2 +1,0 @@
-Introduction to Partial Differential Equations -- Mathematics (MATH)126[4units]
-Description: Waves and diffusion, initial value problems for hyperbolic and parabolic equations, boundary value problems for elliptic equations, Green's functions, maximum principles, a priori bounds, Fourier transform.

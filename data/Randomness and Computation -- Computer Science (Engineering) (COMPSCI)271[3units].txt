@@ -1,2 +1,0 @@
-Randomness and Computation -- Computer Science (Engineering) (COMPSCI)271[3units]
-Description: Computational applications of randomness and computational theories of randomness. Approximate counting and uniform generation of combinatorial objects, rapid convergence of random walks on expander graphs, explicit construction of expander graphs, randomized reductions, Kolmogorov complexity, pseudo-random number generation, semi-random sources.

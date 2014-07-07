@@ -1,2 +1,0 @@
-String Theory II -- Physics (PHYSICS)234B[4units]
-Description: Nonperturbative apsects of string theory. Topics selected from black holes; black branes; Bekenstein-Hawking entropy; D-branes; string dualities; M-theory; holographic principle and its realizations; AdS/CFT correspondence; gauge theory/gravity dualities; flux compactifications; cosmology in string theory; topological string theories. Selected current topics.

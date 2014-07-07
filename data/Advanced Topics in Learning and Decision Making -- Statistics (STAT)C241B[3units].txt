@@ -1,2 +1,0 @@
-Advanced Topics in Learning and Decision Making -- Statistics (STAT)C241B[3units]
-Description: Recent topics include: Graphical models and approximate inference algorithms. Markov chain Monte Carlo, mean field and probability propagation methods. Model selection and stochastic realization. Bayesian information theoretic and structural risk minimization approaches. Markov decision processes and partially observable Markov decision processes. Reinforcement learning. Also listed as Computer Science C281B.

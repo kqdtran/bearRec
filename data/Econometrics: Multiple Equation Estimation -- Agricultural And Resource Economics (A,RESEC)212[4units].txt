@@ -1,2 +1,0 @@
-Econometrics: Multiple Equation Estimation -- Agricultural And Resource Economics (A,RESEC)212[4units]
-Description: Introduction to the estimation and testing of economic models. Includes analysis of the general linear model, asymptotic theory, instrumental variable, and the generalized method of moments. In addition, a survey of time series, analysis, limited dependent variables.

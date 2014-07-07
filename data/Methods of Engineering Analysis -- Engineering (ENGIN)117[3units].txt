@@ -1,2 +1,0 @@
-Methods of Engineering Analysis -- Engineering (ENGIN)117[3units]
-Description: Methods of theoretical engineering analysis; techniques for analyzing partial differential equations and the use of special functions related to engineering systems. Sponsoring Department: Mechanical Engineering.

@@ -1,2 +1,0 @@
-Operating Systems and System Programming -- Computer Science (Engineering) (COMPSCI)162[4units]
-Description: Basic concepts of operating systems and system programming. Utility programs, subsystems, multiple-program systems. Processes, interprocess communication, and synchronization. Memory allocation, segmentation, paging. Loading and linking, libraries. Resource allocation, scheduling, performance evaluation. File systems, storage devices, I/O systems. Protection, security, and privacy.

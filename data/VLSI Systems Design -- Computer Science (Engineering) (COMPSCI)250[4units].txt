@@ -1,2 +1,0 @@
-VLSI Systems Design -- Computer Science (Engineering) (COMPSCI)250[4units]
-Description: Unified top-down and bottom-up design of integrated circuits and systems concentrating on architectural and topological issues. VLSI architectures, systolic arrays, self-timed systems. Trends in VLSI development. Physical limits. Tradeoffs in custom-design, standard cells, gate arrays. VLSI design tools.

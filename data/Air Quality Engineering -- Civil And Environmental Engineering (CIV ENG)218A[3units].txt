@@ -1,2 +1,0 @@
-Air Quality Engineering -- Civil And Environmental Engineering (CIV ENG)218A[3units]
-Description: Quantitative overview of the characterization and control of air pollution problems. Summary of fundamental chemical and physical processes governing pollutant behavior. Analysis of key elements of the air pollution system: sources and control techniques, atmospheric transformation, atmospheric transport, modeling, and air quality management.

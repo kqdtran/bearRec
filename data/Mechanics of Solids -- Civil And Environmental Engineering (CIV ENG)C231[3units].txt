@@ -1,2 +1,0 @@
-Mechanics of Solids -- Civil And Environmental Engineering (CIV ENG)C231[3units]
-Description: Mechanical response of materials: Simple tension in elastic, plastic and viscoelastic members. Continuum mechanics: The stress and strain tensors, equilibrium, compatibility. Three-dimensional elastic, plastic and viscoelastic problems. Thermal, transformation, and dealloying stresses. Applications: Plane problems, stress concentrations at defects, metal forming problems. Also listed as Materials Science and Engineering C211.

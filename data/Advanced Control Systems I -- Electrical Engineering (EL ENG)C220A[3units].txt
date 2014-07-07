@@ -1,2 +1,0 @@
-Advanced Control Systems I -- Electrical Engineering (EL ENG)C220A[3units]
-Description: Input-output and state space representation of linear continuous and discrete time dynamic systems. Controllability, observability, and stability. Modeling and identification. Design and analysis of single and multi-variable feedback control systems in transform and time domain. State observer. Feedforward/preview control. Application to engineering systems. Also listed as Mechanical Engineering C232.

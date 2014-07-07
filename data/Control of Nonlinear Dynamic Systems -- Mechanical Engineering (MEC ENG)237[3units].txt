@@ -1,2 +1,0 @@
-Control of Nonlinear Dynamic Systems -- Mechanical Engineering (MEC ENG)237[3units]
-Description: Fundamental properties of nonlinear systems. Stability of nonlinear systems. Controller Design via Lyapunov methods. Equivalent Linearization methods including limit cycle prediction.

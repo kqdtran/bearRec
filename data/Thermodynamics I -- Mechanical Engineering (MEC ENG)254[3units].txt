@@ -1,2 +1,0 @@
-Thermodynamics I -- Mechanical Engineering (MEC ENG)254[3units]
-Description: Axiomatic formulation of macroscopic equilibrium thermodynamics. Quantum mechanical description of atomic and molecular structure. Statistical-mechanical evaluation of thermodynamic properties of gases, liquids, and solids. Elementary kinetic theory of gases and evaluation of transport properties.

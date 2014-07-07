@@ -1,2 +1,0 @@
-Algorithms for Computational Biology -- Computer Science (Engineering) (COMPSCI)176[4units]
-Description: Algorithms and probabilistic models that arise in various computational biology applications: suffix trees, suffix arrays, pattern matching, repeat finding, sequence alignment, phylogenetics, genome rearrangements, hidden Markov models, gene finding, motif finding, stochastic context free grammars, RNA secondary structure. There are no biology prerequisites for this course, but a strong quantitative background will be essential.

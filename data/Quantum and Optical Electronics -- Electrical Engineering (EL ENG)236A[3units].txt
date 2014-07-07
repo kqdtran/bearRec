@@ -1,2 +1,0 @@
-Quantum and Optical Electronics -- Electrical Engineering (EL ENG)236A[3units]
-Description: Interaction of radiation with atomic and semiconductor systems, density matrix treatment, semiclassical laser theory (Lamb's), laser resonators, specific laser systems, laser dynamics, Q-switching and mode-locking, noise in lasers and optical amplifiers. Nonlinear optics, phase-conjugation, electrooptics, acoustooptics and magnetooptics, coherent optics, stimulated Raman and Brillouin scattering.

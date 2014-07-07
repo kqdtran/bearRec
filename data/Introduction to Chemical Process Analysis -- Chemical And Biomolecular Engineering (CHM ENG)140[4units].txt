@@ -1,2 +1,0 @@
-Introduction to Chemical Process Analysis -- Chemical And Biomolecular Engineering (CHM ENG)140[4units]
-Description: Material and energy balances applied to chemical process systems. Determination of thermodynamic properties needed for such calculations. Sources of data. Calculation procedures.

@@ -1,2 +1,0 @@
-Plasmonic Materials -- Mechanical Engineering (MEC ENG)290T[3units]
-Description: This course deals with fundamental aspects of plasmonic materials. The electromagnetic responses of those artificially constructed materials will be discussed. Physics of surface plasmons and dispersion engineering will be introduced. Resonant phenomena associated with the negative permittivity and permeability and the left-handed propagation will be presented. Methods of design, fabrication, and characterization of plasmonic materials will be discussed.

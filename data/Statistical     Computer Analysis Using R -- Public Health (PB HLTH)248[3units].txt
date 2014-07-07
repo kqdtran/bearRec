@@ -1,2 +1,0 @@
-Statistical/Computer Analysis Using R -- Public Health (PB HLTH)248[3units]
-Description: The material presented will focus on learning the programming language R, which will be taught in the context of reviewing and introducing a number of statistical methods. Four topic areas will be presented focusing on implementation; these are descriptive methods, simulation techniques, linear models, and estimation. The goal of the course is to provide a package of statistical techniques along with new and advanced computer tools for implementation.

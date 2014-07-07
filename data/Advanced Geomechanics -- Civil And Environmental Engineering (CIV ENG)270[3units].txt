@@ -1,2 +1,0 @@
-Advanced Geomechanics -- Civil And Environmental Engineering (CIV ENG)270[3units]
-Description: Advanced treatment of topics in soil mechanics, including state of stress, consolidation and settlement analysis, shear strength of cohesionless and cohesive soils, and slope stability analysis.

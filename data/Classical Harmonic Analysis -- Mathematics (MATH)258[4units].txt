@@ -1,2 +1,0 @@
-Classical Harmonic Analysis -- Mathematics (MATH)258[4units]
-Description: Basic properties of Fourier series, convergence and summability, conjugate functions, Hardy spaces, boundary behavior of analytic and harmonic functions. Additional topics at the discretion of the instructor.

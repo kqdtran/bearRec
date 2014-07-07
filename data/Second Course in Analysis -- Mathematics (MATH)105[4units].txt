@@ -1,2 +1,0 @@
-Second Course in Analysis -- Mathematics (MATH)105[4units]
-Description: Differential calculus in Rn: the derivative as a linear map; the chain rule; inverse and implicit function theorems. Lebesgue integration on the line; comparison of Lebesgue and Riemann integrals. Convergence theorems. Fourier series, L2 theory. Fubini's theorem, change of variable.

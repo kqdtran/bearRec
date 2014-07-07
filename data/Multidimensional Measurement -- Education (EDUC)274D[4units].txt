@@ -1,2 +1,0 @@
-Multidimensional Measurement -- Education (EDUC)274D[4units]
-Description: Exploratory factor analysis, confirmatory factor analysis, and multidimensional item response theory.

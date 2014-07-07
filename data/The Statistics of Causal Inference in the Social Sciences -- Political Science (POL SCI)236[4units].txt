@@ -1,2 +1,0 @@
-The Statistics of Causal Inference in the Social Sciences -- Political Science (POL SCI)236[4units]
-Description: Approaches to causal inference using the potential outcomes framework. Covers observational studies with and without ignorable treatment assignment, randomized experiments with and without noncompliance, instrumental variables, regression discontinuity, sensitivity analysis, and random inference. Applications are drawn from a variety of fields including political science, economics, sociology, public health, and medicine.

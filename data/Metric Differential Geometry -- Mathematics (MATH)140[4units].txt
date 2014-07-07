@@ -1,2 +1,0 @@
-Metric Differential Geometry -- Mathematics (MATH)140[4units]
-Description: Frenet formulas, isoperimetric inequality, local theory of surfaces in Euclidean space, first and second fundamental forms. Gaussian and mean curvature, isometries, geodesics, parallelism, the Gauss-Bonnet-Von Dyck Theorem.

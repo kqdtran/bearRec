@@ -1,2 +1,0 @@
-Continuous Time Asset Pricing -- Ph.D. In Business Administration (PHDBA)239B[3units]
-Description: This course covers topics in dynamic asset pricing, portfolio choice and general equilibrium theory in a continuous time setting. The first part of the course covers basic mathematical and statistical results. Finance results that have been developed in continuous times include the intertemporal CAPM, corporate securities and default risk, the term structure of interest rates. In addition, results are developed on non-time additive utility.

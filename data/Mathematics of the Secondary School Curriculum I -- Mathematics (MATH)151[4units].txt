@@ -1,2 +1,0 @@
-Mathematics of the Secondary School Curriculum I -- Mathematics (MATH)151[4units]
-Description: Theory of rational numbers based on the number line, the Euclidean algorithm and fractions in lowest terms. The concepts of congruence and similarity, equation of a line, functions, and quadratic functions.

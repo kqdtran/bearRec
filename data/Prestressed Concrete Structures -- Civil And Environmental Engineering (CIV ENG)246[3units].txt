@@ -1,2 +1,0 @@
-Prestressed Concrete Structures -- Civil And Environmental Engineering (CIV ENG)246[3units]
-Description: Behavior and design of statically determinate prestressed concrete structures under bending moment, shear, torsion and axial load effects. Design of continous prestressed concrete beams, frames, slabs, and shells. Time-dependent effects and deflections of prestressed concrete structures. Applications to the design and construction of bridges and buildings.

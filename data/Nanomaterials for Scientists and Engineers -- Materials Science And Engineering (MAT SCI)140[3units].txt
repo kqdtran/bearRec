@@ -1,2 +1,0 @@
-Nanomaterials for Scientists and Engineers -- Materials Science And Engineering (MAT SCI)140[3units]
-Description: This course introduces the fundamental principles needed to understand the behavior of materials at the nanometer length scale and the different classes of nanomaterials with applications ranging from information technology to biotechnology. Topics include introduction to different classes of nanomaterials, synthesis and characterization of nanomaterials, and the electronic, magnetic, optical, and mechanical properties of nanomaterials.

@@ -1,2 +1,0 @@
-Solid State Devices -- Electrical Engineering (EL ENG)230B[4units]
-Description: Physical principles and operational characteristics of semiconductor devices. Emphasis is on MOS field-effect transistors and their behaviors dictated by present and probable future technologies. Metal-oxide-semiconductor systems, short-channel and high field effects, device modeling, and impact on analog, digital circuits.

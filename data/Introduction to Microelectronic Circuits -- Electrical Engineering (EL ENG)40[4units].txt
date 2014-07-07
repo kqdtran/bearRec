@@ -1,2 +1,0 @@
-Introduction to Microelectronic Circuits -- Electrical Engineering (EL ENG)40[4units]
-Description: Fundamental circuit concepts and analysis techniques in the context of digital electronic circuits. Transient analysis of CMOS logic gates; basic integrated-circuit technology and layout.

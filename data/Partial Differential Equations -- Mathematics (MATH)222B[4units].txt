@@ -1,2 +1,0 @@
-Partial Differential Equations -- Mathematics (MATH)222B[4units]
-Description: The theory of boundary value and initial value problems for partial differential equations, with emphasis on nonlinear equations. Second-order elliptic equations, parabolic and hyperbolic equations, calculus of variations methods, additional topics selected by instructor.

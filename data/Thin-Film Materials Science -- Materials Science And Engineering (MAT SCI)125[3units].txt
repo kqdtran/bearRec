@@ -1,2 +1,0 @@
-Thin-Film Materials Science -- Materials Science And Engineering (MAT SCI)125[3units]
-Description: Deposition, processing, and characterization of thin films and their technological applications. Physical and chemical vapor deposition methods. Thin-film nucleation and growth. Thermal and ion processing. Microstructural development in epitaxial, polycrystalline, and amorphous films. Thin-film characterization techniques. Applications in information storage, integrated circuits, and optoelectronic devices. Laboratory demonstrations.

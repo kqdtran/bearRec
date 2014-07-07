@@ -1,2 +1,0 @@
-Introduction to Electric Power Systems -- Electrical Engineering (EL ENG)137B[4units]
-Description: Overview of recent and potential future evolution of electric power systems with focus on new and emerging technologies for power conversion and delivery, primarily at the distribution level. Topics include power electronics applications, solar and wind generation, distribution system design and operation, electric energy storage, information management and communications, demand response, and microgrids.

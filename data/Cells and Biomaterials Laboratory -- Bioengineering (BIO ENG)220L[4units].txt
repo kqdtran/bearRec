@@ -1,2 +1,0 @@
-Cells and Biomaterials Laboratory -- Bioengineering (BIO ENG)220L[4units]
-Description: The objective of this course is to teach graduate students the essential laboratory techniques in the design and characterization and analysis of cells and biomaterials. The course will cover basics on synthetic biomaterials and native matrix, cellular responses to biomaterials, three-dimensional culture, and tissue engineering. The course includes a lecture and a laboratory section each week. There will be a midterm exam, final exam, and a tissue engineering group project.

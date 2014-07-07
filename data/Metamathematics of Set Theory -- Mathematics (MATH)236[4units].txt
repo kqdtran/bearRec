@@ -1,2 +1,0 @@
-Metamathematics of Set Theory -- Mathematics (MATH)236[4units]
-Description: Various set theories: comparison of strength, transitive, and natural models, finite axiomatizability. Independence and consistency of axiom of choice, continuum hypothesis, etc. The measure problem and axioms of strong infinity.

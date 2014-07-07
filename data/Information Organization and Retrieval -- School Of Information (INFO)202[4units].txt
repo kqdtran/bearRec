@@ -1,2 +1,0 @@
-Information Organization and Retrieval -- School Of Information (INFO)202[4units]
-Description: Organization, representation, and access to information. Categorization, indexing, and content analysis. Data structures. Design and maintenance of databases, indexes, classification schemes, and thesauri. Use of codes, formats, and standards. Analysis and evaluation of search and navigation techniques.

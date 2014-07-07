@@ -1,2 +1,0 @@
-Optics and Dioptrics of the Eye -- Vision Science (VIS SCI)212A[2units]
-Description: Introduction for graduate students to basic principles of classic and modern geometric optics (thick lens systems, mirrors, prisms, apertures, and stops) and physical optics (interference, diffraction, and polarization) with emphasis on dioptrics of the human eye (including schematic eyes, aberrations, and entoptic phenomena).

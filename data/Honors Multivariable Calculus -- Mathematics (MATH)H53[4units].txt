@@ -1,2 +1,0 @@
-Honors Multivariable Calculus -- Mathematics (MATH)H53[4units]
-Description: Honors version of 53. Parametric equations and polar coordinates. Vectors in 2- and 3-dimensional Euclidean spaces. Partial derivatives. Multiple integrals. Vector calculus. Theorems of Green, Gauss, and Stokes.

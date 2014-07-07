@@ -1,2 +1,0 @@
-Theory of Sets -- Mathematics (MATH)235A[4units]
-Description: Axiomatic foundations. Operations on sets and relations. Images and set functions. Ordering, well-ordering, and well-founded relations; general principles of induction and recursion. Ranks of sets, ordinals and their arithmetic. Set-theoretical equivalence, similarity of relations; definitions by abstraction. Arithmetic of cardinals. Axiom of choice, equivalent forms, and consequences. Sequence begins fall.

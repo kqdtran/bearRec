@@ -1,2 +1,0 @@
-Methods for Research in Psychological Sciences -- Psychology (PSYCH)102[3units]
-Description: Lecture and computer lab course on advanced data analysis techniques used by researchers in psychology. The course will cover programming techniques in R and data analysis methods that include modeling, multivariate statistics, and data reduction and visualization techniques. The following topics will be covered: generalized linear model (includes logistic regression), discriminant analysis (includes multivariate ANOVA), principal component analysis, and factor analysis.

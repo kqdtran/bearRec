@@ -1,2 +1,0 @@
-Reinforced Concrete Structures -- Civil And Environmental Engineering (CIV ENG)244[3units]
-Description: Analysis and design of reinforced concrete elements and systems that are common in building and bridge structures, with an emphasis on seismic response and design; structural design methods; reinforced concrete materials; confined concrete; line elements under axial, flexural, and shear loadings; bond, anchorage, and development; seismic design principles; earthquake-resistant building frames, walls, diaphragms, and foundations; earthquake-resistant bridges.

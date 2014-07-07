@@ -1,2 +1,0 @@
-Theory of Functions of a Complex Variable -- Mathematics (MATH)205[4units]
-Description: Normal families. Riemann Mapping Theorem. Picard's theorem and related theorems. Multiple-valued analytic functions and Riemann surfaces. Further topics selected by the instructor may include: harmonic functions, elliptic and algebraic functions, boundary behavior of analytic functions and HP spaces, the Riemann zeta functions, prime number theorem.

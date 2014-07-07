@@ -1,2 +1,0 @@
-Radiation Processes in Astronomy -- Physics (PHYSICS)C207[4units]
-Description: An introduction to the basic physics of astronomy and astrophysics at the graduate level. Principles of energy transfer by radiation. Elements of classical and quantum theory of photon emission; bremsstrahlung, cyclotron and synchrotron radiation. Compton scattering, atomic, molecular and nuclear electromagnetic transitions. Collisional excitation of atoms, molecules and nuclei. Also listed as Astronomy C207.

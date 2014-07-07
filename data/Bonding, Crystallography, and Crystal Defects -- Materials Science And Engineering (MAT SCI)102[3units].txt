@@ -1,2 +1,0 @@
-Bonding, Crystallography, and Crystal Defects -- Materials Science And Engineering (MAT SCI)102[3units]
-Description: Bonding in solids; classification of metals, semiconductors, and insulators; crystal systems; point, line, and planar defects in crystals; examples of crystallographic and defect analysis in engineering materials; relationship to physical and mechanical properties.

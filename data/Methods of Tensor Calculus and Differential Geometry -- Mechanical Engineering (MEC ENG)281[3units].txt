@@ -1,2 +1,0 @@
-Methods of Tensor Calculus and Differential Geometry -- Mechanical Engineering (MEC ENG)281[3units]
-Description: Methods of tensor calculus and classical differential geometry. The tensor concept and the calculus of tensors, the Riemann-Christoffel tensor and its properties, Riemannian and Euclidean spaces. Geometry of a surface, formulas of Weingarten, and equations of Gauss and Codazzi.

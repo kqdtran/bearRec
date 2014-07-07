@@ -1,2 +1,0 @@
-High Mix/Low Volume Manufacturing -- Mechanical Engineering (MEC ENG)101[3units]
-Description: Fundamentals of high mix/low volume (HMLV) manufacturing systems including manufacturing fundamentals, unit operations and manufacturing line considerations for work in process (WIP), manufacturing lead time (MLT), economics, quality monitoring; HMLV systems fundamentals including just in time (JIT), kanban, buffers and line balancing; class project/case studies for design of competitive manufacturing systems.

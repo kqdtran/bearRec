@@ -1,2 +1,0 @@
-Design of Basic Electro-Mechanical Devices -- Mechanical Engineering (MEC ENG)229[3units]
-Description: Fundamental principles of magnetics, electro-magnetics, and magnetic materials as applied to design and operation of electro-mechanical devices. Type of device to be used in a particular application and dimensions of parts for the overall design will be discussed. Typical applications covered will be linear and rotary actuators, stepper motors, AC motors, and DC brush and brushless motors. A design project is required.

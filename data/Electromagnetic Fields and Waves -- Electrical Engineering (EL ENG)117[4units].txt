@@ -1,2 +1,0 @@
-Electromagnetic Fields and Waves -- Electrical Engineering (EL ENG)117[4units]
-Description: Review of static electric and magnetic fields and applications; Maxwell's equations; transmission lines; propagation and reflection of plane waves; introduction to guided waves, microwave networks, and radiation and antennas. Minilabs on statics, transmission lines, and waves.

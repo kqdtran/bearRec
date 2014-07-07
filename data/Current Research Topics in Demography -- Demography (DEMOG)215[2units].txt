@@ -1,2 +1,0 @@
-Current Research Topics in Demography -- Demography (DEMOG)215[2units]
-Description: The goals of this course are 1) to familiarize graduate students with active research projects in Demography and 2) to improve skills in R and Stata. Topics covered include demographic micro-simulation with SOCSIM, the Human Mortality Database, stochastic simulation/forecasting, GIS for Demographers, and mortality forecasting. Two-thirds of class time will be spent in the computer laboratory. Students will present results.

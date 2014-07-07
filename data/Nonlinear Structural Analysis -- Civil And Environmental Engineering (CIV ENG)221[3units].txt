@@ -1,2 +1,0 @@
-Nonlinear Structural Analysis -- Civil And Environmental Engineering (CIV ENG)221[3units]
-Description: Theory, modeling, and computation for analysis of structures with material and geometric nonlinearities. Sources of nonlinearity. Solution strategies for static and dynamic loads. Modeling of inelastic materials and members. P-delta and large deformation theory. Analysis of stability. Practical applications.

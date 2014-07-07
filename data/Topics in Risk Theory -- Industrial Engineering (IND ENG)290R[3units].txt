@@ -1,2 +1,0 @@
-Topics in Risk Theory -- Industrial Engineering (IND ENG)290R[3units]
-Description: Seminar on selected topics from financial and technological risk theory, such as risk modeling, attitudes towards risk and utility theory, portfolio management, gambling and speculation, insurance and other risk-sharing arrangements, stochastic models of risk generation and run off, risk reserves, Bayesian forecasting and credibility approximations, influence diagrams, decision trees. Topics will vary from year to year.

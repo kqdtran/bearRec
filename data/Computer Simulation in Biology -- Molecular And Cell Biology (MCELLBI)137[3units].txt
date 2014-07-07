@@ -1,2 +1,0 @@
-Computer Simulation in Biology -- Molecular And Cell Biology (MCELLBI)137[3units]
-Description: Modeling and computer simulation of dynamic biological processes using special graphical interfaces requiring very little mathematical or computer experience. Models are drawn from the current literature to teach concepts and technique. The later part of the course is a workshop for student-selected individual projects. Computer work may be done at home or in the university laboratory.

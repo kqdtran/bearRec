@@ -1,2 +1,0 @@
-Audio Signal Processing in Humans and Machines -- Electrical Engineering (EL ENG)225D[3units]
-Description: Introduction to relevant signal processing and basics of pattern recognition. Introduction to coding, synthesis, and recognition. Models of speech and music production and perception. Signal processing for speech analysis. Pitch perception and auditory spectral analysis with applications to speech and music. Vocoders and music synthesizers. Statistical speech recognition, including introduction to Hidden Markov Model and Neural Network approaches.

@@ -1,2 +1,0 @@
-Information Visualization and Presentation -- School Of Information (INFO)247[3units]
-Description: The design and presentation of digital information. Use of graphics, animation, sound, visualization software, and hypermedia in presenting information to the user. Methods of presenting complex information to enhance comprehension and analysis. Incorporation of visualization techniques into human-computer interfaces.

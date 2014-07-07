@@ -1,2 +1,0 @@
-Group Theory -- Mathematics (MATH)257[4units]
-Description: Topics such as: generators and relations, infinite discrete groups, groups of Lie type, permutation groups, character theory, solvable groups, simple groups, transfer and cohomological methods.

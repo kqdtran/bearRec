@@ -1,2 +1,0 @@
-Applied Dynamic Programming -- Industrial Engineering (IND ENG)268[3units]
-Description: Dynamic programming formulation of deterministic decision process problems, analytical and computational methods of solution, application to problems of equipment replacement, resource allocation, scheduling, search and routing. Brief introduction to decision making under risk and uncertainty.

@@ -1,2 +1,0 @@
-Methods of Applied Mathematics -- Engineering (ENGIN)230[3units]
-Description: Topics include complex variable methods, contour integration, solution of Laplace's equation via analytic function theory; asymptotic methods for evaluating integrals and solving differential equations; introduction to calculus of variations with applications; introductory integral equations. The course is intended to expose students in engineering and physical sciences to a range of methods for solving equations associated with mathematical models of physical processes.

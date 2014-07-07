@@ -1,2 +1,0 @@
-Methods of Risk Analysis -- Nuclear Engineering (NUC ENG)175[3units]
-Description: Methodological approaches for the quantification of technological risk and risk based decision making. Probabilistic safety assessment, human health risks, environmental and ecological risk analysis.

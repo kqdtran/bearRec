@@ -1,2 +1,0 @@
-Fluid Mechanics of Rivers, Streams, and Wetlands -- Civil And Environmental Engineering (CIV ENG)101[3units]
-Description: Analysis of steady and unsteady open-channel flow and application to rivers and streams. Examination of mixing and transport in rivers and streams. Effects of channel complexity. Floodplain dynamics and flow routing. Interaction of vegetation and fluid flows. Freshwater and tidal marshes. Sediment transport in rivers, streams, and wetlands. Implications for freshwater ecosystem function.

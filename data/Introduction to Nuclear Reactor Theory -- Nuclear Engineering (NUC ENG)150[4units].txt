@@ -1,2 +1,0 @@
-Introduction to Nuclear Reactor Theory -- Nuclear Engineering (NUC ENG)150[4units]
-Description: Neutron interactions, nuclear fission, and chain reacting systematics in thermal and fast nuclear reactors. Diffusion and slowing down of neutrons. Criticality calculations. Nuclear reactor dynamics and reactivity feedback. Production of radionuclides in nuclear reactors.

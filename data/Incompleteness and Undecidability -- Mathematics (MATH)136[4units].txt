@@ -1,2 +1,0 @@
-Incompleteness and Undecidability -- Mathematics (MATH)136[4units]
-Description: Functions computable by algorithm, Turing machines, Church's thesis. Unsolvability of the halting problem, Rice's theorem. Recursively enumerable sets, creative sets, many-one reductions. Self-referential programs. Godel's incompleteness theorems, undecidability of validity, decidable and undecidable theories.

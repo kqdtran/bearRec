@@ -1,2 +1,0 @@
-Operation of Transportation Facilities -- Civil And Environmental Engineering (CIV ENG)251[3units]
-Description: The management of vehicle flows and fleets. Traffic stream properties and their measurement. Theories of traffic flow. Capacity analysis and queueing. Flow control and fleet scheduling.

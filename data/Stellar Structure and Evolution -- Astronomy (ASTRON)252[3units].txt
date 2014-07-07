@@ -1,2 +1,0 @@
-Stellar Structure and Evolution -- Astronomy (ASTRON)252[3units]
-Description: Equations of stellar structure, radiative transfer and convection, thermonuclear reactions and stellar energy generations; stellar models, degenerate configurations, evolutionary sequences, supernovae, neutron stars, black holes, nucleosynthesis.

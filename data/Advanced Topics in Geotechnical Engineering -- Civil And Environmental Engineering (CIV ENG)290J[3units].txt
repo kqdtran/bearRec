@@ -1,2 +1,0 @@
-Advanced Topics in Geotechnical Engineering -- Civil And Environmental Engineering (CIV ENG)290J[3units]
-Description: Advanced treatment of developing areas of geomechanics and geotechnical earthquake engineering, including the development of generalized nonlinear soil constitutive models, new developments in soil dynamics and geotechnical earthquake engineering, soil improvement, geosynthetics and earth structures, and case studies of geotechnical problems.

@@ -1,2 +1,0 @@
-Wave Propagation in Elastic Media -- Mechanical Engineering (MEC ENG)283[3units]
-Description: Propagation of mechanical disturbances in unbounded and bounded media. Surface waves, wave reflection and transmission at interfaces and boundaries. Stress waves due to periodic and transient sources. Some additional topics may vary with instructor.

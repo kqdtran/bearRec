@@ -1,2 +1,0 @@
-Genomics and Computational Biology -- Plant And Microbial Biology (PLANTBI)200B[1.5units]
-Description: Principles of computational and genomic biology. Covers evolutionary, algorithmic, and statistical foundations of sequence analysis, allowing students to understand concepts underlying modern computational methods. Practical applications wil be pursued in student-coordinated sessions. Combined lecture with 220B.

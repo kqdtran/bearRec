@@ -1,2 +1,0 @@
-Motor Control with Laboratory -- Integrative Biology (INTEGBI)127L[3units]
-Description: Neural control of movement in humans and other animals. Lectures introduce basic theories of information and control, analyze motor control at the spinal level, survey anatomy and physiology of motor systems of the brain, and synthesize theory and physiology to understand control systems that regulate posture, locomotion, and voluntary movements. In laboratories, students learn theory and motor physiology hands-on, and design and perform independent investigations.

@@ -1,2 +1,0 @@
-Calculus -- Mathematics (MATH)1A[4units]
-Description: This sequence is intended for majors in engineering and the physical sciences. An introduction to differential and integral calculus of functions of one variable, with applications and an introduction to transcendental functions.

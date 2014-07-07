@@ -1,2 +1,0 @@
-Operations Research II -- Industrial Engineering (IND ENG)161[3units]
-Description: Probability review. Conditional expectation. The exponential distribution and poisson process. Markovian Queueing Systems. Component reliability systems. Applications to replacement, repair, transportation and inventory models.

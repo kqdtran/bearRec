@@ -1,2 +1,0 @@
-Introduction to Electric Power Systems -- Electrical Engineering (EL ENG)137A[4units]
-Description: Overview of conventional electric power conversion and delivery, emphasizing a systemic understanding of the electric grid with primary focus at the transmission level, aimed toward recognizing needs and opportunities for technological innovation. Topics include aspects of a.c. system design, electric generators, components of transmission and distribution systems, power flow analysis, system planning and operation, performance measures, and limitations of legacy technologies.

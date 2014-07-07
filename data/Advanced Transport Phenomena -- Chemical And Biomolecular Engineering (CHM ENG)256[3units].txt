@@ -1,2 +1,0 @@
-Advanced Transport Phenomena -- Chemical And Biomolecular Engineering (CHM ENG)256[3units]
-Description: Formulation and rigorous analysis of the laws governing the transport of momentum, heat, and mass, with special emphasis on chemical engineering applications. Detailed investigation of laminar flows complemented by treatments of turbulent flow systems and hydrodynamic stability.

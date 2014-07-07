@@ -1,2 +1,0 @@
-Analysis and Design of Databases -- Industrial Engineering (IND ENG)215[3units]
-Description: Advanced topics in information management, focusing on design of relational databases, querying, and normalization. New issues raised by the World Wide Web. Research projects on current topics in information technology.

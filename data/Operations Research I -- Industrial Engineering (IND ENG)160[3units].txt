@@ -1,2 +1,0 @@
-Operations Research I -- Industrial Engineering (IND ENG)160[3units]
-Description: Deterministic methods and models in operations research. Unconstrained and constrained optimization. Equality, inequality, and integer constraints. Sequential decisions; dynamic programming. Resource allocation, equipment replacement, inventory control, production planning.

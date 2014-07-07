@@ -1,2 +1,0 @@
-Phase Transformations and Kinetics -- Materials Science And Engineering (MAT SCI)103[3units]
-Description: The nature, mechanisms, and kinetics of phase transformations and microstructural changes in the solid state. Atom diffusion in solids. Phase transformations through the nucleation and growth of new matrix or precipitate phases. Martensitic transformations, spinodal decomposition. The use of phase transformations to control microstructure.

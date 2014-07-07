@@ -1,2 +1,0 @@
-Introduction to Logic -- Philosophy (PHILOS)12A[4units]
-Description: Syntax, semantics, and proof theory of sentential and predicate logic.

@@ -1,2 +1,0 @@
-C*-algebras -- Mathematics (MATH)208[4units]
-Description: Basic theory of C*-algebras. Positivity, spectrum, GNS construction. Group C*-algebras and connection with group representations. Additional topics, for example, C*-dynamical systems, K-theory.

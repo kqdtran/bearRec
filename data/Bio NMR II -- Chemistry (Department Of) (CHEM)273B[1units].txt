@@ -1,2 +1,0 @@
-Bio NMR II -- Chemistry (Department Of) (CHEM)273B[1units]
-Description: Triple resonance methods for determination of protein and nucleic acid resonance assignments, and for generation of structural restraints (distances, angles, H-bonds, etc.). Methods for calculating biomolecular structures from NMR data and the quality of such structures will be discussed.

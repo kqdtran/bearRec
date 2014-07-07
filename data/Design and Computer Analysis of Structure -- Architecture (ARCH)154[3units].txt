@@ -1,2 +1,0 @@
-Design and Computer Analysis of Structure -- Architecture (ARCH)154[3units]
-Description: Design and analysis of whole structural building systems with the aid of finite element analytical methods. Advanced structural concepts explored in a laboratory environment.

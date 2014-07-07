@@ -1,2 +1,0 @@
-Advanced Topics in the Theory of Queues -- Industrial Engineering (IND ENG)290Q[3units]
-Description: Recent research in topics such as queueing networks, bounds and comparison methods, heavy and light traffic approximations, priorities, and models with special structure such as communication networks. Topics vary with each offering.

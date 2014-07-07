@@ -1,2 +1,0 @@
-Queueing Theory -- Industrial Engineering (IND ENG)267[3units]
-Description: The result "L = (lambda) w" and other conservation laws. Elementary queueing models; comparing single- and multiple-server queues. PASTA. Work. Markovian queues; product form results. Overflow models. Embedded Markov chains. Random walks and the GI/G/l queues. Work conservation; priorities. Bounds and approximations.

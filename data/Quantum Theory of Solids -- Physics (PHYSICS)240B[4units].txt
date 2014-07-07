@@ -1,2 +1,0 @@
-Quantum Theory of Solids -- Physics (PHYSICS)240B[4units]
-Description: Excitations and interactions in solids; crystal structures, symmetries, Bloch's theorem; energy bands; electron dynamics; impurity states; lattice dynamics, phonons; many-electron interactions; density functional theory; dielectric functions, conductivity and optical properties; excitons; electron-phonon interactions, polarons; Fermi surfaces; magnetoresistance; quantum Hall effect; transport processes, Boltzmann equation; superconductivity, BCS theory; many-body perturbation theory, Green's functions.

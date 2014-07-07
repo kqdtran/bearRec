@@ -1,2 +1,0 @@
-Introduction to Number Theory -- Mathematics (MATH)115[4units]
-Description: Divisibility, congruences, numerical functions, theory of primes. Topics selected: Diophantine analysis, continued fractions, partitions, quadratic fields, asymptotic distributions, additive problems.

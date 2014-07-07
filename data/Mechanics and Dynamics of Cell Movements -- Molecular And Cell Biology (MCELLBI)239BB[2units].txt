@@ -1,2 +1,0 @@
-Mechanics and Dynamics of Cell Movements -- Molecular And Cell Biology (MCELLBI)239BB[2units]
-Description: Research in our laboratory is focused on the mechanics and dynamics of cell movements on the purified protein, single cell, and tissue levels. For these studies, we are developing new instruments to quantify cell and molecular mechanics bases on optical microscopy, force microscopy, and microfabrication.

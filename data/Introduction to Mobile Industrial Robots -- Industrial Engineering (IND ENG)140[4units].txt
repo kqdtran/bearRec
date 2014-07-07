@@ -1,2 +1,0 @@
-Introduction to Mobile Industrial Robots -- Industrial Engineering (IND ENG)140[4units]
-Description: Introductory course in the hardware and software design of autonomous vehicles. Basic concepts of sensors, actuators, navigation, exploration, feedback control, and communications. Object-oriented software design principles. Programming for real-time control using Java. Laboratory project teams will design, build, program, and test small prototype vehicles for material handling systems and other applications.

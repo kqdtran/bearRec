@@ -1,2 +1,0 @@
-High Speed Communications Networks -- Electrical Engineering (EL ENG)228A[3units]
-Description: Descriptions, models, and approaches to the design and management of networks. Optical transmission and switching technologies are described and analyzed using deterministic, stochastic, and simulation models. FDDI, DQDB, SMDS, Frame Relay, ATM, networks, and SONET. Applications demanding high-speed communication.

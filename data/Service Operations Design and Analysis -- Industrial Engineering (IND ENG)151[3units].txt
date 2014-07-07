@@ -1,2 +1,0 @@
-Service Operations Design and Analysis -- Industrial Engineering (IND ENG)151[3units]
-Description: This course is concerned with improving processes and designing facilities for service businesses such as banks, health care organizations, telephone call centers, restaurants, and transportation providers. Major topics in the course include design of service processes, layout and location of service facilities, demand forecasting, demand management, employee scheduling, service quality management, and capacity planning.

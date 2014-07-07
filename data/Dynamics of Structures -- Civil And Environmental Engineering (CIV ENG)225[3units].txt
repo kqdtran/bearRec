@@ -1,2 +1,0 @@
-Dynamics of Structures -- Civil And Environmental Engineering (CIV ENG)225[3units]
-Description: Evaluation of deformations and forces in structures, idealized as single-degree of freedom or discrete-parameter multi-degree of freedom systems, due to dynamic forces. Evaluation of earthquake-induced deformations and forces in structures by linear response history analysis; estimation of maximum response by response spectrum analysis; effects of inelastic behavior. Laboratory demonstrations.

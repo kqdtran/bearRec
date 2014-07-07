@@ -1,2 +1,0 @@
-Integrated Circuits for Communications -- Electrical Engineering (EL ENG)142[4units]
-Description: Analysis and design of electronic circuits for communication systems, with an emphasis on integrated circuits for wireless communication systems. Analysis of noise and distortion in amplifiers with application to radio receiver design. Power amplifier design with application to wireless radio transmitters. Radio-frequency mixers, oscillators, phase-locked loops, modulators, and demodulators.

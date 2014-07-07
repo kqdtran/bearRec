@@ -1,2 +1,0 @@
-Water and Air Quality Laboratory -- Civil And Environmental Engineering (CIV ENG)111L[1units]
-Description: This laboratory course is designed to accompany the lecture topics in Civil Engineering 111. Each laboratory activity will provide an opportunity to understand key concepts in water and air quality through hands-on experimentation. Laboratory topics include phase partitioning, acid/base reactions, redox reactions, biochemical oxygen demand, absorption, gas transfer, reactor hydraulics, particle destablization, disinfection, and combustion emissions.

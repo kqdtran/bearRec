@@ -1,2 +1,0 @@
-Econometrics -- Economics (ECON)241B[4units]
-Description: Simultaneous equations and time-series models.

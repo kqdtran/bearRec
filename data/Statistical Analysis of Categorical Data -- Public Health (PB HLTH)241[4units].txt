@@ -1,2 +1,0 @@
-Statistical Analysis of Categorical Data -- Public Health (PB HLTH)241[4units]
-Description: Biostatistical concepts and modeling relevant to the design and analysis of multifactor population-based cohort and case-control studies, including matching. Measures of association, causal inference, confounding interaction. Introduction to binary regression, including logistic regression.

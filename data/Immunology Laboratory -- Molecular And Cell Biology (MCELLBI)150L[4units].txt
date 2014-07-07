@@ -1,2 +1,0 @@
-Immunology Laboratory -- Molecular And Cell Biology (MCELLBI)150L[4units]
-Description: Experimental techniques in mammalian molecular biology and cellular immunology. Molecular techniques covered include PCR and recombinant DNA procedures such as gene cloning, gene transfer, DNA sequencing, Southern blot, and restriction mapping. Immunological techniques covered include cell culture and monoclonal antibody production, flow cytometry, ELISA, immunoprecipitation, and western blot.

@@ -1,2 +1,0 @@
-Concepts of Probability -- Statistics (STAT)134[3units]
-Description: An introduction to probability, emphasizing concepts and applications. Conditional expectation, independence, laws of large numbers. Discrete and continuous random variables. Central limit theorem. Selected topics such as the Poisson process, Markov chains, characteristic functions.

@@ -1,2 +1,0 @@
-Introduction to Artificial Intelligence -- Computer Science (Engineering) (COMPSCI)188[4units]
-Description: Basic ideas and techniques underlying the design of intelligent computer systems. Topics include heuristic search, problem solving, game playing, knowledge representation, logical inference, planning, reasoning under uncertainty, expert systems, learning, perception, language understanding.

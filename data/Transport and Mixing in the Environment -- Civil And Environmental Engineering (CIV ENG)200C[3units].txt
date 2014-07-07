@@ -1,2 +1,0 @@
-Transport and Mixing in the Environment -- Civil And Environmental Engineering (CIV ENG)200C[3units]
-Description: Application of fluid mechanics to transport and mixing in the environment. Fundamentals of turbulence, turbulent diffusion, and shear dispersion in steady and oscillatory flows and the effects of stratification. Application to rivers, wetlands, lakes, estuaries, the coastal ocean, and the lower atmosphere.

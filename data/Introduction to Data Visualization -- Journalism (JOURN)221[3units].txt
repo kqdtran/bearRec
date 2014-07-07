@@ -1,2 +1,0 @@
-Introduction to Data Visualization -- Journalism (JOURN)221[3units]
-Description: This weekly three-hour course will explore the skills needed to find, clean, analyze and visualize data. The class consists of two hours of instruction and one hour of supervised lab time working on directed projects. Students will create a final project suitable for publication. The focus will be on free and open source tools that can immediately be applied to other projects and professional work.

@@ -1,2 +1,0 @@
-Advanced Fluid Mechanics II -- Mechanical Engineering (MEC ENG)260B[3units]
-Description: Develops a working knowledge of fluid mechanics by identifying the essential physical mechanism in complex canonical flow problems which leads to simplified yet accurate formulation. Boundary layers, creeping flows, rotational flows, rotating flows. Stability and transition, introduction to turbulence.

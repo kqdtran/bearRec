@@ -1,2 +1,0 @@
-Introduction to Probabilistic Methods in Mathematics and the Sciences -- Mathematics (MATH)220[4units]
-Description: Brownian motion, Langevin and Fokker-Planck equations, path integrals and Feynman diagrams, time series, an introduction to statistical mechanics, Monte Carlo methods, selected applications.

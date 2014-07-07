@@ -1,2 +1,0 @@
-Biometrical Data Analysis--Model Free Curve Estimation -- Public Health (PB HLTH)242B[4units]
-Description: Generalized histograms and Gram-Charlier expansions; series inclusion and stopping rules, multiplier and weighting techniques, nonparametric regression, variance reduction, smoothing, and equiprobability contour estimation methods and other graphical methods.

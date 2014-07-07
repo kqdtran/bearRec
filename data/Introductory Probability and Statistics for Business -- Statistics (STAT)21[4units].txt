@@ -1,2 +1,0 @@
-Introductory Probability and Statistics for Business -- Statistics (STAT)21[4units]
-Description: Descriptive statistics, probability models and related concepts, sample surveys, estimates, confidence intervals, tests of significance, controlled experiments vs. observational studies, correlation and regression.

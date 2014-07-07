@@ -1,2 +1,0 @@
-Semiconductor Materials -- Materials Science And Engineering (MAT SCI)223[3units]
-Description: Semiconductor purification and crystal growth techniques. Doping, radiation damage, and annealing. Metal-semiconductor interfaces and reactions. Interaction between defects and impurities during processing of devices. Major electronic and optical methods for the analysis of semiconductors.

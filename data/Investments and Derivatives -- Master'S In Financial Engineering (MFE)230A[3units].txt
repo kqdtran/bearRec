@@ -1,2 +1,0 @@
-Investments and Derivatives -- Master'S In Financial Engineering (MFE)230A[3units]
-Description: The course discusses the basic theories of asset pricing. It begins with the standard discounted cash flow analysis, and generalizes this approach to develop the No Arbitrage Pricing Technique for security valuation. Topics will be fixed income securities, derivatives, contingent claims, basic principles of optimal portfolio theory, models of equilibrium asset pricing, including CAPM and related Factor Models.

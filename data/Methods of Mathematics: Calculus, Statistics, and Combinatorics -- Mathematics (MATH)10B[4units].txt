@@ -1,2 +1,0 @@
-Methods of Mathematics: Calculus, Statistics, and Combinatorics -- Mathematics (MATH)10B[4units]
-Description: Elementary combinatorics and discrete probability theory. Introduction to graphs, matrix algebra, linear equations, difference equations, and differential equations.

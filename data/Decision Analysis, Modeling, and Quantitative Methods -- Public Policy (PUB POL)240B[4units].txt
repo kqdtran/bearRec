@@ -1,2 +1,0 @@
-Decision Analysis, Modeling, and Quantitative Methods -- Public Policy (PUB POL)240B[4units]
-Description: An integrated course on the use of quantitative techniques in public policy analysis: computer modeling and simulation, linear programming and optimization, decision theory, and statistical and econometric analysis of policy-relevant data. The student develops a facility in distilling the policy relevance of numbers through an analysis of case studies and statistical data sets.

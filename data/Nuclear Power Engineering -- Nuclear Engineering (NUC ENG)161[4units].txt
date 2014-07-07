@@ -1,2 +1,0 @@
-Nuclear Power Engineering -- Nuclear Engineering (NUC ENG)161[4units]
-Description: Energy conversion in nuclear power systems; design of fission reactors; thermal and structural analysis of reactor core and plant components; thermal-hydraulic analysis of accidents in nuclear power plants; safety evaluation and engineered safety systems.

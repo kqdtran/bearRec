@@ -1,2 +1,0 @@
-Polymer Engineering -- Bioengineering (BIO ENG)C223[3units]
-Description: A survey of the structure and mechanical properties of advanced engineering polymers. Topics include rubber elasticity, viscoelasticity, mechanical properties, yielding, deformation, and fracture mechanisms of various classes of polymers. The course will discuss degradation schemes of polymers and long-term performance issues. The class will include polymer applications in bioengineering and medicine. Also listed as Mechanical Engineering C223.

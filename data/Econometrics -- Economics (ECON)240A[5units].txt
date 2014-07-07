@@ -1,2 +1,0 @@
-Econometrics -- Economics (ECON)240A[5units]
-Description: Basic preparation for the Ph.D. program including probability and statistical theory and the classical linear regression model.

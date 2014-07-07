@@ -1,2 +1,0 @@
-Introduction to Complex Analysis -- Mathematics (MATH)185[4units]
-Description: Analytic functions of a complex variable. Cauchy's integral theorem, power series, Laurent series, singularities of analytic functions, the residue theorem with application to definite integrals. Some additional topics such as conformal mapping.

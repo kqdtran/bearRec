@@ -1,2 +1,0 @@
-Introduction to Statistics -- Statistics (STAT)2[4units]
-Description: Population and variables. Standard measures of location, spread and association. Normal approximation. Regression. Probability and sampling. Binomial distribution. Interval estimation. Some standard significance tests.

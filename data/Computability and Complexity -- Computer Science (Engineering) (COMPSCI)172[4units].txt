@@ -1,2 +1,0 @@
-Computability and Complexity -- Computer Science (Engineering) (COMPSCI)172[4units]
-Description: Finite automata, Turing machines and RAMs. Undecidable, exponential, and polynomial-time problems. Polynomial-time equivalence of all reasonable models of computation. Nondeterministic Turing machines. Theory of NP-completeness: Cook's theorem, NP-completeness of basic problems. Selected topics in language theory, complexity and randomness.

@@ -1,2 +1,0 @@
-Combustion -- Mechanical Engineering (MEC ENG)256[3units]
-Description: Combustion modeling. Multicomponent conservation equations with reactions. Laminar and turbulent deflagrations. Rankine-Hugoniot relations. Diffusion flames. Boundary layer combustion, ignition, and stability.

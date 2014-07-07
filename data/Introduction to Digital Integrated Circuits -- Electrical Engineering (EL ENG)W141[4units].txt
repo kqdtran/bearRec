@@ -1,2 +1,0 @@
-Introduction to Digital Integrated Circuits -- Electrical Engineering (EL ENG)W141[4units]
-Description: Digital design using deep sub-micron CMOS. CMOS devices and manufacturing. Inverters, complex gates. Modeling of interconnect. Optimization of designs with respect to cost, reliabilty, performance, and power dissipation. Sequential circuits, timing considerations, and clocking approaches. Design of large functional blocks such as arithmetic and memories. Introduction to design methodologies, hands-on experience.

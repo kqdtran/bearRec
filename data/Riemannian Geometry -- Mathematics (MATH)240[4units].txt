@@ -1,2 +1,0 @@
-Riemannian Geometry -- Mathematics (MATH)240[4units]
-Description: Riemannian metric and Levi-Civita connection, geodesics and completeness, curvature, first and second variations of arc length. Additional topics such as the theorems of Myers, Synge, and Cartan-Hadamard, the second fundamental form, convexity and rigidity of hypersurfaces in Euclidean space, homogeneous manifolds, the Gauss-Bonnet theorem, and characteristic classes.

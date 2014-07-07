@@ -1,2 +1,0 @@
-Dynamic Game Theory and Applications -- Ph.D. In Business Administration (PHDBA)239E[3units]
-Description: This course focuses on repeated games and optimal mechanism design, with an emphasis on dynamics. The course presents a mix of pure theory and applications from many economics-related fields, particularly finance, macroeconomics and bargaining.

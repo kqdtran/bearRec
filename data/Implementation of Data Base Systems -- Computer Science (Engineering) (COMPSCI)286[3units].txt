@@ -1,2 +1,0 @@
-Implementation of Data Base Systems -- Computer Science (Engineering) (COMPSCI)286[3units]
-Description: Implementation of data base systems on modern hardware systems. Considerations concerning operating system design, including buffering, page size, prefetching, etc. Query processing algorithms, design of crash recovery and concurrency control systems. Implementation of distributed data bases and data base machines.

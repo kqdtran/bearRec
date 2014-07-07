@@ -1,2 +1,0 @@
-Quantum and Nonlinear Optics -- Physics (PHYSICS)130[3units]
-Description: Detailed theory and experimental basis of quantum and nonlinear optics, exhibiting concepts of quantum measurement, noise, stochastic processes and dissipative quantum systems. Topics include second-quantization of electromagnetic fields, photodetection, coherence properties, light-atom interactions, cavity quantum electrodynamics, nonlinear optical systems, squeezed light, aspects of quantum information science, and contemporary research.

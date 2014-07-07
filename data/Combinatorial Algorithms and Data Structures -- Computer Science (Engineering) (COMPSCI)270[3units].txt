@@ -1,2 +1,0 @@
-Combinatorial Algorithms and Data Structures -- Computer Science (Engineering) (COMPSCI)270[3units]
-Description: Design and analysis of efficient algorithms for combinatorial problems. Network flow theory, matching theory, matroid theory; augmenting-path algorithms; branch-and-bound algorithms; data structure techniques for efficient implementation of combinatorial algorithms; analysis of data structures; applications of data structure techniques to sorting, searching, and geometric problems.

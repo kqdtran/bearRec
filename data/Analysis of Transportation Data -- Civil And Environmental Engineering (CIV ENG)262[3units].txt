@@ -1,2 +1,0 @@
-Analysis of Transportation Data -- Civil And Environmental Engineering (CIV ENG)262[3units]
-Description: Probabilistic models in transportation. The use of field data. Data gathering techniques, sources of errors, considerations of sample size. Experiment design for demand forecasting and transportation operations analysis. Analysis techniques.

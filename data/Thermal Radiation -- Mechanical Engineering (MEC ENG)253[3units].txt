@@ -1,2 +1,0 @@
-Thermal Radiation -- Mechanical Engineering (MEC ENG)253[3units]
-Description: Thermal radiation properties of gases, liquids, and solids; the calculation of radiant energy transfer.

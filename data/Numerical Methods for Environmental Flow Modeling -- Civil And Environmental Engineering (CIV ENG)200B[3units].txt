@@ -1,2 +1,0 @@
-Numerical Methods for Environmental Flow Modeling -- Civil And Environmental Engineering (CIV ENG)200B[3units]
-Description: Introduction to numerical methods with application to environmental flows (atmospheric, surface water, and subsurface flows). Scalar advection/ diffusion equations used to study finite difference schemes, numerical errors and stability. Methods introduced for solving Navier-Stokes equations and for turbulence modeling with Reynolds-averaging and large-eddy simulation. Basic programming skills required for hands-on exercises.

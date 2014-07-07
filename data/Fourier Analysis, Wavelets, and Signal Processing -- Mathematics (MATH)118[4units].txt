@@ -1,2 +1,0 @@
-Fourier Analysis, Wavelets, and Signal Processing -- Mathematics (MATH)118[4units]
-Description: Introduction to signal processing including Fourier analysis and wavelets. Theory, algorithms, and applications to one-dimensional signals and multidimensional images.

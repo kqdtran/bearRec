@@ -1,2 +1,0 @@
-Advanced Cartographic Methods: GIS for Cartographers -- Geography (GEOG)187[5units]
-Description: Advanced cartographic methods will focus primarily on data acquisition, manipulation, analysis, and representation using GIS software and vector-based illustration software, in the service of geographical analysis. Some field research will be required.

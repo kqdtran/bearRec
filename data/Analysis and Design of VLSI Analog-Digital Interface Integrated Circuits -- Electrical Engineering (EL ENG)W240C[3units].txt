@@ -1,2 +1,0 @@
-Analysis and Design of VLSI Analog-Digital Interface Integrated Circuits -- Electrical Engineering (EL ENG)W240C[3units]
-Description: Architectural and circuit level design and analysis of integrated analog-to-digital and digital-to-analog interfaces in modern CMOS and BiCMOS VLSI technology. Analog-digital converters, digital-analog converters, sample/hold amplifiers, continuous and switched-capacitor filters. Low power mixed signal design techniques. Data communications systems including interface circuity. CAD tools for analog design for simulation and synthesis.

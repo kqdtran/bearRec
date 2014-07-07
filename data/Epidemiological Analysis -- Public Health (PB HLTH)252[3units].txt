@@ -1,2 +1,0 @@
-Epidemiological Analysis -- Public Health (PB HLTH)252[3units]
-Description: This course consists of two distinct components: (1) advanced treatment of epidemiologic methods: matched data, spatial analysis, logistic and Poisson regression models; (2) survival analysis: Kaplan-Meier estimation, survival distributions, parametric and semi-parametric survival analysis models. Students are encouraged to concurrently enroll in 248L which carries the prerequisite of a working knowledge of the statistical computing language R.

@@ -1,2 +1,0 @@
-Introduction to Continuum Mechanics -- Mechanical Engineering (MEC ENG)185[3units]
-Description: Kinematics of deformation, the concept of stress, conservation of mass and balance of linear momentum, angular momentum and energy. Mechanical constitutive equations for ideal fluid, linear elastic solid.

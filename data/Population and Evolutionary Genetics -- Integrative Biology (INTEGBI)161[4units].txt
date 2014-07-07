@@ -1,2 +1,0 @@
-Population and Evolutionary Genetics -- Integrative Biology (INTEGBI)161[4units]
-Description: Population genetics provides the theoretical foundation for modern evolutionary thinking. It also provides a basis for understanding genetic variation within populations. We will study population genetic theory and use it to illuminate a number of different topics, including the existence of sex, altruism and cooperation, genome evolution speciation, and human genetic variation and evolution.

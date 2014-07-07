@@ -1,2 +1,0 @@
-Advanced Marine Structures I -- Mechanical Engineering (MEC ENG)240A[3units]
-Description: This course introduces a probabilistic description of ocean waves and wave loads acting on marine structures. These topics are followed with discussion of structural strength and reliability analysis.

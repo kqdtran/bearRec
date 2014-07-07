@@ -1,2 +1,0 @@
-Geometric Optics -- Vision Science (VIS SCI)203A[4units]
-Description: Geometrical methods applied to the optics of lenses, mirrors, and prisms. Thin lens eye models, magnification, astigmatism, prism properties of lenses, thick lenses.

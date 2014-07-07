@@ -1,2 +1,0 @@
-Linear System Theory -- Electrical Engineering (EL ENG)221A[4units]
-Description: Basic system concepts; state-space and I/O representation. Properties of linear systems. Controllability, observability, minimality, state and output-feedback. Stability. Observers. Characteristic polynomial. Nyquist test.

@@ -1,2 +1,0 @@
-The Classical Geometries -- Mathematics (MATH)130[4units]
-Description: A critical examination of Euclid's Elements; ruler and compass constructions; connections with Galois theory; Hilbert's axioms for geometry, theory of areas, introduction of coordinates, non-Euclidean geometry, regular solids, projective geometry.

@@ -1,2 +1,0 @@
-Advanced Dynamics -- Physics (PHYSICS)205B[4units]
-Description: Continuous systems, dissipative systems. Attractors. Emphasis on recent developments, including turbulence.

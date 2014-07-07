@@ -1,2 +1,0 @@
-Topics in Theoretical Statistics -- Statistics (STAT)212A[3units]
-Description: This course introduces the student to topics of current research interest in theoretical statistics. Recent topics include information theory, multivariate analysis and random matrix theory, high-dimensional inference. Typical topics have been model selection; empirical and point processes; the bootstrap, stochastic search, and Monte Carlo integration; information theory and statistics; semi- and non-parametric modeling; time series and survival analysis.

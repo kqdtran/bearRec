@@ -1,2 +1,0 @@
-Model Predictive Control -- Mechanical Engineering (MEC ENG)190M[1units]
-Description: Basics on optimization and polyhedra manipulation. Analysis and design of constrained predictive controllers for linear and nonlinear systems.

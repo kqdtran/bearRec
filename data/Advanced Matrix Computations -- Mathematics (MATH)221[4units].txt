@@ -1,2 +1,0 @@
-Advanced Matrix Computations -- Mathematics (MATH)221[4units]
-Description: Direct solution of linear systems, including large sparse systems: error bounds, iteration methods, least square approximation, eigenvalues and eigenvectors of matrices, nonlinear equations, and minimization of functions.

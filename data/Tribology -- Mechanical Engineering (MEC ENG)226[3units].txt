@@ -1,2 +1,0 @@
-Tribology -- Mechanical Engineering (MEC ENG)226[3units]
-Description: Surface interactions. Fundamentals of contact mechanics. Friction theories. Types of measurement of wear. Response of materials to surface tractions. Plastic deformation, void/crack nucleation and crack propagation. Delamination wear. Microstructural effects in wear processes. Mechanics of layered media. Solid film and boundary liquid film lubrication. Friction and wear of polymers and fiber-reinforced polymeric composites. Brief introduction to metal cutting and tool wear mechanisms.

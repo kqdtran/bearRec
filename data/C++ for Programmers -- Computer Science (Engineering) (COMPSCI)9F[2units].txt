@@ -1,2 +1,0 @@
-C++ for Programmers -- Computer Science (Engineering) (COMPSCI)9F[2units]
-Description: Self-paced introduction to the constructs provided in the C++ programming language for procedural and object-oriented programming, aimed at students who already know how to program.

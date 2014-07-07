@@ -1,2 +1,0 @@
-Irradiation Effects in Nuclear Materials -- Nuclear Engineering (NUC ENG)220[3units]
-Description: Physical aspects and computer simulation of radiation damage in metals. Void swelling and irradiation creep. Mechanical analysis of structures under irradiation. Sputtering, blistering, and hydrogen behavior in fusion reactor materials.

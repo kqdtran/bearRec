@@ -1,2 +1,0 @@
-Radiation Biophysics and Dosimetry -- Nuclear Engineering (NUC ENG)162[3units]
-Description: Interaction of radiation with matter; physical, chemical, and biological effects of radiation on human tissues; dosimetry units and measurements; internal and external radiation fields and dosimetry; radiation exposure regulations; sources of radiation and radioactivity; basic shielding concepts; elements of radiation protection and control; theories and models for cell survival, radiation sensitivity, carcinogenesis, and dose calculation.

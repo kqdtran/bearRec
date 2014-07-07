@@ -1,2 +1,0 @@
-Introduction to Cognitive Science -- Cognitive Science (COG SCI)1[4units]
-Description: This course introduces the interdisciplinary field of cognitive science. Lectures and readings will survey research from artificial intelligence, pyschology, linguistics, philosophy, and neuroscience, and will cover topics such as the nature of knowledge, thinking, remembering, vision, imagery, language, and consciousness. Sections will demonstrate some of the major methodologies.

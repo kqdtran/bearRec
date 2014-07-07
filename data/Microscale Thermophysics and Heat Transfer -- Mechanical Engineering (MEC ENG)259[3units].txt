@@ -1,2 +1,0 @@
-Microscale Thermophysics and Heat Transfer -- Mechanical Engineering (MEC ENG)259[3units]
-Description: This course introduces advanced statistical thermodynamics, nonequilibrium thermodynamics, and kinetic theory concepts used to analyze thermophysics of microscale systems and explores applications in which microscale transport plays an important role.

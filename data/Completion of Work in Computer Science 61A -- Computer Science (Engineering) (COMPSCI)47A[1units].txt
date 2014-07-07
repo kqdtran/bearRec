@@ -1,2 +1,0 @@
-Completion of Work in Computer Science 61A -- Computer Science (Engineering) (COMPSCI)47A[1units]
-Description: Implementation of generic operations. Streams and iterators. Implementation techniques for supporting functional, object-oriented, and constraint-based programming in the Scheme programming language. Together with 9D, 47A constitutes an abbreviated, self-paced version of 61A for students who have already taken a course equivalent to 61B.

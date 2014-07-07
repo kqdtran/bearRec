@@ -1,2 +1,0 @@
-Analytic Mechanics -- Physics (PHYSICS)105[4units]
-Description: Newtonian mechanics, motion of a particle in one, two, and three dimensions, Larange's equations, Hamilton's equations, central force motion, moving coordinate systems, mechanics of continuous media, oscillations, normal modes, rigid body dynamics, tensor analysis techniques.

@@ -1,2 +1,0 @@
-Research Group in Multilevel Modeling -- Education (EDUC)275H[1,2units]
-Description: Multilevel models are useful when the units of observation are grouped in clusters such as students in schools, patients in hospitals, or prisoners in prisons. The research group is for students who wish to analyze such data or who have an interest in the methodology. In each meeting, we will either discuss students' ongoing research projects, or a methodological topic of interest. Readings (papers, chapters, drafts of student projects) will be distributed a week in advance.

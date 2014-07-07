@@ -1,2 +1,0 @@
-Linear Algebra -- Mathematics (MATH)110[4units]
-Description: Matrices, vector spaces, linear transformations, inner products, determinants. Eigenvectors. QR factorization. Quadratic forms and Rayleigh's principle. Jordan canonical form, applications. Linear functionals.

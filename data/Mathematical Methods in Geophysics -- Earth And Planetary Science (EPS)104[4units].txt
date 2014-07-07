@@ -1,2 +1,0 @@
-Mathematical Methods in Geophysics -- Earth And Planetary Science (EPS)104[4units]
-Description: Linear systems. Linear inverse problems, least squares; generalized inverse, resolution; Fourier series, integral transforms; time series analysis, spherical harmonics; partial differntial equations of geophysics; functions of a complex variable; probability and significance tests, maximum likelihood methods. Intended for students in geophysics and other physical sciences.

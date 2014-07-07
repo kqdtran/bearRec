@@ -1,2 +1,0 @@
-Finite Difference Methods for Fluid Dynamics -- Engineering (ENGIN)266A[4units]
-Description: Application of finite difference methods to current problems of fluid dynamics, including compressible and incompressible flow. Sponsoring department: Mechanical Engineering.

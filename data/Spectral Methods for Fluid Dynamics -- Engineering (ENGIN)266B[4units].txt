@@ -1,2 +1,0 @@
-Spectral Methods for Fluid Dynamics -- Engineering (ENGIN)266B[4units]
-Description: Application of spectral methods to current problems of fluid dynamics, including compressible and incompressible flow. Sponsoring department: Mechanical Engineering.

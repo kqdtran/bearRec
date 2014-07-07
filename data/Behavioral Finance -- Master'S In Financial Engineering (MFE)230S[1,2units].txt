@@ -1,2 +1,0 @@
-Behavioral Finance -- Master'S In Financial Engineering (MFE)230S[1,2units]
-Description: Over the last 25 years, psychologists have come to better understand the processes by which people make judgements and decisions. They have identified common judgement and decision heuristics and the biases associated with these. An understanding of one's own decision biases and those of others is an important tool for managers. Behavioral Decision Theory has also contributed to our understanding of financial markets. This course will discuss the common biases and heuristics.

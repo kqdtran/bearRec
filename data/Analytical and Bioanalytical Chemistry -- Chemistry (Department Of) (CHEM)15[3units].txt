@@ -1,2 +1,0 @@
-Analytical and Bioanalytical Chemistry -- Chemistry (Department Of) (CHEM)15[3units]
-Description: An introduction to analytical and bioanalytical chemistry including background in statistical analysis of data, acid-base equilibria, electroanalytical potentiometry, spectrometric, and chromatographic methods of analysis and some advanced topics in bioanalytical chemistry such as micro-fluidics, bioassay techniques, and enzymatic biosensors.

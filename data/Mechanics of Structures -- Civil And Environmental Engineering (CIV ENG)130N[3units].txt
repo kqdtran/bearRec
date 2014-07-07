@@ -1,2 +1,0 @@
-Mechanics of Structures -- Civil And Environmental Engineering (CIV ENG)130N[3units]
-Description: Elastic and plastic stress and deformation analysis of bars, shafts, beams, and columns; energy and variational methods; plastic analysis of structures; stability analysis of structures; computer-aided mathematical techniques for solution of engineering problems and modular computer programming methods.

@@ -1,2 +1,0 @@
-Computer-Aided Geometric Design and Modeling -- Computer Science (Engineering) (COMPSCI)283B[3units]
-Description: Mathematical techniques for curve and surface representation, including: Hermite interpolation, interpolatory splines, tensed splines, Bezier curves and surfaces, B-splines, Beta-splines, Coons patches, tensor product forms, as well as subdivision end/bounding conditions, and computational considerations.

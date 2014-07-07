@@ -1,2 +1,0 @@
-Integrated-Circuit Devices -- Electrical Engineering (EL ENG)130[4units]
-Description: Overview of electronic properties of semiconductor. Metal-semiconductor contacts, pn junctions, bipolar transistors, and MOS field-effect transistors. Properties that are significant to device operation for integrated circuits. Silicon device fabrication technology.
